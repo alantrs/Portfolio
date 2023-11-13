@@ -30,7 +30,6 @@ Esse foi o primeiro projeto que tive contato com programação. Fui responsável
 ## Aprendizados efetivos
 
 Aprendi a introdução aos algoritmos com Python, noções de versionamento de código com git. Também aprendi a introdução de metodlogias ágeis no desenvolvimento.
-
 <br>
 <details>
 <summary>Algoritmos</summary>
