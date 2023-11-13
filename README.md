@@ -408,7 +408,6 @@ Com o uso do HTML, CSS e JavaScript, foi possível criar uma interface amigável
 ## Contribuições pessoais
 
 Fui o administrador do banco de dados da equipe em conjunto com a função de Scrum master. Como DBA desenvolvi desde a modelagem de dados até a criação da base de dados completa. Como scrum master fui responsável por garantir que o processo Scrum estivesse sendo seguido corretamente e que a equipe estivesse funcionando de maneira eficaz e produtiva.
-
 <br>
     <details>
 <summary>Modelagem do banco de dados.</summary>
