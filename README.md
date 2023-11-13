@@ -50,7 +50,7 @@ Este projeto visa gerenciar a ativação de clientes na plataforma Dom Rock. A s
 
 ## Contribuições pessoais
 
-Fui o administrador do banco de dados da equipe. Desenvolvi a modelagem de dados e a criação da base de dados por completo. Ajudei a equipe de backend sendo solicitado por melhorias promovendo a maior facilidade para manipulação dos dados.
+Fui o administrador do banco de dados da equipe. Desenvolvi a modelagem de dados e a criação da base de dados por completo. Ajudei a equipe de backend sendo solicitado por melhorias na distribuição dos dados promovendo a maior facilidade para manipulação dos mesmos.
 
 <br>
     <details>
@@ -332,6 +332,22 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
 
 ## Aprendizados efetivos
 
+Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados e tranforma-la em script SQL. Aprendi alguns comandos básicos para trabalhar com versionamento de código com Git.
+
+<details>
+  <summary>Modelagem de dados</summary>
+  <ul>
+    <li>Estrutura do banco, distribuição das tabelas</li>
+  </ul>
+ </details>
+
+ <details>
+  <summary>Versionamento de código</summary>
+  <ul>
+    <li>Comandos básicos: git add, git commit, git pull, git push</li>
+    <Li>Criar branches</Li>
+  </ul>
+ </details>
 
 
 # Projeto 3: Terceiro semestre
@@ -520,7 +536,8 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
   <summary>Modelagem de dados</summary>
   <ul>
     <li>Estrutura do banco, distribuição das tabelas</li>
-    <li>Evitar redundâncias</li>
+    <li>Normalização</li>
+    <Li>Constraints</Li>
   </ul>
  </details>
 <details>
