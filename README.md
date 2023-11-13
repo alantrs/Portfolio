@@ -362,6 +362,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
 
 <details>
   <summary>Modelagem de dados</summary>
+    <br>
   <ul>
     <li>Estrutura do banco, distribuição das tabelas</li>
     <Li>Cardinalidade</Li>
@@ -370,6 +371,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
 
  <details>
   <summary>Versionamento de código</summary>
+     <br>
   <ul>
     <li>Comandos básicos: git add, git commit, git pull, git push</li>
     <Li>Criar branches</Li>
@@ -561,6 +563,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 
 <details>
   <summary>Modelagem de dados</summary>
+    <br>
   <ul>
     <li>Estrutura do banco, distribuição das tabelas</li>
     <li>Normalização</li>
@@ -569,6 +572,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
  </details>
 <details>
   <summary>SQL</summary>
+    <br>
   <ul>
     <li>DDL (Data Definition Language)</li>
     <li>DML (Data Manipulation Language)</li>
@@ -577,6 +581,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
  </details>
  <details>
   <summary>Administração do PostgreSQL</summary>
+     <br>
   <ul>
     <li>Política de backup</li>
     <li>Criação de usuário</li>
