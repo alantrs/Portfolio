@@ -38,6 +38,7 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
 <Li>Lógica de programação</Li>
 <Li>Definir variáveis</Li>
 <Li>Estrutura de condicionais</Li>
+<Li>Input e output de dados</Li>
 </Ul>
 </details>
 
@@ -76,7 +77,6 @@ Este projeto visa gerenciar a ativação de clientes na plataforma Dom Rock. A s
 ## Contribuições pessoais
 
 Fui o administrador do banco de dados da equipe. Desenvolvi a modelagem de dados e a criação da base de dados por completo. Ajudei a equipe de backend sendo solicitado por melhorias na distribuição dos dados promovendo a maior facilidade para manipulação dos mesmos.
-
 <br>
     <details>
 <summary>Modelagem do banco de dados</summary>
@@ -129,14 +129,6 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
     ALTER TABLE public.produto
         OWNER to postgres;
     
-    
-    INSERT INTO public.produto (solucao, nome_produto, id_produto) VALUES ('Nxt.Demand', 'Vox', 1);
-    INSERT INTO public.produto (solucao, nome_produto, id_produto) VALUES ('Nxt.Demand', 'Marketing&Planning', 2);
-    INSERT INTO public.produto (solucao, nome_produto, id_produto) VALUES ('Nxt.Demand', 'Sales&Distribution', 3);
-    INSERT INTO public.produto (solucao, nome_produto, id_produto) VALUES ('Nxt.Demand', 'Pricing', 4);
-    INSERT INTO public.produto (solucao, nome_produto, id_produto) VALUES ('Nxt.Operations', 'Optimization', 5);
-    INSERT INTO public.produto (solucao, nome_produto, id_produto) VALUES ('Nxt.Operations', 'Matching&Risk', 6);
-    
     CREATE TABLE public.funcionalidade
     (
         id_funcionalidade serial NOT NULL,
@@ -153,13 +145,6 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
     ALTER TABLE public.funcionalidade
         OWNER to postgres;
     	
-    
-    INSERT INTO public.funcionalidade (id_funcionalidade, nome_funcionalidade) VALUES (1,'Gerador de DataLake');
-    INSERT INTO public.funcionalidade (id_funcionalidade, nome_funcionalidade) VALUES (2,'Busca por LNP');
-    INSERT INTO public.funcionalidade (id_funcionalidade, nome_funcionalidade) VALUES (3,'Ingestão Automatizada');
-    INSERT INTO public.funcionalidade (id_funcionalidade, nome_funcionalidade) VALUES (4,'Painéis, gráficos e relatórios');
-    
-    
     CREATE TABLE public.core
     (
         id_core serial NOT NULL,
@@ -176,21 +161,6 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
     
     ALTER TABLE public.core
         OWNER to postgres;
-    	
-    
-    INSERT INTO public.core (id_core, nome_core) VALUES (1,'Web App');
-    INSERT INTO public.core (id_core, nome_core) VALUES (2,'API Gateway');
-    INSERT INTO public.core (id_core, nome_core) VALUES (3,'Filas');
-    INSERT INTO public.core (id_core, nome_core) VALUES (4,'Step Function');
-    INSERT INTO public.core (id_core, nome_core) VALUES (5,'Lambda');
-    INSERT INTO public.core (id_core, nome_core) VALUES (6,'Fargate');
-    INSERT INTO public.core (id_core, nome_core) VALUES (7,'Containers');
-    INSERT INTO public.core (id_core, nome_core) VALUES (8,'S3');
-    INSERT INTO public.core (id_core, nome_core) VALUES (9,'MongoDB');
-    INSERT INTO public.core (id_core, nome_core) VALUES (10,'Parquet');
-    INSERT INTO public.core (id_core, nome_core) VALUES (11,'QuickSight');
-    INSERT INTO public.core (id_core, nome_core) VALUES (12,'CloudWatch');
-    
     
     CREATE TABLE public.origem_dado
     (
@@ -207,11 +177,6 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
     
     ALTER TABLE public.origem_dado
         OWNER to postgres;
-    	
-    INSERT INTO public.origem_dado (id_origem, nome_origem) VALUES (1,'API');
-    INSERT INTO public.origem_dado (id_origem, nome_origem) VALUES (2,'SFTP');
-    INSERT INTO public.origem_dado (id_origem, nome_origem) VALUES (3,'Upload');
-    
     
     CREATE TABLE public.formato
     (
@@ -229,16 +194,6 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
     ALTER TABLE public.formato
         OWNER to postgres;
     
-    INSERT INTO public.formato (id_formato, nome_formato) VALUES (1,'JSON');
-    INSERT INTO public.formato (id_formato, nome_formato) VALUES (2,'CSV');
-    INSERT INTO public.formato (id_formato, nome_formato) VALUES (3,'Planilhas');
-    INSERT INTO public.formato (id_formato, nome_formato) VALUES (4,'Tabelas');
-    INSERT INTO public.formato (id_formato, nome_formato) VALUES (5,'PDF');
-    INSERT INTO public.formato (id_formato, nome_formato) VALUES (6,'Áudio');
-    INSERT INTO public.formato (id_formato, nome_formato) VALUES (7,'Texto');
-    
-    
-    
     CREATE TABLE public.sistema
     (
         id_sistema serial NOT NULL,
@@ -254,10 +209,6 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
     
     ALTER TABLE public.sistema
         OWNER to postgres;
-    	
-    INSERT INTO public.sistema (id_sistema, nome_sistema) VALUES (1,'ERP');
-    INSERT INTO public.sistema (id_sistema, nome_sistema) VALUES (2,'Vendas');
-    INSERT INTO public.sistema (id_sistema, nome_sistema) VALUES (3,'Outros');
     
     CREATE TABLE public.cadastro_escopo
     (
@@ -316,7 +267,6 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
     ALTER TABLE public.usuario
         OWNER to postgres;
     
-    INSERT INTO public.usuario (id, usuario, senha, nivelacesso) VALUES (1, 'admin', '123', 'Administrador');
     
     CREATE TABLE public.silver
     (
@@ -365,6 +315,9 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
   <ul>
     <li>Estrutura do banco, distribuição das tabelas</li>
     <Li>Cardinalidade</Li>
+    <Li>Modelo conceitual, Modelo lógico e Modelo físico</Li>
+    <Li>Criar script</Li>
+    <Li>Realizar querys</Li>
   </ul>
  </details>
 
