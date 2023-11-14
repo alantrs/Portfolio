@@ -640,6 +640,28 @@ No caso deste projeto, o objetivo da modelagem de dados foi representar os dados
 <summary>Triggers</summary>
 </details>
 
+
+<details>
+<br>
+<summary>Views</summary>
+
+Essa view retorna um caminho hierarquico das lógicas, facilitando o tratamento para o backend, onde é possivel definir uma entrada (buscando a dependencia ou buscando pelo nivel) para recuperar a lógica de aplicação de um determinado item.
+
+    ```SQL
+    -- view que retorna o caminho hierarquico das logicas
+    CREATE OR REPLACE VIEW v_hierarquia AS SELECT id_logica, logica_boletim.id_Item, ITEM.NOME, input1, operacao,  input2, dependencia,  LEVEL AS nivel, 
+    CONNECT_BY_ROOT(ID_logica) AS no_raiz, SYS_CONNECT_BY_PATH(ID_logica, '/') AS caminho_hierarquia
+    FROM Logica_Boletim
+    JOIN item ON logica_boletim.id_item = item.id_item
+    START WITH dependencia IS NULL
+    CONNECT BY PRIOR ID_logica = dependencia;
+
+    ```
+    </details>
+
+
+
+
 ## Aprendizados efetivos
 
 Esse projeto de proprorcionou diversos aprendizados sobre topicos avançados em relação a banco de dados. 
