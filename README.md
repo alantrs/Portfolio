@@ -610,7 +610,7 @@ Essa view retorna um caminho hierarquico das lógicas, facilitando o tratamento 
     CONNECT BY PRIOR ID_logica = dependencia;
 
     ```
-    </details>
+</details>
 
 
 
