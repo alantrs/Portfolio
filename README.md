@@ -79,7 +79,7 @@ Fui o administrador do banco de dados da equipe. Desenvolvi a modelagem de dados
 
 <br>
     <details>
-<summary>Modelagem do banco de dados.</summary>
+<summary>Modelagem do banco de dados</summary>
 <br>
         
 Nesse projeto, o objetivo da modelagem de dados foi representar os dados inseridos pelo cliente e como seria distribuido na nossa base. Utilizou-se o Modelo Entidade-Relacionamento (MER) como uma representação visual para entender a distribuição das tabelas com seus atributos e relacionamento entre elas.
@@ -619,7 +619,30 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 
 ## Contribuições pessoais
 
+Nesse projeto fui novamente o DBA da equipe. Desenvolvi toda estrutura da base de dados, configurei a regra de negócio na propria base. Apliquei funções e procedures para tratamento da logica de instalação de itens em uma aeronave. Apliquei o uso de triggers para fins de auditoria para captar eventos. Apliquei o uso de views para visualização de dados.
+<br>
+    <details>
+<summary>Modelagem do banco de dados</summary>
+<br>
+
+No caso deste projeto, o objetivo da modelagem de dados foi representar os dados de boletins de serviço, itens e chassi. Utilizou-se o Modelo Entidade-Relacionamento (MER) como uma representação visual para entender a distribuição das tabelas com seus atributos e relacionamento entre elas.
+
+![Modelagem do banco de dados](https://github.com/alantrs/Bertoti/blob/7f11e2e448aaac2afb7da5aab6d272305d2051aa/metodologia/Imagens/diagrama-embraer.jpg)
+</details>
+
+<details>
+<br>
+<summary>Funções e procedures</summary>
+</details>
+
+<details>
+<br>
+<summary>Triggers</summary>
+</details>
+
 ## Aprendizados efetivos
+
+Esse projeto de proprorcionou diversos aprendizados sobre topicos avançados em relação a banco de dados. 
  
 
 
