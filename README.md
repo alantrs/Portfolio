@@ -331,14 +331,14 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
 Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados, definir cardinalidades e tranformar o modelo conceitual em script SQL. Aprendi alguns comandos básicos para trabalhar com versionamento de código com Git.
 
 <details>
-  <summary>Modelagem de dados</summary>
+  <summary>Banco de dados</summary>
     <br>
   <ul>
     <li>Estrutura do banco, distribuição das tabelas</li>
     <Li>Cardinalidade</Li>
     <Li>Modelo conceitual, Modelo lógico e Modelo físico</Li>
     <Li>Criar script</Li>
-    <Li>Realizar querys</Li>
+    <Li>Realizar querys simples</Li>
   </ul>
  </details>
 
@@ -534,12 +534,13 @@ CREATE TABLE vento (
 Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD PostgreSQL, e aprofundei meus conhecimentos em SQL incluindo comandos DDL, DML e DCL. Como Scrum Master, desenvolvi habilidades valiosas em liderança, facilitação do processo Scrum, remoção de impedimentos, comunicação, feedback e melhoria contínua.
 
 <details>
-  <summary>Modelagem de dados</summary>
+  <summary>Modeloagem de dados</summary>
     <br>
   <ul>
-    <li>Estrutura do banco, distribuição das tabelas</li>
+    <li>Estrutura do banco</li>
     <li>Normalização</li>
     <Li>Constraints</Li>
+    <Li></Li>
   </ul>
  </details>
 <details>
@@ -549,6 +550,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
     <li>DDL (Data Definition Language)</li>
     <li>DML (Data Manipulation Language)</li>
     <li>DCL (Data Control Language)</li>
+    <Li>Querys com joins e funções de agrupamento</Li>
   </ul>
  </details>
  <details>
