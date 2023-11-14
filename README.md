@@ -609,6 +609,33 @@ No caso deste projeto, o objetivo da modelagem de dados foi representar os dados
 <details>
 <br>
 <summary>Funções e procedures</summary>
+
+    ```SQL
+    CREATE OR REPLACE PROCEDURE verificar_e_inserir_instalacao_fabrica AS
+      v_chassi chassi.id_chassi%TYPE;
+      v_item logica_fabrica.id_item%TYPE;
+      v_instalado NUMBER;
+    BEGIN
+      FOR r_chassi IN (SELECT id_chassi FROM chassi) LOOP
+        FOR r_item IN (SELECT id_item FROM logica_fabrica) LOOP
+          v_instalado := verificar_instalacao_fabrica(r_chassi.id_chassi, r_item.id_item);
+             MERGE INTO chassi_item ci
+              USING (
+                SELECT r_chassi.id_chassi AS id_chassi, r_item.id_item AS id_item, v_instalado AS instalado
+                FROM dual
+              ) temp
+              ON (
+        ci.id_chassi = temp.id_chassi AND ci.id_item = temp.id_item
+      )
+      WHEN MATCHED THEN
+        UPDATE SET ci.instalado = temp.instalado
+      WHEN NOT MATCHED THEN
+        INSERT (id_chassi, id_item, instalado)
+        VALUES (temp.id_chassi, temp.id_item, temp.instalado);
+        END LOOP;
+      END LOOP;
+    END verificar_e_inserir_instalacao_fabrica;
+    /
 </details>
 
 <details>
