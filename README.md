@@ -614,6 +614,25 @@ No caso deste projeto, o objetivo da modelagem de dados foi representar os dados
 <details>
 <br>
 <summary>Triggers</summary>
+
+    ```SQL
+    CREATE OR REPLACE TRIGGER TRG_AUDIT_CHASSI_BOLETIM
+    AFTER UPDATE OF STATUS ON CHASSI_BOLETIM
+    FOR EACH ROW
+    DECLARE
+    V_ID_AUDITORIA INTEGER;
+    BEGIN
+    -- Gerar um novo ID de auditoria
+    SELECT SEQ_CHASSI_BOLETIM_AUDIT.NEXTVAL INTO V_ID_AUDITORIA FROM DUAL;
+
+    -- Inserir os dados na tabela de auditoria
+    INSERT INTO CHASSI_BOLETIM_AUDIT (ID_AUDITORIA, ID_CHASSI, ID_BOLETIM, STATUS_ANTERIOR, STATUS_NOVO, modificado_por)
+    VALUES (V_ID_AUDITORIA, :OLD.ID_CHASSI, :OLD.ID_BOLETIM, :OLD.STATUS, :NEW.STATUS, :NEW.MODIFICADO_POR);
+    END;
+    /
+    ```
+
+
 </details>
 
 
