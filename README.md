@@ -28,22 +28,24 @@ Pandemia Estruturada é um projeto desenvolvido pela Carcará Analysis, que tem 
 Esse foi o primeiro projeto que tive contato com programação. Fui responsável por auxiliar em tarefas em geral, como ajudar na definição do backlog, levantar requisitos, organizar o github, ajudar no desenvolvimento com python.
 <br>
 <details>
-<summary>Definicao backlog</summary>
-<br>
-<Ul>
-<Li>Levantamento e definicao de entregáveis</Li>
-<Li>Divisão de tasks</Li>
-</Ul>
+  <summary>Definição do Backlog</summary>
+  <br>
+  <ul>
+    <li>Levantamento e definição de entregáveis</li>
+    <li>Divisão de tasks</li>
+  </ul>
 </details>
+
 <details>
-<summary>Organizar github<summary>
-<br>
-<Ul>
-<Li>Arquitetar readme</Li>
-<Li>Inserir imagens</Li></Li>
-<Li>Criar cards</Li>
-</Ul>
+  <summary>Organizar GitHub</summary>
+  <br>
+  <ul>
+    <li>Arquitetar README</li>
+    <li>Inserir imagens</li>
+    <li>Criar cards</li>
+  </ul>
 </details>
+
 
 
 ## Aprendizados efetivos
