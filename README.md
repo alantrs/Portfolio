@@ -643,7 +643,45 @@ No caso deste projeto, o objetivo da modelagem de dados foi representar os dados
 ## Aprendizados efetivos
 
 Esse projeto de proprorcionou diversos aprendizados sobre topicos avançados em relação a banco de dados. 
- 
+
+
+  <details>
+  <summary>Configuração de conexão com Autonomous database</summary>
+     <br>
+  <ul>
+    <li>Criação da wallet de conexão</li>
+    <li>Liberação de consultas REST</li>
+  </ul>
+ </details>
+ <details>
+  <summary>Criação de funções e procedures com PL/SQL</summary>
+     <br>
+  <ul>
+    <li>Estrutura de uma função</li>
+    <li>Estrutura de uma procedure</li>
+    <Li>Como executar funções e procedures</Li>
+  </ul>
+ </details>
+
+  <details>
+  <summary>Uso de triggers</summary>
+     <br>
+  <ul>
+    <li>Estrutura de uma trigger</li>
+    <li>Utilização e vantagens</li>
+  </ul>
+ </details>
+
+   <details>
+  <summary>Uso de views</summary>
+     <br>
+  <ul>
+    <li>Estrutura de uma view</li>
+    <li>Utilização e vantagens</li>
+    <Li>View hierarquica no oracle</Li>
+  </ul>
+ </details>
+
 
 
 
