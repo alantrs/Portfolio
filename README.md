@@ -617,8 +617,9 @@ Essa view retorna um caminho hierarquico das lógicas, facilitando o tratamento 
 
 ## Aprendizados efetivos
 
-Esse projeto de proprorcionou diversos aprendizados sobre topicos avançados em relação a banco de dados. 
-
+Este projeto proporcionou a oportunidade de aprendizado sobre tópicos avançados em banco de dados. Durante o desenvolvimento, adquiri habilidades como a criação e execução de funções e procedimentos, o que me permitiu entender melhor a manipulação e gestão de dados.
+Tive a oportunidade de trabalhar com auditoria usando triggers, o que me deu uma visão mais profunda sobre a segurança e integridade dos dados. Além disso, a visualização de dados com views me permitiu entender como apresentar dados de uma maneira mais eficiente e eficaz.
+Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu desenvolver soluções mais robustas e eficientes.
 
   <details>
   <summary>Configuração de conexão com Autonomous database</summary>
