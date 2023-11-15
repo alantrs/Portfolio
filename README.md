@@ -71,8 +71,7 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
 <Li>Processos</Li>
 </Ul>
  </details>
-
-    
+<hr>
     
 # Projeto 2: Segundo semestre
 
@@ -212,6 +211,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
   </ul>
  </details>
 
+<hr>
 
 # Projeto 3: Terceiro semestre
 
@@ -409,6 +409,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
   </ul>
  </details>
 
+<hr>
 
 # Projeto 4: Quarto semestre
 
@@ -568,7 +569,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
   </ul>
  </details>
 
-
+<hr>
 
 
 
