@@ -182,145 +182,6 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
     
     ALTER TABLE public.core
         OWNER to postgres;
-    
-    CREATE TABLE public.origem_dado
-    (
-        id_origem serial NOT NULL,
-        nome_origem character varying COLLATE pg_catalog."default" NOT NULL,
-        CONSTRAINT origem_dado_pkey PRIMARY KEY (id_origem),
-        CONSTRAINT origem_dado_nome_origem_unique UNIQUE (nome_origem)
-    
-    )
-    WITH (
-        OIDS = FALSE
-    )
-    TABLESPACE pg_default;
-    
-    ALTER TABLE public.origem_dado
-        OWNER to postgres;
-    
-    CREATE TABLE public.formato
-    (
-        id_formato serial NOT NULL,
-        nome_formato character varying COLLATE pg_catalog."default" NOT NULL,
-        CONSTRAINT formato_pkey PRIMARY KEY (id_formato),
-        CONSTRAINT formato_nome_formato_unique UNIQUE (nome_formato)
-    
-    )
-    WITH (
-        OIDS = FALSE
-    )
-    TABLESPACE pg_default;
-    
-    ALTER TABLE public.formato
-        OWNER to postgres;
-    
-    CREATE TABLE public.sistema
-    (
-        id_sistema serial NOT NULL,
-        nome_sistema character varying COLLATE pg_catalog."default" NOT NULL,
-        CONSTRAINT sistema_pkey PRIMARY KEY (id_sistema),
-        CONSTRAINT sistema_nome_sistema_unique UNIQUE (nome_sistema)
-    
-    )
-    WITH (
-        OIDS = FALSE
-    )
-    TABLESPACE pg_default;
-    
-    ALTER TABLE public.sistema
-        OWNER to postgres;
-    
-    CREATE TABLE public.cadastro_escopo
-    (
-        id serial NOT NULL,
-        cnpj character varying(20) COLLATE pg_catalog."default" NOT NULL,
-        entregavel_min character varying(100) COLLATE pg_catalog."default" NOT NULL,
-        entregaveis_possi character varying(100) COLLATE pg_catalog."default" NOT NULL,
-        produto character varying(50) COLLATE pg_catalog."default" NOT NULL,
-        estrutura character varying(50) COLLATE pg_catalog."default" NOT NULL,
-        volume character varying(20) COLLATE pg_catalog."default" NOT NULL,
-        funcionalidade character varying(100) COLLATE pg_catalog."default" NOT NULL,
-        core character varying(20) COLLATE pg_catalog."default" NOT NULL,
-        CONSTRAINT cadastro_escopo_pkey PRIMARY KEY (id)
-    )
-    WITH (
-        OIDS = FALSE
-    )
-    TABLESPACE pg_default;
-    
-    ALTER TABLE public.cadastro_escopo
-        OWNER to postgres;
-    
-    
-    CREATE TABLE public.bronze
-    (
-        id_bronze serial NOT NULL,
-        cnpj character varying COLLATE pg_catalog."default" NOT NULL,
-        origem character varying COLLATE pg_catalog."default" NOT NULL,
-        formato character varying COLLATE pg_catalog."default" NOT NULL,
-        volume character varying COLLATE pg_catalog."default" NOT NULL,
-        frequencia character varying COLLATE pg_catalog."default" NOT NULL,
-        sistema character varying COLLATE pg_catalog."default" NOT NULL,
-        CONSTRAINT bronze_pkey PRIMARY KEY (id_bronze)
-    )
-    WITH (
-        OIDS = FALSE
-    )
-    TABLESPACE pg_default;
-    
-    ALTER TABLE public.bronze
-        OWNER to postgres;
-    
-    CREATE TABLE public.usuario
-    (
-        id serial NOT NULL,
-        usuario character varying(20) COLLATE pg_catalog."default" NOT NULL,
-        senha character varying(20) COLLATE pg_catalog."default" NOT NULL,
-        nivelacesso character varying(20) COLLATE pg_catalog."default" NOT NULL,
-        CONSTRAINT usuario_pkey PRIMARY KEY (id)
-    )
-    WITH (
-        OIDS = FALSE
-    )
-    TABLESPACE pg_default;
-    
-    ALTER TABLE public.usuario
-        OWNER to postgres;
-    
-    
-    CREATE TABLE public.silver
-    (
-        id_silver serial NOT NULL,
-        nomesilver character varying COLLATE pg_catalog."default",
-        status character varying COLLATE pg_catalog."default",
-        problema character varying COLLATE pg_catalog."default",
-        cnpjsilver character varying COLLATE pg_catalog."default",
-        CONSTRAINT silver_pkey PRIMARY KEY (id_silver)
-    )
-    WITH (
-        OIDS = FALSE
-    )
-    TABLESPACE pg_default;
-    
-    ALTER TABLE public.silver
-        OWNER to postgres;
-    
-    CREATE TABLE public.gold
-    (
-    	id serial NOT NULL,
-        tiposilver character varying COLLATE pg_catalog."default",
-        nomegold character varying COLLATE pg_catalog."default",
-        cnpj character varying COLLATE pg_catalog."default",
-        CONSTRAINT gold_pkey PRIMARY KEY (id)
-    )
-    WITH (
-        OIDS = FALSE
-    )
-    TABLESPACE pg_default;
-    
-    ALTER TABLE public.gold
-        OWNER to postgres;
 
     ```
     
@@ -384,10 +245,11 @@ Com o uso do HTML, CSS e JavaScript, foi possível criar uma interface amigável
 Fui o administrador do banco de dados da equipe em conjunto com a função de Scrum master. Como DBA desenvolvi desde a modelagem de dados até a criação da base de dados completa. Como scrum master fui responsável por garantir que o processo Scrum estivesse sendo seguido corretamente e que a equipe estivesse funcionando de maneira eficaz e produtiva.
 <br>
     <details>
-<summary>Modelagem do banco de dados.</summary>
+<summary>Modelagem do banco de dados</summary>
 <br>
 
 No caso deste projeto, o objetivo da modelagem de dados foi representar os dados meteorológicos, como temperatura, umidade e outros indicadores. Utilizou-se o Modelo Entidade-Relacionamento (MER) como uma representação visual para entender a distribuição das tabelas com seus atributos e relacionamento entre elas.
+<br>
 
 ![Modelagem do banco de dados](https://github.com/alantrs/Bertoti/blob/e19d9567debe132ef4387b306ba9451d048716cf/metodologia/Imagens/modelagem_img1.jpeg)
 </details>
@@ -397,36 +259,9 @@ No caso deste projeto, o objetivo da modelagem de dados foi representar os dados
       <summary>Implementação física do banco de dados (criar as tabelas, definir as colunas, os tipos de dados, as chaves primárias, as chaves estrangeiras e as restrições necessárias para cada tabela).</summary>
       <br>
     A implementação física é uma etapa fundamental na modelagem de dados, pois envolve a tradução do modelo conceitual em uma estrutura de dados real e eficiente para armazenar e processar os dados em um sistema de banco de dados. Ela é importante para garantir a eficiência, a integridade, a segurança e o desempenho do banco de dados, bem como sua escalabilidade e facilidade de manutenção.
+    <br>
     
 ```SQL
-    
-CREATE TABLE regiao (
-    regiao_id serial,
-    nome_regiao VARCHAR,
-    CONSTRAINT pk_regiao_id PRIMARY KEY (regiao_id),
-    CONSTRAINT unique_regiao UNIQUE (nome_regiao)
-);
-CREATE TABLE estado (
-    estado_id serial,
-    nome_estado VARCHAR,
-    fk_regiao_nome_regiao VARCHAR,
-    CONSTRAINT pk_estado_id PRIMARY KEY (estado_id),
-    CONSTRAINT fk_estado FOREIGN KEY (fk_regiao_nome_regiao)
-               REFERENCES regiao (nome_regiao),
-    CONSTRAINT unique_estado UNIQUE (nome_estado)
-);
-CREATE TABLE estacao (
-    nome_estacao VARCHAR,
-    cod_wmo VARCHAR,
-    latitude NUMERIC,
-    longitude VARCHAR,
-    altitude NUMERIC,
-    data_fundacao DATE,
-    fk_estado_nome_estado VARCHAR,
-    CONSTRAINT pk_cod_wmo PRIMARY KEY (cod_wmo),
-    CONSTRAINT fk_estacao FOREIGN KEY (fk_estado_nome_estado)
-               REFERENCES estado (nome_estado)	
-);
 CREATE TABLE precipitacao (
     prec_id serial,
     prec_data DATE,
@@ -534,13 +369,13 @@ CREATE TABLE vento (
 Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD PostgreSQL, e aprofundei meus conhecimentos em SQL incluindo comandos DDL, DML e DCL. Como Scrum Master, desenvolvi habilidades valiosas em liderança, facilitação do processo Scrum, remoção de impedimentos, comunicação, feedback e melhoria contínua.
 
 <details>
-  <summary>Modeloagem de dados</summary>
+  <summary>Banco de dados</summary>
     <br>
   <ul>
-    <li>Estrutura do banco</li>
+    <li>Estrutura do banco postgreSQL</li>
     <li>Normalização</li>
+    <Li>Relacionamentos</Li>
     <Li>Constraints</Li>
-    <Li></Li>
   </ul>
  </details>
 <details>
@@ -559,6 +394,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
   <ul>
     <li>Política de backup</li>
     <li>Criação de usuário</li>
+    <Li>Definição de roles</Li>
   </ul>
  </details>
 
@@ -595,7 +431,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 
 ## Contribuições pessoais
 
-Nesse projeto fui novamente o DBA da equipe. Desenvolvi toda estrutura da base de dados, configurei a regra de negócio na propria base. Apliquei funções e procedures para tratamento da logica de instalação de itens em uma aeronave. Apliquei o uso de triggers para fins de auditoria para captar eventos. Apliquei o uso de views para visualização de dados.
+Nesse projeto fui novamente o DBA da equipe. Desenvolvi toda estrutura da base de dados, de forma estratégica para construir um esquema robusto e que comportasse os relacionamentos complexos da melhor forma. Apliquei funções e procedures para tratamento da logica de instalação de itens em uma aeronave. Apliquei o uso de triggers para fins de auditoria para captar eventos. Apliquei o uso de views para visualização de dados.
 <br>
     <details>
 <summary>Modelagem do banco de dados</summary>
@@ -609,7 +445,10 @@ No caso deste projeto, o objetivo da modelagem de dados foi representar os dados
 <details>
 <br>
 <summary>Funções e procedures</summary>
-
+<br>
+ Essa é uma procedure em PL/SQL que tem como objetivo verificar se determinados itens estão instalados de fábrica em uma aeronave. Ela percorre as tabelas chassi e logica_fabrica e, para cada combinação de chassi e item, utiliza a função verificar_instalacao_fabrica para determinar se o item está instalado.
+A lógica principal está na cláusula MERGE, que realiza operações de atualização e inserção na tabela chassi_item. Se houver uma correspondência entre o chassi e o item na tabela chassi_item, ela atualiza o status de instalação. Se não houver correspondência, insere um novo registro indicando se o item está ou não instalado de fábrica.
+    
     ```SQL
     CREATE OR REPLACE PROCEDURE verificar_e_inserir_instalacao_fabrica AS
       v_chassi chassi.id_chassi%TYPE;
@@ -641,6 +480,8 @@ No caso deste projeto, o objetivo da modelagem de dados foi representar os dados
 <details>
 <br>
 <summary>Triggers</summary>
+Essa trigger foi criada para realizar auditoria na tabela CHASSI_BOLETIM após operações de atualização no campo STATUS. Quando uma atualização ocorre, a trigger gera um novo identificador de auditoria utilizando a sequência SEQ_CHASSI_BOLETIM_AUDIT e registra os dados relevantes na tabela de auditoria CHASSI_BOLETIM_AUDIT. Isso inclui o ID de auditoria, IDs de chassi e boletim, status anterior e novo, além do responsável pela modificação, armazenado na coluna MODIFICADO_POR. Essa abordagem proporciona um histórico detalhado das alterações de status na tabela principal, contribuindo para a transparência e rastreabilidade das modificações realizadas no sistema.
+
 
     ```SQL
     CREATE OR REPLACE TRIGGER TRG_AUDIT_CHASSI_BOLETIM
