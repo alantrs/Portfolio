@@ -28,7 +28,7 @@ Pandemia Estruturada é um projeto desenvolvido pela Carcará Analysis, que tem 
 Esse foi o primeiro projeto que tive contato com programação. Fui responsável por auxiliar em tarefas em geral, como ajudar na definição do backlog, levantar requisitos, organizar o github, ajudar no desenvolvimento com python.
 <br>
 <details>
-  <summary>Definição do Backlog</summary>
+  <summary><b>Definição do Backlog</b></summary>
   <br>
   <ul>
     <li>Levantamento e definição de entregáveis</li>
@@ -37,7 +37,7 @@ Esse foi o primeiro projeto que tive contato com programação. Fui responsável
 </details>
 
 <details>
-  <summary>Organizar GitHub</summary>
+  <summary><b>Organizar GitHub</b></summary>
   <br>
   <ul>
     <li>Arquitetar README</li>
@@ -53,23 +53,24 @@ Esse foi o primeiro projeto que tive contato com programação. Fui responsável
 Aprendi a introdução aos algoritmos com Python, noções de versionamento de código com git. Também aprendi a introdução de metodologias ágeis no desenvolvimento.
 <br>
 <details>
-<summary>Algoritmos</summary>
+<summary><b>Algoritmos</b></summary>
 <br>
-<Ul>
-<Li>Lógica de programação</Li>
-<Li>Definir variáveis</Li>
-<Li>Estrutura de condicionais</Li>
-<Li>Input e output de dados</Li>
-</Ul>
+<ul>
+  <li>Lógica de programação</li>
+  <li>Definir variáveis</li>
+  <li>Estrutura de condicionais</li>
+  <li>Input e output de dados</li>
+</ul>
 </details>
 
+
 <details>
-<summary>Scrum</summary>
+<summary><b>Scrum</b></summary>
 <br>
-<Ul>
-<Li>Tipos de papéis no scrum</Li>
-<Li>Processos</Li>
-</Ul>
+<ul>
+    <Li>Tipos de papéis no scrum</Li>
+    <Li>Processos</Li>
+</ul>
  </details>
 <hr>
     
@@ -99,7 +100,7 @@ Este projeto visa gerenciar a ativação de clientes na plataforma Dom Rock. A s
 Fui o administrador do banco de dados da equipe. Desenvolvi a modelagem de dados e a criação da base de dados por completo. Ajudei a equipe de backend sendo solicitado por melhorias na distribuição dos dados promovendo a maior facilidade para manipulação dos mesmos.
 <br>
     <details>
-<summary>Modelagem do banco de dados</summary>
+<summary><b>Modelagem do banco de dados</b></summary>
 <br>
         
 Nesse projeto, o objetivo da modelagem de dados foi representar os dados inseridos pelo cliente e como seria distribuido na nossa base. Utilizou-se o Modelo Entidade-Relacionamento (MER) como uma representação visual para entender a distribuição das tabelas com seus atributos e relacionamento entre elas.
@@ -108,7 +109,7 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
 </details>
 
 <details>
-      <summary>Implementação física do banco de dados (criar as tabelas, definir as colunas, os tipos de dados, as chaves primárias, as chaves estrangeiras e as restrições necessárias para cada tabela).</summary>
+      <summary><b>Implementação física do banco de dados (criar as tabelas, definir as colunas, os tipos de dados, as chaves primárias, as chaves estrangeiras e as restrições necessárias para cada tabela)</b></summary>
       <br>
     A implementação física é uma etapa fundamental na modelagem de dados, pois envolve a tradução do modelo conceitual em uma estrutura de dados real e eficiente para armazenar e processar os dados em um sistema de banco de dados. Ela é importante para garantir a eficiência, a integridade, a segurança e o desempenho do banco de dados, bem como sua escalabilidade e facilidade de manutenção.
 
@@ -191,7 +192,7 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
 Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados, definir cardinalidades e tranformar o modelo conceitual em script SQL. Aprendi alguns comandos básicos para trabalhar com versionamento de código com Git.
 
 <details>
-  <summary>Banco de dados</summary>
+  <summary><b>Banco de dados</b></summary>
     <br>
   <ul>
     <li>Estrutura do banco, distribuição das tabelas</li>
@@ -203,7 +204,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
  </details>
 
  <details>
-  <summary>Versionamento de código</summary>
+  <summary><b>Versionamento de código</b></summary>
      <br>
   <ul>
     <li>Comandos básicos: git add, git commit, git pull, git push</li>
@@ -245,7 +246,7 @@ Com o uso do HTML, CSS e JavaScript, foi possível criar uma interface amigável
 Fui o administrador do banco de dados da equipe em conjunto com a função de Scrum master. Como DBA desenvolvi desde a modelagem de dados até a criação da base de dados completa. Como scrum master fui responsável por garantir que o processo Scrum estivesse sendo seguido corretamente e que a equipe estivesse funcionando de maneira eficaz e produtiva.
 <br>
     <details>
-<summary>Modelagem do banco de dados</summary>
+<summary><b>Modelagem do banco de dados</b></summary>
 <br>
 
 No caso deste projeto, o objetivo da modelagem de dados foi representar os dados meteorológicos, como temperatura, umidade e outros indicadores. Utilizou-se o Modelo Entidade-Relacionamento (MER) como uma representação visual para entender a distribuição das tabelas com seus atributos e relacionamento entre elas.
@@ -256,7 +257,7 @@ No caso deste projeto, o objetivo da modelagem de dados foi representar os dados
 
     
    <details>
-      <summary>Implementação física do banco de dados (criar as tabelas, definir as colunas, os tipos de dados, as chaves primárias, as chaves estrangeiras e as restrições necessárias para cada tabela).</summary>
+      <summary><b>Implementação física do banco de dados (criar as tabelas, definir as colunas, os tipos de dados, as chaves primárias, as chaves estrangeiras e as restrições necessárias para cada tabela)</b></summary>
       <br>
     A implementação física é uma etapa fundamental na modelagem de dados, pois envolve a tradução do modelo conceitual em uma estrutura de dados real e eficiente para armazenar e processar os dados em um sistema de banco de dados. Ela é importante para garantir a eficiência, a integridade, a segurança e o desempenho do banco de dados, bem como sua escalabilidade e facilidade de manutenção.
     <br>
@@ -339,7 +340,7 @@ CREATE TABLE vento (
  </details>
    
 <details>
-  <summary style="background-color: lightgray; padding: 5px;">Gerar backup.</summary>
+  <summary><b>Gerar backup</b></summary>
     <br>
     Backup é um processo essencial para proteger e preservar dados importantes. Ele permite recuperar informações perdidas devido a falhas de hardware, erros humanos, ataques cibernéticos ou desastres naturais. No nosso projeto foram realizados backups a cada sprint, para garantir a integridade e segurança dos dados. O backup era gerado por esse simples comando.
   <br>
@@ -349,7 +350,7 @@ CREATE TABLE vento (
 </details>
 
 <details>
-  <summary>Algumas das minhas contribuições como Master:</summary>
+  <summary><b>Algumas das minhas contribuições como Master:</b></summary>
  <br>
  <ul>
     <li>Garantir que a equipe esteja seguindo os princípios do Scrum e entendendo seus papéis e responsabilidades.</li>
@@ -369,7 +370,7 @@ CREATE TABLE vento (
 Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD PostgreSQL, e aprofundei meus conhecimentos em SQL incluindo comandos DDL, DML e DCL. Como Scrum Master, desenvolvi habilidades valiosas em liderança, facilitação do processo Scrum, remoção de impedimentos, comunicação, feedback e melhoria contínua.
 
 <details>
-  <summary>Banco de dados</summary>
+  <summary><b>Banco de dados</b></summary>
     <br>
   <ul>
     <li>Estrutura do banco postgreSQL</li>
@@ -379,7 +380,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
   </ul>
  </details>
 <details>
-  <summary>SQL</summary>
+  <summary><b>SQL</b></summary>
     <br>
   <ul>
     <li>DDL (Data Definition Language)</li>
@@ -389,7 +390,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
   </ul>
  </details>
  <details>
-  <summary>Administração do PostgreSQL</summary>
+  <summary><b>Administração do PostgreSQL</b></summary>
      <br>
   <ul>
     <li>Política de backup</li>
@@ -399,7 +400,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
  </details>
 
 <details>
-  <summary>Domínio do processo Scrum</summary>
+  <summary><b>Domínio do processo Scrum</b></summary>
   <ul>
     <li>Compreensão dos princípios e papéis do Scrum.</li>
    <li>Remoção de impedimentos</li>
@@ -435,7 +436,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 Nesse projeto fui novamente o DBA da equipe. Desenvolvi toda estrutura da base de dados, de forma estratégica para construir um esquema robusto e que comportasse os relacionamentos complexos da melhor forma. Apliquei funções e procedures para tratamento da logica de instalação de itens em uma aeronave. Apliquei o uso de triggers para fins de auditoria para captar eventos. Apliquei o uso de views para visualização de dados.
 <br>
     <details>
-<summary>Modelagem do banco de dados</summary>
+<summary><b>Modelagem do banco de dados</b></summary>
 <br>
 
 No caso deste projeto, o objetivo da modelagem de dados foi representar os dados de boletins de serviço, itens e chassi. Essa modelagem foi estratégica para facilitar a consulta da lógica interna de instalações de itens em uma aeronave. O objetivo central era estruturar as tabelas de maneira que exitisse uma hierarquia de condições recebidas pela empresa, facilitando assim para o backend tratar e ter códigos mais limpos e de fácil manutenção.
@@ -445,7 +446,7 @@ No caso deste projeto, o objetivo da modelagem de dados foi representar os dados
 
 <details>
 <br>
-<summary>Funções e procedures</summary>
+<summary><b>Funções e procedures</b></summary>
 <br>
  Essa é uma procedure em PL/SQL que tem como objetivo verificar se determinados itens estão instalados de fábrica em uma aeronave. Ela percorre as tabelas chassi e logica_fabrica e, para cada combinação de chassi e item, utiliza a função verificar_instalacao_fabrica para determinar se o item está instalado.
 A lógica principal está na cláusula MERGE, que realiza operações de atualização e inserção na tabela chassi_item. Se houver uma correspondência entre o chassi e o item na tabela chassi_item, ela atualiza o status de instalação. Se não houver correspondência, insere um novo registro indicando se o item está ou não instalado de fábrica.
@@ -480,7 +481,7 @@ A lógica principal está na cláusula MERGE, que realiza operações de atualiz
 
 <details>
 <br>
-<summary>Triggers</summary>
+<summary><b>Triggers</b></summary>
 Essa trigger foi criada para realizar auditoria na tabela CHASSI_BOLETIM após operações de atualização no campo STATUS. Quando uma atualização ocorre, a trigger gera um novo identificador de auditoria utilizando a sequência SEQ_CHASSI_BOLETIM_AUDIT e registra os dados relevantes na tabela de auditoria CHASSI_BOLETIM_AUDIT. Isso inclui o ID de auditoria, IDs de chassi e boletim, status anterior e novo, além do responsável pela modificação, armazenado na coluna MODIFICADO_POR. Essa abordagem proporciona um histórico detalhado das alterações de status na tabela principal, contribuindo para a transparência e rastreabilidade das modificações realizadas no sistema.
 
 
@@ -507,7 +508,7 @@ Essa trigger foi criada para realizar auditoria na tabela CHASSI_BOLETIM após o
 
 <details>
 <br>
-<summary>Views</summary>
+<summary><b>Views</b></summary>
 
 Essa view retorna um caminho hierarquico das lógicas, facilitando o tratamento para o backend, onde é possivel definir uma entrada (buscando a dependencia ou buscando pelo nivel) para recuperar a lógica de aplicação de um determinado item.
 
@@ -533,7 +534,7 @@ Tive a oportunidade de trabalhar com auditoria usando triggers, o que me deu uma
 Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu desenvolver soluções mais robustas e eficientes.
 
   <details>
-  <summary>Configuração de conexão com Autonomous database</summary>
+  <summary><b>Configuração de conexão com Autonomous database</b></summary>
      <br>
   <ul>
     <li>Criação da wallet de conexão</li>
@@ -541,7 +542,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
   </ul>
  </details>
  <details>
-  <summary>Criação de funções e procedures com PL/SQL</summary>
+  <summary><b>Criação de funções e procedures com PL/SQL</b></summary>
      <br>
   <ul>
     <li>Estrutura de uma função</li>
@@ -551,7 +552,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
  </details>
 
   <details>
-  <summary>Uso de triggers</summary>
+  <summary><b>Uso de triggers</b></summary>
      <br>
   <ul>
     <li>Estrutura de uma trigger</li>
@@ -560,7 +561,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
  </details>
 
    <details>
-  <summary>Uso de views</summary>
+  <summary><b>Uso de views</b></summary>
      <br>
   <ul>
     <li>Estrutura de uma view</li>
