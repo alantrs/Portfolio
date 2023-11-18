@@ -25,25 +25,48 @@ Pandemia Estruturada é um projeto desenvolvido pela Carcará Analysis, que tem 
 
 ## Contribuições pessoais
 
-Esse foi o primeiro projeto que tive contato com programação. Fui responsável por auxiliar em tarefas em geral, como ajudar na definição do backlog, levantar requisitos, organizar o github, ajudar no desenvolvimento com python.
+Esse foi o primeiro projeto que tive contato com programação.Fui responsável por auxiliar em tarefas em geral, como ajudar na definição do backlog, levantar requisitos, organizar o github, ajudar no desenvolvimento com python.
 <br>
 <details>
-  <summary><b>Definição do Backlog</b></summary>
+  <summary><b>Gráfico total de óbitos</b></summary>
   <br>
-  <ul>
-    <li>Levantamento e definição de entregáveis</li>
-    <li>Divisão de tasks</li>
-  </ul>
-</details>
+  Uma funcionalidade que ajudei a desenvolver foi o endpoint para gerar um gráfico de totalidade de óbitos. O método gera um gráfico de linha mostrando o crescimento dos óbitos, realiza personalizações visuais, calcula estatísticas como o número máximo de óbitos e a letalidade, e renderiza essas informações em uma página web. A finalidade é proporcionar uma representação visual e interativa dos dados, permitindo aos usuários compreenderem a situação da pandemia na região.
 
-<details>
-  <summary><b>Organizar GitHub</b></summary>
-  <br>
-  <ul>
-    <li>Arquitetar README</li>
-    <li>Inserir imagens</li>
-    <li>Criar cards</li>
-  </ul>
+    ```python
+    
+        # Gráfico total de óbitos
+            fig4 = px.line(covidsp.sort_values(by=['Data'], ascending=[True]), x='Data', y='Total de óbitos',
+                           line_shape='linear', template='xgridoff', color_discrete_sequence=palette,
+                           line_dash_sequence=['solid'],
+                           render_mode='auto', hover_data=['Data', 'Total de óbitos', 'Óbitos por dia'],
+                           title='<b>Crescimento do nº de óbitos no Estado</b>')
+            fig4.update_traces(line=dict(width=6)),
+            fig4.update_yaxes(showgrid=True, gridcolor='rgba(0, 0, 0, 0.2)', tickmode="linear", tick0=0, dtick=15000),
+            fig4.update_xaxes(tickangle=-45),
+            fig4.update_layout(autosize=True, height=700, margin=dict(t=85, b=90, l=100, r=40),
+                               xaxis_title='', yaxis_title="Total de óbitos",
+                               plot_bgcolor='#ffffff', paper_bgcolor='#ffffff',
+                               title_font=dict(size=32, color='#dc770d', family="Helvetica, neue"),
+                               font=dict(size=18, color='#dc770d', family="Helvetica, neue"),
+                               xaxis_tickformat='%b %d,<br>%y', xaxis_hoverformat='%b %d, %Y')
+            graf4 = fig4.to_html(full_html=False)
+            obtotal = covidsp['Total de óbitos'].max()
+            casostotal = covidsp['Total de casos'].max()
+            let = (obtotal / casostotal) * 100
+            info4 = "{:.2f}".format(let).replace('.', ',')
+            if info4 == inf:
+                info4 = 0
+            if info4 == 'nan':
+                info4 = 0
+
+            return render_template('estados.html', form=form, min=mini, max=maxi,
+                                   start=form_start[-1], end=form_end[-1],
+                                   graf1_covidsp=graf1, graf2_covidsp=graf2, graf3_covidsp=graf3, graf4_covidsp=graf4,
+                                   painel1_covidsp=casost, painel2_covidsp=obitost, painel3_covidsp=casosult,
+                                   painel4_covidsp=obitosult, info1_covidsp=info1, info2_covidsp=info2,
+                                   info3_covidsp=info3, info4_covidsp=info4)
+                               
+    ```
 </details>
 
 
