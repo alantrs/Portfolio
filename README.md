@@ -76,23 +76,23 @@ Esse foi o primeiro projeto que tive contato com programação. Minha contribui�
 Aprendi a introdução aos algoritmos com Python, noções de versionamento de código com git. Também aprendi a introdução de metodologias ágeis no desenvolvimento.
 <br>
 <details>
-<summary><b>Algoritmos</b></summary>
+<summary><b>Desenvolvimento de software</b></summary>
 <br>
 <ul>
   <li>Lógica de programação</li>
   <li>Definir variáveis</li>
   <li>Estrutura de condicionais</li>
   <li>Input e output de dados</li>
+  <Li>Entender como funciona um framework como o flask</Li>
 </ul>
 </details>
 
-
 <details>
-<summary><b>Scrum</b></summary>
+<summary><b>Metodologia ágil Scrum</b></summary>
 <br>
 <ul>
     <Li>Tipos de papéis no scrum</Li>
-    <Li>Processos</Li>
+    <Li>Minimum Viable Product</Li>
 </ul>
  </details>
 <hr>
@@ -137,25 +137,6 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
     A implementação física é uma etapa fundamental na modelagem de dados, pois envolve a tradução do modelo conceitual em uma estrutura de dados real e eficiente para armazenar e processar os dados em um sistema de banco de dados. Ela é importante para garantir a eficiência, a integridade, a segurança e o desempenho do banco de dados, bem como sua escalabilidade e facilidade de manutenção.
 
     ```SQL
-
-    CREATE TABLE public.cliente
-    (
-        id_cliente serial NOT NULL,
-        cnpj_cliente character varying COLLATE pg_catalog."default" NOT NULL,
-        nome_empresa character varying COLLATE pg_catalog."default" NOT NULL,
-        objetivo_negocio character varying COLLATE pg_catalog."default" NOT NULL,
-        data_hora_cadastro timestamp not null default CURRENT_TIMESTAMP(1),
-        CONSTRAINT cliente_pkey PRIMARY KEY (cnpj_cliente)
-    )
-    WITH (
-        OIDS = FALSE
-    )
-    TABLESPACE pg_default;
-    
-    ALTER TABLE public.cliente
-        OWNER to postgres;
-    	
-    
     CREATE TABLE public.produto
     (
         solucao character varying COLLATE pg_catalog."default" NOT NULL,
@@ -165,13 +146,6 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
         CONSTRAINT produto_nome_produto_key UNIQUE (nome_produto)
     
     )
-    WITH (
-        OIDS = FALSE
-    )
-    TABLESPACE pg_default;
-    
-    ALTER TABLE public.produto
-        OWNER to postgres;
     
     CREATE TABLE public.funcionalidade
     (
@@ -181,13 +155,6 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
         CONSTRAINT funcionalidade_nome_funcionalidade_key UNIQUE (nome_funcionalidade)
     
     )
-    WITH (
-        OIDS = FALSE
-    )
-    TABLESPACE pg_default;
-    
-    ALTER TABLE public.funcionalidade
-        OWNER to postgres;
     	
     CREATE TABLE public.core
     (
@@ -198,14 +165,6 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
         CONSTRAINT core_nome_core_unique UNIQUE (nome_core)
     
     )
-    WITH (
-        OIDS = FALSE
-    )
-    TABLESPACE pg_default;
-    
-    ALTER TABLE public.core
-        OWNER to postgres;
-
     ```
     
  </details>
@@ -219,7 +178,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
     <br>
   <ul>
     <li>Estrutura do banco, distribuição das tabelas</li>
-    <Li>Cardinalidade</Li>
+    <Li>Cardinalidades</Li>
     <Li>Modelo conceitual, Modelo lógico e Modelo físico</Li>
     <Li>Criar script</Li>
     <Li>Realizar querys simples</Li>
