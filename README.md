@@ -19,7 +19,7 @@ Pandemia Estruturada é um projeto desenvolvido pela Carcará Analysis, que tem 
 
 ## Tecnologias utilizadas
 
-- **Python**: Python é reconhecida por sua sintaxe simples e legibilidade, tornando-a uma escolha ideal para iniciantes em programação. Amplamente aplicada em diversos campos, como ciência de dados, desenvolvimento web e inteligência artificial, a linguagem destaca-se por sua versatilidade. Sendo interpretada, o código é executado linha por linha, eliminando a necessidade de compilação. Além disso, por ser uma linguagem de alto nível, mais próxima da linguagem humana, a programação em Python é intuitiva e acessível a um amplo público.
+- **Python e Flask**: Python, uma linguagem conhecida por sua simplicidade e versatilidade, é escolhida como base para o desenvolvimento. Flask, um framework web em Python, é incorporado para facilitar a criação de aplicativos web. Flask oferece estruturas mínimas, permitindo flexibilidade e modularidade no desenvolvimento de aplicações web. Sua integração com Python torna o Flask uma escolha popular para criar APIs e páginas web dinâmicas.
 
 - **Html, Css**: HTML (Hypertext Markup Language) e CSS (Cascading Style Sheets) desempenham papéis cruciais no design web. HTML é a espinha dorsal, estruturando o conteúdo da página, enquanto CSS dá vida ao visual, controlando cores, fontes e layout. A combinação destas linguagens permite a criação de interfaces atraentes e organizadas, proporcionando uma experiência de usuário consistente. HTML e CSS são essenciais para a construção de páginas web dinâmicas e visualmente agradáveis.
 
