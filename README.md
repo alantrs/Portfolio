@@ -132,7 +132,7 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
 </details>
 
 <details>
-      <summary><b>Implementação física do banco de dados (criar as tabelas, definir as colunas, os tipos de dados, as chaves primárias, as chaves estrangeiras e as restrições necessárias para cada tabela)</b></summary>
+      <summary><b>Implementação física do banco de dados</b></summary>
       <br>
     A implementação física é uma etapa fundamental na modelagem de dados, pois envolve a tradução do modelo conceitual em uma estrutura de dados real e eficiente para armazenar e processar os dados em um sistema de banco de dados. Ela é importante para garantir a eficiência, a integridade, a segurança e o desempenho do banco de dados, bem como sua escalabilidade e facilidade de manutenção.
 
@@ -239,7 +239,7 @@ No caso deste projeto, o objetivo da modelagem de dados foi representar os dados
 
     
    <details>
-      <summary><b>Implementação física do banco de dados (criar as tabelas, definir as colunas, os tipos de dados, as chaves primárias, as chaves estrangeiras e as restrições necessárias para cada tabela)</b></summary>
+      <summary><b>Implementação física do banco de dados</b></summary>
       <br>
     A implementação física é uma etapa fundamental na modelagem de dados, pois envolve a tradução do modelo conceitual em uma estrutura de dados real e eficiente para armazenar e processar os dados em um sistema de banco de dados. Ela é importante para garantir a eficiência, a integridade, a segurança e o desempenho do banco de dados, bem como sua escalabilidade e facilidade de manutenção.
     <br>
