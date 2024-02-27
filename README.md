@@ -209,9 +209,6 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
 ## Descrição do projeto
 
 Foi proposto um desafio para desenvolver um sistema capaz de importar dados meteorológicos de arquivos CSV disponibilizados pela empresa, armazená-los em uma base de dados e gerar relatórios solicitados pelos clientes da empresa IACIT. A aplicação web é capaz filtrar os registros por regiões, estados, estações, tipo de dado e ranges de datas, além de exibir as informações em formato de gráficos e cards. Por fim, é possível obter relatórios com base na pesquisa realizada.
-
- - `Requisitos funcionais exigidos:` Cadastro de estações, cadastro de estados e regiões, importação de dados e geração de relatórios.
- - `Requisitos não funcionais exigidos:` Sistema Web, linguagem java, banco de dados relacional e documentações.
  
  ## Tecnologias utilizadas
 
