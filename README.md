@@ -20,7 +20,7 @@
 
 ## Descrição do projeto
 
-Pandemia Estruturada é um projeto desenvolvido pela Carcará Analysis, que tem como objetivo analisar os dados oficiais da COVID-19 no Estado de São Paulo e entregá-los ao usuário de forma clara e contextualizada, através de visualizações gráficas ou não-gráficas.
+Pandemia Estruturada é um projeto que tem como objetivo analisar os dados oficiais da COVID-19 no Estado de São Paulo e entregá-los ao usuário de forma clara e contextualizada, através de visualizações gráficas ou não-gráficas.
 
 ## Tecnologias utilizadas
 
@@ -30,7 +30,7 @@ Pandemia Estruturada é um projeto desenvolvido pela Carcará Analysis, que tem 
 
 ## Contribuições pessoais
 
-Esse foi o primeiro projeto que tive contato com programação. Minha contribuição envolveu uma participação em varias áreas, desde auxiliar em tarefas em geral, como ajudar na definição do backlog, organizar o repositório e também desenvolver com python.
+Atuei com o time de desenvolvimento da equipe, atuando principalmente no backend utilizando python para tratar os dados e criar endpoints para acesso a eles. Atuei na construção de métodos para expor os dados de maneira clara e organizada.
 <br>
 <details>
   <summary><b>Gráfico total de óbitos</b></summary>
@@ -86,7 +86,7 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
 <ul>
   <li>Lógica de programação: Entender como funciona o algoritmo</li>
   <li>Definir variáveis</li>
-  <li>estruturas de controle de fluxo: if else, while loop, for loop</li>
+  <li>Estruturas de controle de fluxo: if else, while loop, for loop</li>
   <li>Input e output de dados</li>
   <Li>Entender como funciona um framework como o flask</Li>
 </ul>
@@ -131,7 +131,7 @@ Fui o administrador do banco de dados da equipe. Desenvolvi a modelagem de dados
 <summary><b>Modelagem do banco de dados</b></summary>
 <br>
         
-Nesse projeto, o objetivo da modelagem de dados foi representar os dados inseridos pelo cliente e como seria distribuido na nossa base. Utilizou-se o Modelo Entidade-Relacionamento (MER) como uma representação visual para entender a distribuição das tabelas com seus atributos e relacionamento entre elas.
+Nesse projeto, o objetivo da modelagem de dados foi representar os dados inseridos pelo cliente e como seria distribuido na nossa base. Utilizei o Modelo Entidade-Relacionamento (MER) como uma representação visual para entender a distribuição das tabelas com seus atributos e relacionamento entre elas.
 
 ![Modelagem do banco de dados](https://github.com/alantrs/Bertoti/blob/778fd69f6e9fecddd2342af75295ff9542562f1e/metodologia/Imagens/modelagem-domrock.jpeg)
 </details>
