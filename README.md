@@ -402,6 +402,8 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 
 ## Descrição do projeto
 
+Sistema de gerenciamento de equipamentos de voo e versões de software instalados na aeronave para pilotos freelancers.
+
 ## Tecnologias utilizadas
 
 - **Java e Spring boot**: A linguagem Java foi utilizada para desenvolver todo o back-end da aplicação, utilizando o framework Spring Boot. O Spring Boot é uma estrutura que permite aos desenvolvedores criar rapidamente aplicativos web em Java, fornecendo um conjunto de ferramentas e bibliotecas que tornam a construção de aplicativos mais rápida e fácil.
