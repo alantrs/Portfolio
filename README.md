@@ -3,6 +3,12 @@
   
   <h2> Autor</h2>
 
+  Meu nome é Alan Araujo Rodrigues, tenho 28 anos e estou cursando o 6° semestre de Banco de Dados. Ingressei na Fatec no segundo semestre de 2021, onde obtive meu primeiro contato com a programação.
+
+  Durante a minha formação adquiri diversos conhecimentos sobre tecnologias, metodologias, ferramentas e boas práticas de desenvolvimento de software. Com a Aprendizagem por Projetos Integrados (API), tive a oportunidade de colocar em prática os conteúdos estudados em sala de aula e elaborar soluções para problemas reais do mercado de trabalho, tendo como clientes empresas parceiras da faculdade.
+
+  Atualmente sou Desenvolvedor de Software na empresa Datainfo, atuando com tecnologias como Java, Javascript e Postgresql. 
+
 # Projeto 1: Primeiro semestre
 
 ### Empresa parceira  
