@@ -519,20 +519,12 @@ Este projeto proporcionou a oportunidade de aprendizado sobre tópicos avançado
 Tive a oportunidade de trabalhar com auditoria usando triggers, o que me deu uma visão mais profunda sobre a segurança e integridade dos dados. Além disso, a visualização de dados com views me permitiu entender como apresentar dados de uma maneira mais eficiente e eficaz.
 Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu desenvolver soluções mais robustas e eficientes.
 
-  <details>
-  <summary><b>Configuração de conexão com Autonomous database</b></summary>
-     <br>
-  <ul>
-    <li>Criação da wallet de conexão</li>
-    <li>Liberação de consultas REST</li>
-  </ul>
- </details>
  <details>
   <summary><b>Criação de funções e procedures com PL/SQL</b></summary>
      <br>
   <ul>
-    <li>Estrutura de uma função</li>
-    <li>Estrutura de uma procedure</li>
+    <li>Estrutura e funcionamento de uma função</li>
+    <li>Estrutura e funcionamento de uma procedure</li>
     <Li>Como executar funções e procedures</Li>
   </ul>
  </details>
@@ -541,7 +533,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
   <summary><b>Uso de triggers</b></summary>
      <br>
   <ul>
-    <li>Estrutura de uma trigger</li>
+    <li>Estrutura e funcionamento de uma trigger</li>
     <li>Utilização e vantagens</li>
   </ul>
  </details>
@@ -550,7 +542,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
   <summary><b>Uso de views</b></summary>
      <br>
   <ul>
-    <li>Estrutura de uma view</li>
+    <li>Estrutura e funcionamento de uma view</li>
     <li>Utilização e vantagens</li>
     <Li>View hierarquica no oracle</Li>
   </ul>
@@ -558,7 +550,9 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
 
 <hr>
 
+# Projeto 5: Quinto semestre
 
+### Empresa parceira
 
 
  
