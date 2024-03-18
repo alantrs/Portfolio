@@ -85,7 +85,6 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
 <br>
 <ul>
   <li>Lógica de programação: Entender como funciona o algoritmo</li>
-  <li>Definir variáveis</li>
   <li>Estruturas de controle de fluxo: if else, while loop, for loop</li>
   <li>Input e output de dados</li>
   <Li>Entender como funciona um framework como o flask</Li>
@@ -97,7 +96,6 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
 <br>
 <ul>
     <Li>Tipos de papéis no scrum</Li>
-    <Li>Minimum Viable Product</Li>
 </ul>
  </details>
 <hr>
@@ -357,7 +355,6 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
   <summary><b>Banco de dados</b></summary>
     <br>
   <ul>
-    <li>Estrutura do banco postgreSQL</li>
     <li>Normalização</li>
     <Li>Relacionamentos</Li>
     <Li>Constraints</Li>
