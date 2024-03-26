@@ -88,7 +88,7 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
 <ul>
   <li>Lógica de programação: Entender como funciona o algoritmo</li>
   <li>Estruturas de controle de fluxo: if else, while loop, for loop</li>
-  <li>Input e output de dados</li>
+  <li>Manipulação de dados</li>
   <Li>Entender como funciona um framework como o flask</Li>
 </ul>
 </details>
@@ -99,7 +99,7 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
   <summary><b>Comunicação</b></summary>
   <br>
   <ul>
-    <li>Melhorei minhas habilidades de comunicação através do contato com o cliente interno, entendendo suas necessidades e requisitos.</li>
+    <li>Melhorei minhas habilidades de comunicação através do contato com o cliente interno e com a equipe.</li>
     <li>Colaborei efetivamente em equipe, contribuindo para o ambiente de trabalho colaborativo.</li>
   </ul>
 </details>
@@ -196,7 +196,6 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
     <br>
   <ul>
     <li>Estrutura do banco, distribuição das tabelas</li>
-    <Li>Cardinalidades</Li>
     <Li>Modelo conceitual, Modelo lógico e Modelo físico</Li>
     <Li>Criar script</Li>
     <Li>Realizar querys simples</Li>
@@ -374,12 +373,12 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
     <br>
   <ul>
     <li>Normalização</li>
-    <Li>Relacionamentos</Li>
+    <Li>Relacionamento das tabelas</Li>
     <Li>Constraints</Li>
   </ul>
  </details>
 <details>
-  <summary><b>SQL</b></summary>
+  <summary><b>Comandos SQL</b></summary>
     <br>
   <ul>
     <li>DDL (Data Definition Language)</li>
@@ -563,7 +562,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
   <ul>
     <li>Estrutura e funcionamento de uma view</li>
     <li>Utilização e vantagens</li>
-    <Li>View hierarquica no oracle</Li>
+    <Li>Hierarquia de dados no oracle com connect_by</Li>
   </ul>
  </details>
 
@@ -589,7 +588,6 @@ Criar uma plataforma online abrangente para a gestão eficiente de restaurantes,
 ## Contribuições pessoais
  
 ## Aprendizados efetivos
-
 
 ### Hard Skills
 
