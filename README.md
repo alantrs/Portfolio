@@ -94,6 +94,23 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
 </details>
 
 ### Soft Skills
+
+<details>
+  <summary><b>Comunicação</b></summary>
+  <br>
+  <ul>
+    <li>Melhorei minhas habilidades de comunicação através do contato com o cliente interno, entendendo suas necessidades e requisitos.</li>
+    <li>Colaborei efetivamente em equipe, contribuindo para o ambiente de trabalho colaborativo.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Trabalho em equipe</b></summary>
+  <br>
+  <ul>
+    <li>Participando do desenvolvimento do projeto, aprimorei minhas habilidades de trabalho em equipe, essenciais para o sucesso do projeto.</li>
+  </ul>
+  </details>  
 <hr>
     
 # Projeto 2: Segundo semestre
