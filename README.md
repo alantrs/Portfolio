@@ -86,7 +86,7 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
 <summary><b>Desenvolvimento de software</b></summary>
 <br>
 <ul>
-  <li>Lógica de programação: Entender como funciona o algoritmo</li>
+  <li>Lógica de programação</li>
   <li>Estruturas de controle de fluxo: if else, while loop, for loop</li>
   <li>Manipulação de dados</li>
   <Li>Entender como funciona um framework como o flask</Li>
