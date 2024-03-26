@@ -91,13 +91,6 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
 </ul>
 </details>
 
-<details>
-<summary><b>Metodologia ágil Scrum</b></summary>
-<br>
-<ul>
-    <Li>Tipos de papéis no scrum</Li>
-</ul>
- </details>
 <hr>
     
 # Projeto 2: Segundo semestre
