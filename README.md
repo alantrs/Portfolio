@@ -551,11 +551,11 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
 
 ### Empresa parceira
 
-
+## Descrição do projeto
  
+## Tecnologias utilizadas 
  
- 
- 
+## Contribuições pessoais
  
  
 
