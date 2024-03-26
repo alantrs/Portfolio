@@ -565,7 +565,7 @@ Criar uma plataforma online abrangente para a gestão eficiente de restaurantes,
  
 ## Contribuições pessoais
  
- 
+## Aprendizados efetivos
 
 
 
