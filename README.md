@@ -80,6 +80,8 @@ Atuei com o time de desenvolvimento da equipe, atuando principalmente no backend
 
 Aprendi a introdução aos algoritmos com Python, noções de versionamento de código com git. Também aprendi a introdução de metodologias ágeis no desenvolvimento.
 <br>
+### Hard Skills
+
 <details>
 <summary><b>Desenvolvimento de software</b></summary>
 <br>
@@ -91,6 +93,7 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
 </ul>
 </details>
 
+### Soft Skills
 <hr>
     
 # Projeto 2: Segundo semestre
@@ -169,6 +172,8 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
 
 Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados, definir cardinalidades e tranformar o modelo conceitual em script SQL. Aprendi alguns comandos básicos para trabalhar com versionamento de código com Git.
 
+### Hard Skills
+
 <details>
   <summary><b>Banco de dados</b></summary>
     <br>
@@ -190,6 +195,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
   </ul>
  </details>
 
+### Soft Skills
 <hr>
 
 # Projeto 3: Terceiro semestre
@@ -344,6 +350,8 @@ CREATE TABLE vento (
 
 Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD PostgreSQL, e aprofundei meus conhecimentos em SQL incluindo comandos DDL, DML e DCL. Como Scrum Master, desenvolvi habilidades valiosas em liderança, facilitação do processo Scrum, remoção de impedimentos, comunicação, feedback e melhoria contínua.
 
+### Hard Skills
+
 <details>
   <summary><b>Banco de dados</b></summary>
     <br>
@@ -384,6 +392,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
   </ul>
  </details>
 
+### Soft Skills
 <hr>
 
 # Projeto 4: Quarto semestre
@@ -509,6 +518,9 @@ Este projeto proporcionou a oportunidade de aprendizado sobre tópicos avançado
 Tive a oportunidade de trabalhar com auditoria usando triggers, o que me deu uma visão mais profunda sobre a segurança e integridade dos dados. Além disso, a visualização de dados com views me permitiu entender como apresentar dados de uma maneira mais eficiente e eficaz.
 Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu desenvolver soluções mais robustas e eficientes.
 
+
+### Hard Skills
+
  <details>
   <summary><b>Criação de funções e procedures com PL/SQL</b></summary>
      <br>
@@ -538,6 +550,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
   </ul>
  </details>
 
+### Soft Skills
 <hr>
 
 # Projeto 5: Quinto semestre
@@ -560,5 +573,9 @@ Criar uma plataforma online abrangente para a gestão eficiente de restaurantes,
  
 ## Aprendizados efetivos
 
+
+### Hard Skills
+
+### Soft Skills
 
 
