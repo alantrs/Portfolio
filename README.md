@@ -110,7 +110,7 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
   <ul>
     <li>Participando do desenvolvimento do projeto, aprimorei minhas habilidades de trabalho em equipe, essenciais para o sucesso do projeto.</li>
   </ul>
-  </details>  
+</details>  
 <hr>
     
 # Projeto 2: Segundo semestre
@@ -212,6 +212,14 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
  </details>
 
 ### Soft Skills
+
+<details>
+  <summary><b></b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
 <hr>
 
 # Projeto 3: Terceiro semestre
@@ -409,6 +417,14 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
  </details>
 
 ### Soft Skills
+
+<details>
+  <summary><b></b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
 <hr>
 
 # Projeto 4: Quarto semestre
@@ -567,6 +583,14 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
  </details>
 
 ### Soft Skills
+
+<details>
+  <summary><b></b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
 <hr>
 
 # Projeto 5: Quinto semestre
