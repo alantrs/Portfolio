@@ -214,10 +214,10 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
 ### Soft Skills
 
 <details>
-  <summary><b></b></summary>
+  <summary><b>Resiliência</b></summary>
   <br>
   <ul>
-    <li></li>
+    <li>Adquiri resiliência ao enfrentar a saída repentina de grande parte dos membros da equipe original. Lidar com uma equipe totalmente nova exigiu rápida adaptação e manter o foco na busca por bons resultados</li>
   </ul>
 </details> 
 <hr>
@@ -419,10 +419,10 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 ### Soft Skills
 
 <details>
-  <summary><b></b></summary>
+  <summary><b>Organização</b></summary>
   <br>
   <ul>
-    <li></li>
+    <li>Atuando como master fui responsavel por organizar o repositório do projeto, as documentações, e tambem o controle do burndown. Ser organizado foi fundamental para manter tudo alinhado para equipe manter o foco em executar de forma clara.</li>
   </ul>
 </details> 
 <hr>
@@ -585,10 +585,10 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
 ### Soft Skills
 
 <details>
-  <summary><b></b></summary>
+  <summary><b>Proatividade</b></summary>
   <br>
   <ul>
-    <li></li>
+    <li>Fui proativo em aprender sobre a ferramenta de banco de dados Oracle e descobrir funcionalidades que ajudariam no controle da lógica do projeto.</li>
   </ul>
 </details> 
 <hr>
