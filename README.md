@@ -98,8 +98,7 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
   <summary><b>Comunicação</b></summary>
   <br>
   <ul>
-    <li>Melhorei minhas habilidades de comunicação através do contato com o cliente interno e com a equipe.</li>
-    <li>Colaborei efetivamente em equipe, contribuindo para o ambiente de trabalho colaborativo.</li>
+    <li>Melhorei minhas habilidades de comunicação através do contato com a equipe.</li>
   </ul>
 </details>
 
