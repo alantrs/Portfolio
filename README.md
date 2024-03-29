@@ -82,7 +82,7 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
 ### Hard Skills
 
 <details>
-<summary><b>Desenvolvimento de software com Python: sei fazer com ajuda</b></summary>
+<summary><b>Desenvolvimento de software com Python: sei fazer com autonomia</b></summary>
 <br>
 <ul>
   <li>Lógica de programação</li>
