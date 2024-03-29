@@ -82,7 +82,7 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
 ### Hard Skills
 
 <details>
-<summary><b>Desenvolvimento de software</b></summary>
+<summary><b>Desenvolvimento de software com Python: sei fazer com ajuda</b></summary>
 <br>
 <ul>
   <li>Lógica de programação</li>
@@ -190,7 +190,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
 ### Hard Skills
 
 <details>
-  <summary><b>Banco de dados</b></summary>
+  <summary><b>Recursos básicos de Banco de dados: sei fazer com autonomia</b></summary>
     <br>
   <ul>
     <li>Estrutura do banco, distribuição das tabelas</li>
@@ -201,7 +201,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
  </details>
 
  <details>
-  <summary><b>Versionamento de código</b></summary>
+  <summary><b>Versionamento de código com Git: sei fazer com autonomia</b></summary>
      <br>
   <ul>
     <li>Comandos básicos: git add, git commit, git pull, git push</li>
@@ -375,7 +375,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 ### Hard Skills
 
 <details>
-  <summary><b>Banco de dados</b></summary>
+  <summary><b>Recursos de Banco de dados: sei fazer com autonomia</b></summary>
     <br>
   <ul>
     <li>Normalização</li>
@@ -384,7 +384,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
   </ul>
  </details>
 <details>
-  <summary><b>Comandos SQL</b></summary>
+  <summary><b>Comandos SQL: sei fazer com autonomia</b></summary>
     <br>
   <ul>
     <li>DDL (Data Definition Language)</li>
@@ -394,7 +394,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
   </ul>
  </details>
  <details>
-  <summary><b>Administração do PostgreSQL</b></summary>
+  <summary><b>Administração do PostgreSQL: sei fazer com ajuda</b></summary>
      <br>
   <ul>
     <li>Política de backup</li>
@@ -404,7 +404,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
  </details>
 
 <details>
-  <summary><b>Domínio do processo Scrum</b></summary>
+  <summary><b>Domínio do processo Scrum: sei fazer com autonomia</b></summary>
   <ul>
     <li>Compreensão dos princípios e papéis do Scrum.</li>
    <li>Remoção de impedimentos</li>
@@ -552,7 +552,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
 ### Hard Skills
 
  <details>
-  <summary><b>Criação de funções e procedures com PL/SQL</b></summary>
+  <summary><b>Criação de funções e procedures com PL/SQL: sei fazer com ajuda</b></summary>
      <br>
   <ul>
     <li>Estrutura e funcionamento de uma função</li>
@@ -562,7 +562,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
  </details>
 
   <details>
-  <summary><b>Uso de triggers</b></summary>
+  <summary><b>Uso de triggers: sei fazer com autonomia</b></summary>
      <br>
   <ul>
     <li>Estrutura e funcionamento de uma trigger</li>
@@ -571,7 +571,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
  </details>
 
    <details>
-  <summary><b>Uso de views</b></summary>
+  <summary><b>Uso de views: sei fazer com autonomia</b></summary>
      <br>
   <ul>
     <li>Estrutura e funcionamento de uma view</li>
