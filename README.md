@@ -212,7 +212,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
 ### Soft Skills
 
 <details>
-  <summary><b>Resiliência</b></summary>
+  <summary><b>Flexibilidade e adaptabilidade</b></summary>
   <br>
   <ul>
     <li>Adquiri resiliência ao enfrentar a saída repentina de grande parte dos membros da equipe original. Lidar com uma equipe totalmente nova exigiu rápida adaptação e manter o foco na busca por bons resultados</li>
