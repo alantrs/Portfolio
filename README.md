@@ -15,6 +15,9 @@
 
 ## Meus Principais Conhecimentos
 
+- Java: Para criação de API's REST com Spring.
+- SQL: Para modelagem, criação e manipulação de Banco de Dados.
+- Banco de dados: Gerenciamento e administração de Oracle e PostgreSQL.
 
 # Projeto 1: 2021-2
 
