@@ -1,6 +1,6 @@
-<h1 align="center"> Portfólio API's Banco de Dados</h1>  
+### Alan Araujo Rodrigues
 
-  <h2> Autor</h2>
+## Introdução
 
   Meu nome é Alan Araujo Rodrigues, tenho 28 anos e estou cursando o 6° semestre de Banco de Dados. Ingressei na Fatec no segundo semestre de 2021, onde obtive meu primeiro contato com a programação.
 
@@ -8,7 +8,15 @@
 
   Atualmente sou Desenvolvedor de Software na empresa Datainfo, atuando com tecnologias como Java, Javascript e Postgresql. 
 
-# Projeto 1: Primeiro semestre
+## Contatos
+[GIT](https://github.com/alantrs)
+
+[LINKEDIN](https://www.linkedin.com/in/alanaraujo1995/)
+
+## Meus Principais Conhecimentos
+
+
+# Projeto 1: 2021-2
 
 ### Empresa parceira  
 
@@ -111,7 +119,7 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
 </details>  
 <hr>
     
-# Projeto 2: Segundo semestre
+# Projeto 2: 2022-1
 
 ### Empresa parceira  
 
@@ -220,7 +228,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
 </details> 
 <hr>
 
-# Projeto 3: Terceiro semestre
+# Projeto 3: 2022-2
 
 ### Empresa parceira  
 
@@ -425,7 +433,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 </details> 
 <hr>
 
-# Projeto 4: Quarto semestre
+# Projeto 4: 2023-1
 
 ### Empresa parceira
 
@@ -591,7 +599,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
 </details> 
 <hr>
 
-# Projeto 5: Quinto semestre
+# Projeto 5: 2023-2
 
 ### Empresa parceira
 
