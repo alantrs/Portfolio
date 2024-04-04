@@ -93,7 +93,7 @@ Aprendi a introdução aos algoritmos com Python, noções de versionamento de c
 ### Hard Skills
 
 <details>
-<summary><b>Desenvolvimento de software com Python: sei fazer com autonomia</b></summary>
+<summary><b>Python: sei fazer com autonomia</b></summary>
 <br>
 <ul>
   <li>Lógica de programação</li>
@@ -212,7 +212,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
  </details>
 
  <details>
-  <summary><b>Versionamento de código com Git: sei fazer com autonomia</b></summary>
+  <summary><b>Git: sei fazer com autonomia</b></summary>
      <br>
   <ul>
     <li>Comandos básicos: git add, git commit, git pull, git push</li>
@@ -395,7 +395,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
   </ul>
  </details>
 <details>
-  <summary><b>Comandos SQL: sei fazer com autonomia</b></summary>
+  <summary><b>SQL: sei fazer com autonomia</b></summary>
     <br>
   <ul>
     <li>DDL (Data Definition Language)</li>
@@ -415,7 +415,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
  </details>
 
 <details>
-  <summary><b>Domínio do processo Scrum: sei fazer com autonomia</b></summary>
+  <summary><b>Scrum: sei fazer com autonomia</b></summary>
   <ul>
     <li>Compreensão dos princípios e papéis do Scrum.</li>
    <li>Remoção de impedimentos</li>
@@ -563,7 +563,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
 ### Hard Skills
 
  <details>
-  <summary><b>Criação de funções e procedures com PL/SQL: sei fazer com ajuda</b></summary>
+  <summary><b>Funções e Procedures com PL/SQL: sei fazer com ajuda</b></summary>
      <br>
   <ul>
     <li>Estrutura e funcionamento de uma função</li>
@@ -573,7 +573,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
  </details>
 
   <details>
-  <summary><b>Uso de triggers: sei fazer com autonomia</b></summary>
+  <summary><b>Triggers: sei fazer com autonomia</b></summary>
      <br>
   <ul>
     <li>Estrutura e funcionamento de uma trigger</li>
@@ -582,7 +582,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
  </details>
 
    <details>
-  <summary><b>Uso de views: sei fazer com autonomia</b></summary>
+  <summary><b>Views: sei fazer com autonomia</b></summary>
      <br>
   <ul>
     <li>Estrutura e funcionamento de uma view</li>
