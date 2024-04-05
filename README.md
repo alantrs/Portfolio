@@ -37,7 +37,7 @@ Pandemia Estruturada é um projeto que tem como objetivo analisar os dados ofici
 
 - **Python e Flask**: Python, uma linguagem conhecida por sua simplicidade e versatilidade, é escolhida como base para o desenvolvimento. Flask, um framework web em Python, é incorporado para facilitar a criação de aplicativos web. Flask oferece estruturas mínimas, permitindo flexibilidade e modularidade no desenvolvimento de aplicações web. Sua integração com Python torna o Flask uma escolha popular para criar APIs e páginas web dinâmicas.
 
-- **Html, Css**: HTML (Hypertext Markup Language) e CSS (Cascading Style Sheets) desempenham papéis cruciais no design web. HTML é a espinha dorsal, estruturando o conteúdo da página, enquanto CSS dá vida ao visual, controlando cores, fontes e layout. A combinação destas linguagens permite a criação de interfaces atraentes e organizadas, proporcionando uma experiência de usuário consistente. HTML e CSS são essenciais para a construção de páginas web dinâmicas e visualmente agradáveis.
+- **Html, Css**: HTML (Hypertext Markup Language) e CSS (Cascading Style Sheets) desempenham papéis cruciais no design web. HTML é a espinha dorsal, estruturando o conteúdo da página, enquanto CSS dá vida ao visual, controlando cores, fontes e layout. A combinação destas linguagens permitiu criarmos a parte visual do nosso projeto.
 
 ## Contribuições pessoais
 
@@ -227,7 +227,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
   <summary><b>Flexibilidade e adaptabilidade</b></summary>
   <br>
   <ul>
-    <li>Adquiri resiliência ao enfrentar a saída repentina de grande parte dos membros da equipe original. Lidar com uma equipe totalmente nova exigiu rápida adaptação e manter o foco na busca por bons resultados</li>
+    <li>Lidar com uma equipe totalmente nova exigiu rápida adaptação e flexibilidade.</li>
   </ul>
 </details> 
 <hr>
@@ -454,9 +454,11 @@ Sistema de gerenciamento de equipamentos de voo e versões de software instalado
 
 - **Java e Spring boot**: A linguagem Java foi utilizada para desenvolver todo o back-end da aplicação, utilizando o framework Spring Boot. O Spring Boot é uma estrutura que permite aos desenvolvedores criar rapidamente aplicativos web em Java, fornecendo um conjunto de ferramentas e bibliotecas que tornam a construção de aplicativos mais rápida e fácil.
 
-- **Vue.js**: Vue.js é um framework de desenvolvimento web de código aberto e progressivo. Sua arquitetura centrada em componentes oferece uma abordagem modular que facilita a construção eficiente de aplicativos complexos.
+- **Vue.js**: Vue.js é um framework de desenvolvimento web de código aberto e progressivo. Sua arquitetura centrada em componentes oferece uma abordagem modular que facilita a construção eficiente de aplicativos complexos. Utilizamos Vue.js para o frontend da aplicação.
 
-- **Autonomous Database Oracle**: O Oracle Autonomous Database é uma solução de banco de dados em nuvem que se destaca pela automação completa, autogerenciamento e uso de machine learning. Elimina tarefas manuais, otimiza o desempenho, garante segurança e oferece escalabilidade automática, proporcionando eficiência e economia de custos. 
+- **Autonomous Database Oracle**: O Oracle Autonomous Database é uma solução de banco de dados em nuvem que se destaca pela automação completa, autogerenciamento e uso de machine learning. Elimina tarefas manuais, otimiza o desempenho, garante segurança e oferece escalabilidade automática, proporcionando eficiência e economia de custos. Utilizamos o autonomous database para armazenar nossa lógica de negócio.
+  
+- **Ambiente Cloud Oracle**: O ambiente Cloud Oracle oferece uma infraestrutura altamente escalável e eficiente para hospedar aplicativos empresariais. Utilizamos para hospedar nossa aplicação.
 
 ## Contribuições pessoais
 
