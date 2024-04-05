@@ -39,7 +39,7 @@ Pandemia Estruturada é um projeto que tem como objetivo analisar os dados ofici
 
 ## Tecnologias utilizadas
 
-- **Python e Flask**: Python, uma linguagem conhecida por sua simplicidade e versatilidade, é escolhida como base para o desenvolvimento. Flask, um framework web em Python, é incorporado para facilitar a criação de aplicativos web. Flask oferece estruturas mínimas, permitindo flexibilidade e modularidade no desenvolvimento de aplicações web. Sua integração com Python torna o Flask uma escolha popular para criar APIs e páginas web dinâmicas.
+- **Python e Flask**: Python, uma linguagem conhecida por sua simplicidade e versatilidade, foi a tecnologia usada como base para o desenvolvimento. Flask, um framework web em Python, foi incorporado para facilitar a criação de aplicativos web. 
 
 - **Html, Css**: HTML (Hypertext Markup Language) e CSS (Cascading Style Sheets) desempenham papéis cruciais no design web. HTML é a espinha dorsal, estruturando o conteúdo da página, enquanto CSS dá vida ao visual, controlando cores, fontes e layout. A combinação destas linguagens permitiu criarmos a parte visual do nosso projeto.
 
@@ -93,7 +93,7 @@ Atuei com o time de desenvolvimento da equipe, atuando principalmente no backend
 
 ## Aprendizados efetivos
 
-Aprendi a introdução aos algoritmos com Python, noções de versionamento de código com git. Também aprendi a introdução de metodologias ágeis no desenvolvimento.
+Aprendi a introdução aos algoritmos com Python e noções de versionamento de código com git. Também aprendi a introdução de metodologias ágeis no desenvolvimento.
 <br>
 ### Hard Skills
 
