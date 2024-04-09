@@ -448,6 +448,16 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
     <li>Atuando como master fui responsavel por organizar o repositório do projeto, as documentações, e tambem o controle do burndown. Ser organizado foi fundamental para manter tudo alinhado para equipe manter o foco em executar de forma clara.</li>
   </ul>
 </details> 
+
+<details>
+  <summary><b>Comunicação</b></summary>
+  <br>
+  <ul>
+    <li>
+      Atuando como master também fui responsavel pela comunicação eficaz e objetiva para com minha equipe.
+    </li>
+  </ul>
+</details> 
 <hr>
 
 # Projeto 4: 2023-1
