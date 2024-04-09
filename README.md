@@ -233,7 +233,14 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
   <summary><b>Flexibilidade e adaptabilidade</b></summary>
   <br>
   <ul>
-    <li>Lidar com uma equipe totalmente nova exigiu rápida adaptação e flexibilidade.</li>
+    <li>Lidar com uma equipe totalmente nova exigiu rápida adaptação e flexibilidade para atendermos o desafio proposto e entregar valor ao cliente.</li>
+  </ul>
+</details> 
+<details>
+  <summary><b>Trabalho em equipe</b></summary>
+  <br>
+  <ul>
+    <li>Com uma equipe nova, fui desafiado a desenvolver minhas habilidades em trabalho em equipe, trazendo comunicação efetiva e clara.</li>
   </ul>
 </details> 
 <hr>
