@@ -116,7 +116,7 @@ Aprendi a introdução aos algoritmos com Python e noções de versionamento de 
   <summary><b>Comunicação</b></summary>
   <br>
   <ul>
-    <li>Aprimorei minhas habilidades de comunicação ao interagir mais com a equipe. Neste semestre, devido às aulas no formato EAD, enfrentei desafios adicionais na comunicação, o que me incentivou a desenvolver ainda mais essa habilidade com meu grupo.</li>
+    <li>Durante este semestre, as aulas no formato EAD apresentaram desafios extras na comunicação, o que me motivou a aprimorar ainda mais essa habilidade com meu grupo. Investir na comunicação com a equipe ajudou a fortalecer os laços entre os membros e facilitou o aprendizado por meio das experiências individuais de cada um.</li>
   </ul>
 </details>
 
@@ -230,7 +230,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
 ### Soft Skills
 
 <details>
-  <summary><b>Flexibilidade e adaptabilidade</b></summary>
+  <summary><b>Adaptação</b></summary>
   <br>
   <ul>
     <li>Lidar com uma equipe totalmente nova exigiu rápida adaptação e flexibilidade para nos ajustarmos ao ambiente e às dinâmicas de trabalho. A capacidade de ser flexível e adaptável foi essencial para responder de forma eficaz às mudanças e desafios que surgiram, permitindo-nos manter o foco no objetivo final e atender às necessidades do cliente de maneira ágil e eficiente</li>
@@ -626,6 +626,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
     <li>Utilizando uma tecnologia nova, o Autonomous Database da Oracle, precisei ser proativo em aprender sobre a ferramenta e descobrir funcionalidades que ajudariam no controle da lógica do projeto. Essa soft skill me permitiu aprender muito e ver minha capacidade de tomar a frente de uma responsabilidade que era fundamental para o funcionamento do projeto.</li>
   </ul>
 </details> 
+
 <hr>
 
 # Projeto 5: 2023-2
