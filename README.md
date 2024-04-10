@@ -628,10 +628,10 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
 </details> 
 
 <details>
-  <summary><b></b></summary>
+  <summary><b>Trabalho em equipe</b></summary>
   <br>
   <ul>
-    <li></li>
+    <li>Apresentei pra equipe meus conhecimentos adquiridos na ferramenta de banco de dados para facilitar o desenvolvimento do back-end.</li>
   </ul>
 </details> 
 
