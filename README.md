@@ -47,7 +47,7 @@ Pandemia Estruturada é um projeto que tem como objetivo analisar os dados ofici
 
 ## Contribuições pessoais
 
-Atuei com o time de desenvolvimento da equipe, atuando principalmente no backend utilizando python para tratar os dados e criar endpoints para acesso a eles. Atuei na construção de métodos para expor os dados de maneira clara e organizada.
+Por ser o primeiro projeto, dediquei meu tempo aos estudos e trabalhar em conjunto com o time de desenvolvimento da equipe, atuando principalmente no backend utilizando python para tratar os dados e criar endpoints para acesso a eles. Atuei na construção de métodos para expor os dados de maneira clara e organizada.
 <br>
 <details>
   <summary><b>Gráfico total de óbitos</b></summary>
