@@ -36,6 +36,7 @@
 ## Descrição do projeto
 
 Pandemia Estruturada é um projeto que tem como objetivo analisar os dados oficiais da COVID-19 no Estado de São Paulo e entregá-los ao usuário de forma clara e contextualizada, através de visualizações gráficas ou não-gráficas.
+A solução desenvolvida foi um sistema web em Python utilizando Flask, o qual processava os dados estatísticos da COVID disponibilizados pelo governo em arquivos CSV. Esse sistema permitia aos usuários visualizarem gráficos informativos, incluindo barras e setores, com estatísticas detalhadas sobre o vírus. Além disso, apresentava insights relevantes derivados dos dados existentes por meio de cálculos integrados.
 
 ## Tecnologias utilizadas
 
@@ -472,6 +473,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 ## Descrição do projeto
 
 Sistema de gerenciamento de equipamentos de voo e versões de software instalados na aeronave para pilotos freelancers.
+A solução foi um sistema que armazenava todas as regras de composição de itens em um banco de dados. Quando um número de chassi era consultado, o sistema recuperava as regras de composição correspondentes desse chassi no banco de dados. Em seguida, os itens compatíveis com o chassi consultado eram exibidos na tela para o usuário.
 
 ## Tecnologias utilizadas
 
