@@ -454,7 +454,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
   <br>
   <ul>
     <li>
-      Atuando como master também fui responsavel pela comunicação eficaz e objetiva para com minha equipe.
+      Atuando como master também fui responsável por garantir uma comunicação eficaz e objetiva com minha equipe, proporcionando clareza e assegurando o cumprimento da metodologia definida para o projeto.
     </li>
   </ul>
 </details> 
