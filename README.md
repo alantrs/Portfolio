@@ -623,7 +623,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
   <summary><b>Proatividade</b></summary>
   <br>
   <ul>
-    <li>Fui proativo em aprender sobre a ferramenta de banco de dados Oracle e descobrir funcionalidades que ajudariam no controle da lógica do projeto.</li>
+    <li>Utilizando uma tecnologia nova, o Autonomous Database da Oracle, precisei ser proativo em aprender sobre a ferramenta e descobrir funcionalidades que ajudariam no controle da lógica do projeto. Essa soft skill me permitiu aprender muito e ver minha capacidade de tomar a frente de uma responsabilidade que era fundamental para o funcionamento do projeto.</li>
   </ul>
 </details> 
 <hr>
