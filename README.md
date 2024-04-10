@@ -116,7 +116,7 @@ Aprendi a introdução aos algoritmos com Python e noções de versionamento de 
   <summary><b>Comunicação</b></summary>
   <br>
   <ul>
-    <li>Melhorei minhas habilidades de comunicação através do contato com a equipe.</li>
+    <li>Aprimorei minhas habilidades de comunicação ao interagir mais com a equipe. Neste semestre, devido às aulas no formato EAD, enfrentei desafios adicionais na comunicação, o que me incentivou a desenvolver ainda mais essa habilidade com meu grupo.</li>
   </ul>
 </details>
 
@@ -124,7 +124,7 @@ Aprendi a introdução aos algoritmos com Python e noções de versionamento de 
   <summary><b>Trabalho em equipe</b></summary>
   <br>
   <ul>
-    <li>Participando do desenvolvimento do projeto, aprimorei minhas habilidades de trabalho em equipe, essenciais para o sucesso do projeto.</li>
+    <li>Ao participar ativamente do desenvolvimento do projeto com a equipe, pude aprimorar significativamente minhas habilidades de trabalho em equipe, as quais são fundamentais para o sucesso e a realização dos objetivos propostos.</li>
   </ul>
 </details>  
 <hr>
@@ -233,14 +233,14 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
   <summary><b>Flexibilidade e adaptabilidade</b></summary>
   <br>
   <ul>
-    <li>Lidar com uma equipe totalmente nova exigiu rápida adaptação e flexibilidade para atendermos o desafio proposto e entregar valor ao cliente.</li>
+    <li>Lidar com uma equipe totalmente nova exigiu rápida adaptação e flexibilidade para nos ajustarmos ao ambiente e às dinâmicas de trabalho. A capacidade de ser flexível e adaptável foi essencial para responder de forma eficaz às mudanças e desafios que surgiram, permitindo-nos manter o foco no objetivo final e atender às necessidades do cliente de maneira ágil e eficiente</li>
   </ul>
 </details> 
 <details>
-  <summary><b>Trabalho em equipe</b></summary>
+  <summary><b>Aprendizado contínuo</b></summary>
   <br>
   <ul>
-    <li>Com uma equipe nova, fui desafiado a desenvolver minhas habilidades em trabalho em equipe, trazendo comunicação efetiva e clara.</li>
+    <li>A partir desse semetre foi introduzido a tecnologia de banco de dados para a aplicação a ser desenvolvida, e foi necessário estudar para aprender sobre SQL e sobre PostgreSQL.</li>
   </ul>
 </details> 
 <hr>
