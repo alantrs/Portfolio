@@ -124,7 +124,7 @@ Aprendi a introdução aos algoritmos com Python e noções de versionamento de 
   <summary><b>Trabalho em equipe</b></summary>
   <br>
   <ul>
-    <li>Ao participar ativamente do desenvolvimento do projeto com a equipe, pude aprimorar significativamente minhas habilidades de trabalho em equipe, as quais são fundamentais para o sucesso e a realização dos objetivos propostos.</li>
+    <li>Ao participar ativamente do desenvolvimento do projeto, pude aprimorar significativamente minhas habilidades de trabalho em equipe, as quais são fundamentais para o sucesso e a realização dos objetivos propostos.</li>
   </ul>
 </details>  
 <hr>
