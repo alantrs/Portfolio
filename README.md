@@ -137,7 +137,6 @@ Aprendi a introdução aos algoritmos com Python e noções de versionamento de 
   </ul>
 </details>  
 
-
 [GIT](https://github.com/SoSoJigsaw/Carcara)
 <hr>
     
@@ -258,7 +257,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
   </ul>
 </details> 
 
-[GIT](https://github.com/SoSoJigsaw/Carcara)
+[GIT](https://github.com/CarcaraTec/Dom-Rock)
 <hr>
 
 # Projeto 3: 2022-2
@@ -476,7 +475,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
   </ul>
 </details> 
 
-[GIT](https://github.com/SoSoJigsaw/Carcara)
+[GIT](https://github.com/CarcaraTec/IACIT)
 <hr>
 
 # Projeto 4: 2023-1
