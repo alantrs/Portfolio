@@ -655,7 +655,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
   </ul>
 </details> 
 
-[GIT](https://github.com/SoSoJigsaw/Carcara)
+[GIT](https://github.com/CarcaraTec/Embraer)
 <hr>
 
 # Projeto 5: 2023-2
@@ -682,4 +682,4 @@ Criar uma plataforma online abrangente para a gestão eficiente de restaurantes,
 
 ### Soft Skills
 
-
+[GIT](https://github.com/CarcaraTec/Cloud-Kitchen-Oracle)
