@@ -36,6 +36,7 @@
 ## Descrição do projeto
 
 Pandemia Estruturada é um projeto que tem como objetivo analisar os dados oficiais da COVID-19 no Estado de São Paulo e entregá-los ao usuário de forma clara e contextualizada, através de visualizações gráficas ou não-gráficas.
+
 A solução desenvolvida foi um sistema web em Python utilizando Flask, o qual processava os dados estatísticos da COVID disponibilizados pelo governo em arquivos CSV. Esse sistema permitia aos usuários visualizarem gráficos informativos, incluindo barras e setores, com estatísticas detalhadas sobre o vírus. Além disso, apresentava insights relevantes derivados dos dados existentes por meio de cálculos integrados.
 
 ## Tecnologias utilizadas
