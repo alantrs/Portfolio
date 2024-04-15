@@ -97,7 +97,7 @@ Por ser o primeiro projeto, dediquei meu tempo aos estudos e trabalhar em conjun
 
 ## Aprendizados efetivos
 
-Aprendi a introdução aos algoritmos com Python e noções de versionamento de código com git. Também aprendi a introdução de metodologias ágeis no desenvolvimento.
+Nesse projeto aprendi a introdução aos algoritmos com Python e noções de versionamento de código com git. Também aprendi a introdução de metodologias ágeis no desenvolvimento de software.
 <br>
 ### Hard Skills
 
