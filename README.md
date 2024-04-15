@@ -498,7 +498,7 @@ A solução foi um sistema que armazenava todas as regras de composição de ite
 
 - **Vue.js**: Vue.js é um framework de desenvolvimento web de código aberto e progressivo. Sua arquitetura centrada em componentes oferece uma abordagem modular que facilita a construção eficiente de aplicativos complexos. Utilizamos Vue.js para o frontend da aplicação.
 
-- **Autonomous Database Oracle**: O Oracle Autonomous Database é uma solução de banco de dados em nuvem que se destaca pela automação completa, autogerenciamento e uso de machine learning. Elimina tarefas manuais, otimiza o desempenho, garante segurança e oferece escalabilidade automática, proporcionando eficiência e economia de custos. Utilizamos o autonomous database para armazenar nossa lógica de negócio.
+- **Autonomous Database Oracle**: O Oracle Autonomous Database é uma solução de banco de dados em nuvem que se destaca pela automação completa, autogerenciamento e uso de machine learning. Utilizamos o autonomous database para armazenar nossa lógica de negócio e os dados das aeronaves.
   
 - **Ambiente Cloud Oracle**: O ambiente Cloud Oracle oferece uma infraestrutura altamente escalável e eficiente para hospedar aplicativos empresariais. Utilizamos para hospedar nossa aplicação.
 
