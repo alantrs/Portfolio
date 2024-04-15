@@ -153,7 +153,7 @@ Aprendi a introdução aos algoritmos com Python e noções de versionamento de 
 
 ## Descrição do projeto
 
-Este projeto tem como objetivo gerenciar a ativação de clientes na plataforma Dom Rock. A empresa buscava uma solução que facilitasse a entrada de dados dos clientes, permitindo a alocação eficiente de recursos na plataforma desenvolvida. O projeto inclui telas de cadastro para inserção de informações no banco de dados, possibilitando a posterior consulta e exibição dos dados pelos clientes.
+Este projeto tem como objetivo gerenciar a ativação de clientes na plataforma Dom Rock. A empresa buscava uma solução que facilitasse a entrada de dados dos clientes, permitindo a alocação eficiente de recursos na plataforma desenvolvida.
 
 A solução proposta consiste em uma aplicação desktop desenvolvida em Java, projetada para capturar dados personalizados de cada cliente e utilizar essas informações para alocar recursos de forma eficiente na plataforma. Essa abordagem abrange a estimativa de consumo de recursos com base em critérios como o volume de dados do cliente e o número de usuários. Além disso, a solução foi concebida para oferecer funcionalidades adicionais, como a geração de relatórios e consultas, proporcionando uma visão abrangente e detalhada das atividades e necessidades dos clientes.
 
