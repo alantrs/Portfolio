@@ -108,7 +108,14 @@ Aprendi a introdução aos algoritmos com Python e noções de versionamento de 
   <li>Lógica de programação</li>
   <li>Estruturas de controle de fluxo: if else, while loop, for loop</li>
   <li>Manipulação de dados</li>
-  <Li>Entender como funciona um framework como o flask</Li>
+</ul>
+</details>
+<details>
+<summary><b>Flask: sei fazer com autonomia</b></summary>
+<br>
+<ul>
+  <li>Criação de endpoints</li>
+  <li>Metodos http GET e POST</li>
 </ul>
 </details>
 
