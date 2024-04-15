@@ -136,6 +136,9 @@ Aprendi a introdução aos algoritmos com Python e noções de versionamento de 
     <li>Ao participar ativamente do desenvolvimento do projeto, pude aprimorar significativamente minhas habilidades de trabalho em equipe, as quais são fundamentais para o sucesso e a realização dos objetivos propostos.</li>
   </ul>
 </details>  
+
+
+[GIT](https://github.com/SoSoJigsaw/Carcara)
 <hr>
     
 # Projeto 2: 2022-1
@@ -254,6 +257,8 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
     <li>A partir desse semetre foi introduzido a tecnologia de banco de dados para a aplicação a ser desenvolvida, e foi necessário estudar para aprender sobre SQL e sobre PostgreSQL.</li>
   </ul>
 </details> 
+
+[GIT](https://github.com/SoSoJigsaw/Carcara)
 <hr>
 
 # Projeto 3: 2022-2
@@ -470,6 +475,8 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
     </li>
   </ul>
 </details> 
+
+[GIT](https://github.com/SoSoJigsaw/Carcara)
 <hr>
 
 # Projeto 4: 2023-1
@@ -649,6 +656,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
   </ul>
 </details> 
 
+[GIT](https://github.com/SoSoJigsaw/Carcara)
 <hr>
 
 # Projeto 5: 2023-2
