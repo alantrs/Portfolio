@@ -144,7 +144,9 @@ Aprendi a introdução aos algoritmos com Python e noções de versionamento de 
 
 ## Descrição do projeto
 
-Este projeto visa gerenciar a ativação de clientes na plataforma Dom Rock. A solução proposta concentra-se na entrada de dados, incluindo parâmetros e variáveis específicas de cada cliente, para efetuar a alocação adequada de recursos na plataforma. A abordagem inclui a estimativa de consumo de recursos, considerando fatores como o volume de dados do cliente e o número de usuários. Adicionalmente, a solução é projetada para gerar relatórios e consultas. 
+Este projeto visa gerenciar a ativação de clientes na plataforma Dom Rock.
+
+A solução proposta concentra-se na entrada de dados, incluindo parâmetros e variáveis específicas de cada cliente, para efetuar a alocação adequada de recursos na plataforma. A abordagem inclui a estimativa de consumo de recursos, considerando fatores como o volume de dados do cliente e o número de usuários. Adicionalmente, a solução é projetada para gerar relatórios e consultas. 
 
 ## Tecnologias utilizadas
 
@@ -259,7 +261,8 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
 
 ## Descrição do projeto
 
-Foi proposto um desafio para desenvolver um sistema capaz de importar dados meteorológicos de arquivos CSV disponibilizados pela empresa, armazená-los em uma base de dados e gerar relatórios solicitados pelos clientes da empresa IACIT. A aplicação web é capaz filtrar os registros por regiões, estados, estações, tipo de dado e ranges de datas, além de exibir as informações em formato de gráficos e cards. Por fim, é possível obter relatórios com base na pesquisa realizada.
+Foi proposto um desafio para desenvolver um sistema capaz de importar dados meteorológicos de arquivos CSV disponibilizados pela empresa, armazená-los em uma base de dados e gerar relatórios solicitados pelos clientes da empresa IACIT. 
+A aplicação web é capaz filtrar os registros por regiões, estados, estações, tipo de dado e ranges de datas, além de exibir as informações em formato de gráficos e cards. Por fim, é possível obter relatórios com base na pesquisa realizada.
  
  ## Tecnologias utilizadas
 
@@ -474,6 +477,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 ## Descrição do projeto
 
 Sistema de gerenciamento de equipamentos de voo e versões de software instalados na aeronave para pilotos freelancers.
+
 A solução foi um sistema que armazenava todas as regras de composição de itens em um banco de dados. Quando um número de chassi era consultado, o sistema recuperava as regras de composição correspondentes desse chassi no banco de dados. Em seguida, os itens compatíveis com o chassi consultado eram exibidos na tela para o usuário.
 
 ## Tecnologias utilizadas
