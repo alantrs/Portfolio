@@ -153,7 +153,7 @@ Nesse projeto aprendi a introdução aos algoritmos com Python e noções de ver
 
 ## Descrição do projeto
 
-Este projeto tem como objetivo gerenciar a ativação de clientes na plataforma Dom Rock. A empresa buscava uma solução que facilitasse a entrada de dados dos clientes, permitindo a alocação eficiente de recursos na plataforma desenvolvida.
+O desafio proposto foi desenvolver uma solução eficaz para o gerenciamento da ativação de clientes na plataforma Dom Rock. A meta era criar um sistema que facilitasse significativamente a entrada de dados dos clientes, possibilitando uma alocação de recursos mais eficiente e precisa na plataforma.
 
 A solução proposta consiste em uma aplicação desktop desenvolvida em Java, projetada para capturar dados personalizados de cada cliente e utilizar essas informações para alocar recursos de forma eficiente na plataforma. Essa abordagem abrange a estimativa de consumo de recursos com base em critérios como o volume de dados do cliente e o número de usuários. Além disso, a solução foi concebida para oferecer funcionalidades adicionais, como a geração de relatórios e consultas, proporcionando uma visão abrangente e detalhada das atividades e necessidades dos clientes.
 
@@ -489,7 +489,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 
 ## Descrição do projeto
 
-Sistema de gerenciamento de equipamentos de voo e versões de software instalados na aeronave para pilotos freelancers.
+O desafio proposto foi desenvolver uma plataforma que permitisse aos usuários consultar os itens instalados nas aeronaves. O sistema deveria incluir funcionalidades de verificação e edição dos itens instalados ou aplicáveis a determinados "chassis" de acordo com uma base de dados fornecida.
 
 A solução foi um sistema que armazenava todas as regras de composição de itens em um banco de dados. Quando um número de chassi era consultado, o sistema recuperava as regras de composição correspondentes desse chassi no banco de dados. Em seguida, os itens compatíveis com o chassi consultado eram exibidos na tela para o usuário.
 
