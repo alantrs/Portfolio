@@ -253,7 +253,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
   <summary><b>Aprendizado contínuo</b></summary>
   <br>
   <ul>
-    <li>A partir desse semetre foi introduzido a tecnologia de banco de dados para a aplicação a ser desenvolvida, e foi necessário estudar para aprender sobre SQL e sobre PostgreSQL.</li>
+    <li>A partir desse semestre foi introduzido a tecnologia de banco de dados para a aplicação a ser desenvolvida, e foi necessário estudar para aprender sobre SQL e sobre PostgreSQL.</li>
   </ul>
 </details> 
 
