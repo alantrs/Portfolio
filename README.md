@@ -1,6 +1,6 @@
 ### Alan Araujo Rodrigues
 
-## Autor
+### Introdução
 
   Meu nome é Alan Araujo Rodrigues, tenho 28 anos e estou cursando o 6° semestre de Banco de Dados. Ingressei na Fatec no segundo semestre de 2021, onde obtive meu primeiro contato com a programação.
 
