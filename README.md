@@ -216,7 +216,7 @@ Nesse projeto, o objetivo da modelagem de dados foi representar os dados inserid
 
 ## Aprendizados efetivos
 
-Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados, definir cardinalidades e tranformar o modelo conceitual em script SQL. Aprendi alguns comandos básicos para trabalhar com versionamento de código com Git.
+Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados, definir cardinalidades e transformar o modelo conceitual em script SQL. Aprendi alguns comandos básicos para trabalhar com versionamento de código com Git.
 
 ### Hard Skills
 
