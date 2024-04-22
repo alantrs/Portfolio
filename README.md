@@ -447,6 +447,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 <details>
   <summary><b>Scrum: sei fazer com autonomia</b></summary>
   <ul>
+    </br>
     <li>Compreensão dos princípios e papéis do Scrum.</li>
    <li>Remoção de impedimentos</li>
    <li>Comunicação e colaboração</li>
