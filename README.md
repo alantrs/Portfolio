@@ -663,7 +663,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
 ### Empresa parceira
 <p align="center">
     <b>Oracle</b> 
-    <img src="" alt="Logo oracle">
+    <img src="imagem/projeto_oracle.png" alt="Logo oracle">
 </p>
 ## Descrição do projeto
 
