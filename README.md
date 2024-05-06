@@ -680,7 +680,93 @@ A solução consistiu em um sistema que consultava todos os dados armazenados na
 - **Autonomous Database Oracle**: O Oracle Autonomous Database é uma solução de banco de dados em nuvem que se destaca pela automação completa, autogerenciamento e uso de machine learning. Elimina tarefas manuais, otimiza o desempenho, garante segurança e oferece escalabilidade automática, proporcionando eficiência e economia de custos. 
  
 ## Contribuições pessoais
- 
+
+Neste projeto, assumi um papel central no desenvolvimento do backend utilizando Java e Spring Boot. Fui encarregado de conceber a arquitetura do projeto e implementar endpoints para fornecer dados tratados ao frontend, facilitando sua exibição em gráficos, tabelas e cards. Além disso, fui responsável pela implementação de testes unitários dentro do fluxo de desenvolvimento DevOps desenvolvido pela equipe.
+<br>
+
+<details>
+<summary><b>Calculo de permanência média</b></summary>
+<br>
+
+  ```java
+  public Duration calculoParmaneciaMedia(LocalDateTime dataInicio, LocalDateTime dataFim) {
+        List<Comanda> comandas = comandaRepository.findByHorarioAberturaBetween(dataInicio, dataFim);
+
+        Duration duracaoTotal = Duration.ZERO;
+
+        for (Comanda comanda : comandas) {
+            Timestamp abertura = comanda.getHorarioAbertura();
+            Timestamp fechamento = comanda.getHorarioFechamento();
+
+            LocalDateTime aberturaLocalDateTime = abertura.toInstant().atZone(ZoneId.systemDefault()).toLocalDateTime();
+            LocalDateTime fechamentoLocalDateTime = fechamento.toInstant().atZone(ZoneId.systemDefault()).toLocalDateTime();
+
+            Duration duracaoComanda = Duration.between(aberturaLocalDateTime, fechamentoLocalDateTime);
+
+            duracaoTotal = duracaoTotal.plus(duracaoComanda);
+        }
+
+        Integer numeroDeComandas = comandas.size();
+        if (numeroDeComandas > 0) {
+            return duracaoTotal.dividedBy(numeroDeComandas);
+        } else {
+            return Duration.ZERO;
+        }
+    }
+  ```
+</details>
+
+
+<details>
+<summary><b>Rank de pratos vendidos</b></summary>
+<br>
+  
+  ```java
+  public ExibicaoProdutosVendidos maisVendidos(){
+        List<ExibicaoRankPratoDTO> pratosPrincipaisMaisVendidos = pratosPrincipaisMaisVendidos();
+        List<ExibicaoRankPratoDTO> sobremesasMaisVendidos = sobremesasMaisVendidos();
+        List<ExibicaoRankPratoDTO> bebidasMaisVendidos = bebidasMaisVendidos();
+
+        return new ExibicaoProdutosVendidos(pratosPrincipaisMaisVendidos, sobremesasMaisVendidos, bebidasMaisVendidos);
+    }
+
+    public ExibicaoProdutosVendidos menosVendidos(){
+        List<ExibicaoRankPratoDTO> pratosPrincipaisMenosVendidos = pratosPrincipaisMenosVendidos();
+        List<ExibicaoRankPratoDTO> sobremesasMenosVendidos = sobremesasMenosVendidos();
+        List<ExibicaoRankPratoDTO> bebidasMenosVendidos = bebidasMenosVendidos();
+
+        return new ExibicaoProdutosVendidos(pratosPrincipaisMenosVendidos, sobremesasMenosVendidos, bebidasMenosVendidos);
+    }
+  ```
+</details>
+
+<details>
+<summary><b>Tteste unitários</b></summary>
+<br>
+
+  ```java
+  @BeforeEach
+    public void setUp (){
+        rankVendaProduto = RankVendaProduto.builder().codPrato(1L)
+                .nomePrato("Prato1").diaDaSemana("Domingo").quantidadeTotal(10)
+                .valorTotalProduto(new BigDecimal("10"))
+                .impactoPorcentagem(new BigDecimal("10")).build();
+    }
+
+    @Test
+    public void rankVendaProdutosOk(){
+        Mockito.when(rankVendaProdutoRepository
+                .rankDeVendas(1,"2023-08-01","2023-08-02"))
+                .thenReturn(Collections.singletonList(rankVendaProduto));
+
+        List<RankVendaProduto> rankVendaProdutos = rankVendaProdutoService.rankVendaProdutos(1,"2023-08-01","2023-08-02");
+
+        Assertions.assertEquals(Collections.singletonList(rankVendaProduto),rankVendaProdutos);
+        Mockito.verify(rankVendaProdutoRepository,Mockito.times(1)).rankDeVendas(1,"2023-08-01","2023-08-02");
+    }
+  ```
+</details>
+
 ## Aprendizados efetivos
 
 ### Hard Skills
