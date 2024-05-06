@@ -650,10 +650,8 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
 <details>
   <summary><b>Trabalho em equipe</b></summary>
   <br>
-  <ul>
-    <li>Apresentei pra equipe meus conhecimentos adquiridos na ferramenta de banco de dados para facilitar o desenvolvimento do back-end.</li>
-  </ul>
-</details> 
+  Durante o projeto, contribuí significativamente para o desenvolvimento do time ao compartilhar os conhecimentos que adquiri em ferramentas avançadas de banco de dados. Essa iniciativa permitiu que a equipe melhorasse a arquitetura e o desempenho do backend, otimizando consultas e manipulações de dados. Ao apresentar esses conhecimentos, busquei garantir que todos os membros pudessem aproveitar ao máximo as capacidades da base de dados, promovendo um ambiente de trabalho colaborativo e eficiente. Além disso, estar aberto a compartilhar experiências e aprender com os colegas foi essencial para fortalecer os laços dentro do time e alcançar nossos objetivos de maneira mais eficaz.
+</details>
 
 [GIT](https://github.com/CarcaraTec/Embraer)
 <hr>
@@ -665,6 +663,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
     <b>Oracle</b> 
     <img src="imagem/projeto_oracle.png" alt="Logo oracle">
 </p>
+
 ## Descrição do projeto
 
 Criar uma plataforma online abrangente para a gestão eficiente de restaurantes, oferecendo funcionalidades como painéis de controlo, gráficos, relatórios e gestão de pessoal, fornecedores e inventário. O objetivo é ajudar os proprietários de restaurantes a enfrentar desafios como o controlo de custos, a gestão de equipas e o inventário, com vista a melhorar as suas operações.
