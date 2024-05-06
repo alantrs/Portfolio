@@ -741,7 +741,7 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 </details>
 
 <details>
-<summary><b>Teste unitários</b></summary>
+<summary><b>Testes unitários</b></summary>
 <br>
 
   ```java
