@@ -688,8 +688,11 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 <summary><b>Calculo de permanência média</b></summary>
 <br>
 
+Um dos métodos que desenvolvi para insights foi o calculo de permanencia média do cliente no restaurante. No método, são consultadas as comandas registradas no sistema dentro do intervalo de tempo especificado. Para cada comanda encontrada, são calculados os horários de abertura e fechamento, e a duração da permanência do cliente é obtida através da diferença entre esses horários. A duração total de todas as permanências é então somada e dividida pelo número de comandas para obter a média. Caso não haja comandas dentro do período, o método retorna zero.
+
+
   ```java
-  public Duration calculoParmaneciaMedia(LocalDateTime dataInicio, LocalDateTime dataFim) {
+  public Duration calculoPermaneciaMedia(LocalDateTime dataInicio, LocalDateTime dataFim) {
         List<Comanda> comandas = comandaRepository.findByHorarioAberturaBetween(dataInicio, dataFim);
 
         Duration duracaoTotal = Duration.ZERO;
