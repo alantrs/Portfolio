@@ -676,8 +676,7 @@ A solução consistiu em um sistema que consultava todos os dados armazenados na
 
 - **Vue.js**: Vue.js é um framework de desenvolvimento web de código aberto e progressivo. Sua arquitetura centrada em componentes oferece uma abordagem modular que facilita a construção eficiente de aplicativos complexos.
 
-- **Autonomous Database Oracle**: O Oracle Autonomous Database é uma solução de banco de dados em nuvem que se destaca pela automação completa, autogerenciamento e uso de machine learning. Elimina tarefas manuais, otimiza o desempenho, garante segurança e oferece escalabilidade automática, proporcionando eficiência e economia de custos. 
- 
+- **Autonomous Database Oracle**: O Oracle Autonomous Database é uma solução de banco de dados em nuvem que se destaca pela automação completa, autogerenciamento e uso de machine learning. Utilizamos para armanezar todos os dados de gerenciamento dos restaurantes.
 ## Contribuições pessoais
 
 Neste projeto, assumi um papel central no desenvolvimento do backend utilizando Java e Spring Boot. Fui encarregado de conceber a arquitetura do projeto e implementar endpoints para fornecer dados tratados ao frontend, facilitando sua exibição em gráficos, tabelas e cards. Além disso, fui responsável pela implementação de testes unitários dentro do fluxo de desenvolvimento DevOps desenvolvido pela equipe.
