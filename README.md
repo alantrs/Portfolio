@@ -775,6 +775,46 @@ Um dos métodos que desenvolvi para insights foi o calculo de permanencia média
 
 ### Hard Skills
 
+<details>
+  <summary><b>Java e Spring Boot</b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
+
+<details>
+  <summary><b>Devops</b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
+
+<details>
+  <summary><b>Testes com Junit</b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
+
 ### Soft Skills
+
+<details>
+  <summary><b>Colaboração</b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
+
+<details>
+  <summary><b>Proatividade</b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
 
 [GIT](https://github.com/CarcaraTec/Cloud-Kitchen-Oracle)
