@@ -115,7 +115,7 @@ Nesse projeto aprendi a introdução aos algoritmos com Python e noções de ver
 <br>
 <ul>
   <li>Criação de endpoints</li>
-  <li>Metodos http GET e POST</li>
+  <li>Métodos HTTP GET e POST</li>
 </ul>
 </details>
 
@@ -243,7 +243,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
 ### Soft Skills
 
 <details>
-  <summary><b>Adaptação</b></summary>
+  <summary><b>Adaptabilidade</b></summary>
   <br>
   <ul>
     <li>Lidar com uma equipe totalmente nova exigiu rápida adaptação e flexibilidade para nos ajustarmos ao ambiente e às dinâmicas de trabalho. A capacidade de ser flexível e adaptável foi essencial para responder de forma eficaz às mudanças e desafios que surgiram, permitindo-nos manter o foco no objetivo final e atender às necessidades do cliente de maneira ágil e eficiente</li>
