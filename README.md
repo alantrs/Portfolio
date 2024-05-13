@@ -727,6 +727,7 @@ Um dos métodos que desenvolvi para insights foi o calculo de permanencia média
 Desenvolvi um método que gerou um insight valioso para nosso cliente. Esse método tem como objetivo fornecer um ranking dos pratos mais e menos vendidos no restaurante, agrupados por tipo de produto. Utilizando chamadas para outros métodos separados, essa lógica identifica os produtos com as maiores e menores quantidades de vendas.
 
 No código Java apresentado, o método maisVendidos() é responsável por obter os pratos principais, sobremesas e bebidas mais vendidos, enquanto o método menosVendidos() obtém os pratos principais, sobremesas e bebidas menos vendidos. Cada um desses métodos encapsula chamadas para métodos específicos que calculam e retornam listas de produtos mais e menos vendidos de cada categoria.
+
   ```java
 
   public ExibicaoProdutosVendidos maisVendidos(){
@@ -745,13 +746,15 @@ No código Java apresentado, o método maisVendidos() é responsável por obter 
         return new ExibicaoProdutosVendidos(pratosPrincipaisMenosVendidos, sobremesasMenosVendidos, bebidasMenosVendidos);
     }
   ```
+
 </details>
 
 <details>
 <summary><b>Testes unitários</b></summary>
 <br>
-Fiquei responsável pela implementação de testes unitários no backend. Neste teste unitário, confirmamos se o serviço rankVendaProdutoService retorna corretamente o ranking de vendas de produtos em um período específico. Usamos o Mockito para simular o comportamento do rankVendaProdutoRepository ao chamar rankDeVendas com parâmetros determinados
-  
+Fiquei responsável pela implementação de testes unitários no backend. Neste teste unitário, confirmamos se o serviço rankVendaProdutoService retorna corretamente o ranking de vendas de produtos em um período específico. 
+
+  ```java
   @BeforeEach
     public void setUp (){
         rankVendaProduto = RankVendaProduto.builder().codPrato(1L)
@@ -772,6 +775,7 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
         Mockito.verify(rankVendaProdutoRepository,Mockito.times(1)).rankDeVendas(1,"2023-08-01","2023-08-02");
     }
   ```
+
 </details>
 
 ## Aprendizados efetivos
