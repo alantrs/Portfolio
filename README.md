@@ -170,16 +170,17 @@ Fui o administrador do banco de dados da equipe. Desenvolvi a modelagem de dados
     <details>
 <summary><b>Modelagem do banco de dados</b></summary>
 <br>
-        
-Nesse projeto, o objetivo da modelagem de dados foi representar os dados inseridos pelo cliente e como seria distribuido na nossa base. Utilizei o Modelo Entidade-Relacionamento (MER) como uma representação visual para entender a distribuição das tabelas com seus atributos e relacionamento entre elas.
+
+Neste projeto, realizei a modelagem de dados para a nossa base, com o propósito de representar de forma eficaz as informações inseridas pelo cliente e como esses dados serão distribuídos em nosso sistema.
 
 ![Modelagem do banco de dados](https://github.com/alantrs/Bertoti/blob/778fd69f6e9fecddd2342af75295ff9542562f1e/metodologia/Imagens/modelagem-domrock.jpeg)
 </details>
 
 <details>
-      <summary><b>Implementação física do banco de dados</b></summary>
-      <br>
-    A implementação física é uma etapa fundamental na modelagem de dados, pois envolve a tradução do modelo conceitual em uma estrutura de dados real e eficiente para armazenar e processar os dados em um sistema de banco de dados. Ela é importante para garantir a eficiência, a integridade, a segurança e o desempenho do banco de dados, bem como sua escalabilidade e facilidade de manutenção.
+<summary><b>Implementação física do banco de dados</b></summary>
+<br>
+
+Após validar nossa modelagem, procedi com a implementação física da nossa base de dados. Isso envolveu a tradução do nosso modelo entidade-relacionamento para scripts SQL.
 
     ```SQL
     CREATE TABLE public.produto
@@ -277,7 +278,6 @@ Foi proposto um desafio para desenvolver um sistema capaz de importar dados mete
 A solução foi criar uma aplicação web capaz de filtrar os registros por regiões, estados, estações, tipo de dado e ranges de datas, além de exibir as informações em formato de gráficos e cards. Por fim, obter relatórios com base na pesquisa realizada.
  
  ## Tecnologias utilizadas
-
  
 - **Java e Spring boot**: A linguagem Java foi utilizada em conjunto ao framework Spring para desenvolvimento web e criação de API's REST.
 - **PostgreSQL**: PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto que é amplamente utilizado em aplicações empresariais e científicas, devido à sua confiabilidade, escalabilidade e recursos avançados. Além disso, o PostgreSQL é compatível com muitas linguagens de programação, incluindo Java, que foi usada neste projeto.
@@ -292,18 +292,17 @@ Fui o administrador do banco de dados da equipe em conjunto com a função de Sc
 <summary><b>Modelagem do banco de dados</b></summary>
 <br>
 
-No caso deste projeto, o objetivo da modelagem de dados foi representar os dados meteorológicos, como temperatura, umidade e outros indicadores. Utilizou-se o Modelo Entidade-Relacionamento (MER) como uma representação visual para entender a distribuição das tabelas com seus atributos e relacionamento entre elas.
+No caso deste projeto, o objetivo da modelagem de dados foi representar os dados meteorológicos, como temperatura, umidade e outros indicadores. 
 <br>
 
 ![Modelagem do banco de dados](https://github.com/alantrs/Bertoti/blob/e19d9567debe132ef4387b306ba9451d048716cf/metodologia/Imagens/modelagem_img1.jpeg)
 </details>
 
     
-   <details>
-      <summary><b>Implementação física do banco de dados</b></summary>
-      <br>
-    A implementação física é uma etapa fundamental na modelagem de dados, pois envolve a tradução do modelo conceitual em uma estrutura de dados real e eficiente para armazenar e processar os dados em um sistema de banco de dados. Ela é importante para garantir a eficiência, a integridade, a segurança e o desempenho do banco de dados, bem como sua escalabilidade e facilidade de manutenção.
-    <br>
+<details>
+<summary><b>Implementação física do banco de dados</b></summary>
+<br>
+Após validar nossa modelagem, procedi com a implementação física da nossa base de dados. Isso envolveu a tradução do nosso modelo entidade-relacionamento para scripts SQL.
     
 ```SQL
 CREATE TABLE precipitacao (
@@ -689,7 +688,7 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 <summary><b>Calculo de permanência média</b></summary>
 <br>
 
-Um dos métodos que desenvolvi para insights foi o calculo de permanencia média do cliente no restaurante. No método, são consultadas as comandas registradas no sistema dentro do intervalo de tempo especificado. Para cada comanda encontrada, são calculados os horários de abertura e fechamento, e a duração da permanência do cliente é obtida através da diferença entre esses horários. A duração total de todas as permanências é então somada e dividida pelo número de comandas para obter a média. Caso não haja comandas dentro do período, o método retorna zero.
+Um dos métodos que desenvolvi para insights foi o calculo de permanencia média do cliente no restaurante. No método, são consultadas as comandas registradas no sistema dentro do intervalo de tempo especificado. Para cada comanda encontrada, são calculados os horários de abertura e fechamento, e a duração da permanência do cliente é obtida através da diferença entre esses horários. A duração total de todas as permanências é então somada e dividida pelo número de comandas para obter a média.
 
 
   ```java
