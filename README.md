@@ -677,7 +677,7 @@ A solução consistiu em um sistema que consultava todos os dados armazenados na
 - **Java e Spring boot**: A linguagem Java foi utilizada em conjunto ao framework Spring para desenvolvimento web e criação de API's REST.
 
 - **Vue.js**: Utilizamos o framework javascript Vue.js para o frontend da aplicação.
-- 
+
 - **Autonomous Database Oracle**: O Oracle Autonomous Database é uma solução de banco de dados em nuvem que se destaca pela automação completa, autogerenciamento e uso de machine learning. Utilizamos para armanezar todos os dados de gerenciamento dos restaurantes.
   
 ## Contribuições pessoais
