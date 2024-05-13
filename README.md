@@ -496,7 +496,7 @@ A solução foi um sistema que armazenava todas as regras de composição de ite
 
 - **Java e Spring boot**: A linguagem Java foi utilizada em conjunto ao framework Spring para desenvolvimento web e criação de API's REST.
 
-- **Vue.js**: Vue.js é um framework de desenvolvimento web de código aberto e progressivo. Sua arquitetura centrada em componentes oferece uma abordagem modular que facilita a construção eficiente de aplicativos complexos. Utilizamos Vue.js para o frontend da aplicação.
+- **Vue.js**: Utilizamos o framework javascript Vue.js para o frontend da aplicação.
 
 - **Autonomous Database Oracle**: O Oracle Autonomous Database é uma solução de banco de dados em nuvem que se destaca pela automação completa, autogerenciamento e uso de machine learning. Utilizamos o autonomous database para armazenar nossa lógica de negócio e os dados das aeronaves.
   
