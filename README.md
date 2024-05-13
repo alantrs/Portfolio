@@ -726,8 +726,6 @@ Um dos métodos que desenvolvi para insights foi o calculo de permanencia média
 <br>
 Desenvolvi um método que gerou um insight valioso para nosso cliente. Esse método tem como objetivo fornecer um ranking dos pratos mais e menos vendidos no restaurante, agrupados por tipo de produto. Utilizando chamadas para outros métodos separados, essa lógica identifica os produtos com as maiores e menores quantidades de vendas.
 
-No código Java apresentado, o método maisVendidos() é responsável por obter os pratos principais, sobremesas e bebidas mais vendidos, enquanto o método menosVendidos() obtém os pratos principais, sobremesas e bebidas menos vendidos. Cada um desses métodos encapsula chamadas para métodos específicos que calculam e retornam listas de produtos mais e menos vendidos de cada categoria.
-
   ```java
 
   public ExibicaoProdutosVendidos maisVendidos(){
