@@ -384,7 +384,7 @@ CREATE TABLE vento (
 <details>
   <summary><b>Gerar backup</b></summary>
     <br>
-    Backup é um processo essencial para proteger e preservar dados importantes. Ele permite recuperar informações perdidas devido a falhas de hardware, erros humanos, ataques cibernéticos ou desastres naturais. No nosso projeto foram realizados backups a cada sprint, para garantir a integridade e segurança dos dados. O backup era gerado por esse simples comando.
+    Backup é um processo essencial para proteger e preservar dados importantes. No nosso projeto foram realizados backups a cada sprint, para garantir a integridade e segurança dos dados. O backup era gerado por esse simples comando.
   <br>
   <p style="margin-left: 20px;">
     <code>pg_dump -U postgres -d iacit -F p -f "C:backup_iacit.sql"</code>
@@ -581,7 +581,7 @@ Essa trigger foi criada para realizar auditoria na tabela CHASSI_BOLETIM após o
 <br>
 <summary><b>Views</b></summary>
 
-Essa view retorna um caminho hierarquico das lógicas, facilitando o tratamento para o backend, onde é possivel definir uma entrada (buscando a dependencia ou buscando pelo nivel) para recuperar a lógica de aplicação de um determinado item.
+Para facilitar a consulta e diminuir a complexidade para o backend, criei essa view para retornar um caminho hierarquico das lógicas, onde é possivel definir uma entrada (buscando a dependencia ou buscando pelo nivel) para recuperar a lógica de aplicação de um determinado item.
 
     ```SQL
     -- view que retorna o caminho hierarquico das logicas
@@ -724,8 +724,11 @@ Um dos métodos que desenvolvi para insights foi o calculo de permanencia média
 <details>
 <summary><b>Rank de pratos vendidos</b></summary>
 <br>
-  
+Desenvolvi um método que gerou um insight valioso para nosso cliente. Esse método tem como objetivo fornecer um ranking dos pratos mais e menos vendidos no restaurante, agrupados por tipo de produto. Utilizando chamadas para outros métodos separados, essa lógica identifica os produtos com as maiores e menores quantidades de vendas.
+
+No código Java apresentado, o método maisVendidos() é responsável por obter os pratos principais, sobremesas e bebidas mais vendidos, enquanto o método menosVendidos() obtém os pratos principais, sobremesas e bebidas menos vendidos. Cada um desses métodos encapsula chamadas para métodos específicos que calculam e retornam listas de produtos mais e menos vendidos de cada categoria.
   ```java
+
   public ExibicaoProdutosVendidos maisVendidos(){
         List<ExibicaoRankPratoDTO> pratosPrincipaisMaisVendidos = pratosPrincipaisMaisVendidos();
         List<ExibicaoRankPratoDTO> sobremesasMaisVendidos = sobremesasMaisVendidos();
@@ -747,8 +750,8 @@ Um dos métodos que desenvolvi para insights foi o calculo de permanencia média
 <details>
 <summary><b>Testes unitários</b></summary>
 <br>
-
-  ```java
+Fiquei responsável pela implementação de testes unitários no backend. Neste teste unitário, confirmamos se o serviço rankVendaProdutoService retorna corretamente o ranking de vendas de produtos em um período específico. Usamos o Mockito para simular o comportamento do rankVendaProdutoRepository ao chamar rankDeVendas com parâmetros determinados
+  
   @BeforeEach
     public void setUp (){
         rankVendaProduto = RankVendaProduto.builder().codPrato(1L)
