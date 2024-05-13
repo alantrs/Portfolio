@@ -45,7 +45,7 @@ A solução desenvolvida foi um sistema web em Python utilizando Flask, o qual p
 
 - **Pandas**: O Pandas foi empregado para realizar a leitura e manipulação dos dados provenientes de arquivos CSV. Além disso, o Pandas se integra bem com o NumPy, o que proporcionou um desempenho otimizado para operações numéricas durante o processamento dos dados. Essa combinação permitiu uma manipulação eficaz e ágil dos dados, essencial para o desenvolvimento e análise de aplicações baseadas em dados.
 
-- **Html, Css**: HTML e CSS desempenham papéis cruciais no design web. HTML é a espinha dorsal, estruturando o conteúdo da página, enquanto CSS dá vida ao visual, controlando cores, fontes e layout. A combinação destas linguagens permitiu criarmos a parte visual do nosso projeto.
+- **Html, Css**: A combinação destas linguagens permitiu criarmos a parte visual do nosso projeto.
 
 ## Contribuições pessoais
 
