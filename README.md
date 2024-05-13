@@ -519,8 +519,9 @@ No caso deste projeto, o objetivo da modelagem de dados foi representar os dados
 <br>
 <summary><b>Funções e procedures</b></summary>
 <br>
-  Uma das minhas contribuições foi desenvolver soluções para tratar a logica de negócio com funcionalidades da linguagem PL/SQL da oracle. 
- Essa é uma procedure que tem como objetivo verificar se determinados itens estão instalados de fábrica em uma aeronave. Ela percorre as tabelas chassi e logica_fabrica e, para cada combinação de chassi e item, utiliza a função verificar_instalacao_fabrica para determinar se o item está instalado.
+Uma das minhas contribuições foi desenvolver soluções para tratar a logica de negócio com funcionalidades da linguagem PL/SQL da oracle. 
+Essa é uma procedure que tem como objetivo verificar se determinados itens estão instalados de fábrica em uma aeronave. Ela percorre as tabelas chassi e logica_fabrica e, para cada combinação de chassi e item, utiliza a função verificar_instalacao_fabrica para determinar se o item está instalado.
+  
     ```SQL
     CREATE OR REPLACE PROCEDURE verificar_e_inserir_instalacao_fabrica AS
       v_chassi chassi.id_chassi%TYPE;
