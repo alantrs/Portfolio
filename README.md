@@ -724,7 +724,7 @@ Um dos métodos que desenvolvi para insights foi o calculo de permanencia média
 <details>
 <summary><b>Rank de pratos vendidos</b></summary>
 <br>
-Desenvolvi um método que gerou um insight valioso para nosso cliente. Esse método tem como objetivo fornecer um ranking dos pratos mais e menos vendidos no restaurante, agrupados por tipo de produto. Utilizando chamadas para outros métodos separados, essa lógica identifica os produtos com as maiores e menores quantidades de vendas.
+Desenvolvi métodos que geraram insights valiosos para nosso cliente. Um desses métodos foi o de ranking de produtos mais e menos vendidos. Este método tem como objetivo fornecer um ranking dos pratos mais e menos vendidos no restaurante, agrupados por tipo de produto. Utilizando chamadas para outros métodos separados, essa lógica identifica os produtos com as maiores e menores quantidades de vendas.
 
   ```java
 
