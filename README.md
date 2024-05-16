@@ -460,7 +460,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
   <summary><b>Organização</b></summary>
   <br>
   <ul>
-    <li>Atuando como master fui responsavel por organizar o repositório do projeto, as documentações, e tambem o controle do burndown. Ser organizado foi fundamental para manter tudo alinhado para equipe manter o foco em executar de forma clara.</li>
+    <li>Fui responsável por organizar o repositório do projeto, as documentações, e tambem o controle do burndown. Ser organizado foi fundamental para manter tudo alinhado para equipe manter o foco em executar de forma clara.</li>
   </ul>
 </details> 
 
