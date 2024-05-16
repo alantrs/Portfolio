@@ -498,7 +498,7 @@ A solução foi um sistema que armazenava todas as regras de composição de ite
 
 - **Vue.js**: Utilizamos o framework javascript Vue.js para o frontend da aplicação.
 
-- **Autonomous Database Oracle**: O Oracle Autonomous Database é uma solução de banco de dados em nuvem que se destaca pela automação completa, autogerenciamento e uso de machine learning. Utilizamos o autonomous database para armazenar nossa lógica de negócio e os dados das aeronaves.
+- **Autonomous Database Oracle**: Utilizamos o autonomous database para armazenar nossa lógica de negócio e os dados das aeronaves.
   
 - **Ambiente Cloud Oracle**: O ambiente Cloud Oracle oferece uma infraestrutura altamente escalável e eficiente para hospedar aplicativos empresariais. Utilizamos para hospedar nossa aplicação.
 
@@ -678,7 +678,7 @@ A solução consistiu em um sistema que consultava todos os dados armazenados na
 
 - **Vue.js**: Utilizamos o framework javascript Vue.js para o frontend da aplicação.
 
-- **Autonomous Database Oracle**: O Oracle Autonomous Database é uma solução de banco de dados em nuvem que se destaca pela automação completa, autogerenciamento e uso de machine learning. Utilizamos para armanezar todos os dados de gerenciamento dos restaurantes.
+- **Autonomous Database Oracle**: Utilizamos para armanezar todos os dados de gerenciamento dos restaurantes.
   
 ## Contribuições pessoais
 
