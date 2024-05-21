@@ -161,9 +161,9 @@ A solução consiste em uma aplicação desktop desenvolvida em Java, projetada 
 
 ## Tecnologias utilizadas
 
-- **Java**: Linguagem orientada a objetos, foi escolhida para o desenvolvimento do back-end devido à familiaridade prévia da equipe, ampla utilização no mercado e extensa documentação, facilitando a implementação do projeto.
-
-- **PostgreSQL**: PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto que é amplamente utilizado em aplicações empresariais e científicas, devido à sua confiabilidade, escalabilidade e recursos avançados. Além disso, o PostgreSQL é compatível com muitas linguagens de programação, incluindo Java, que foi usada neste projeto.
+- **Java**: Linguagem para desenvolvimento da aplicaçãoback-end.
+- **Java Swing**: Biblioteca de interface gráfica de usuário utilizada para criar interfaces gráficas.
+- **PostgreSQL**: Sistema de gerenciamento de banco de dados relacional para gerenciamento dos dados.
 
 ## Contribuições pessoais
 
@@ -260,7 +260,6 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
   </ul>
 </details> 
 
-
 <hr>
 
 # Projeto 3: 2022-2
@@ -282,11 +281,10 @@ A solução foi criar uma aplicação web capaz de filtrar os registros por regi
  [GIT](https://github.com/CarcaraTec/IACIT)
  
  ## Tecnologias utilizadas
- 
-- **Java e Spring boot**: A linguagem Java foi utilizada em conjunto ao framework Spring para desenvolvimento web e criação de API's REST.
-- **PostgreSQL**: PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto que é amplamente utilizado em aplicações empresariais e científicas, devido à sua confiabilidade, escalabilidade e recursos avançados. Além disso, o PostgreSQL é compatível com muitas linguagens de programação, incluindo Java, que foi usada neste projeto.
 
-- **Html, Css, Javascript**: Com o uso do HTML, CSS e JavaScript, foi possível criar uma interface amigável e intuitiva para os usuários da aplicação, permitindo que eles possam visualizar os dados meteorológicos e gerar relatórios de forma fácil e eficiente. Além disso, utilizamos uma biblioteca do javascript chamada Charts, perfeita para disponibilizar os dados em forma de gráficos.
+- **Java e Spring boot**: A linguagem Java foi utilizada em conjunto ao framework Spring para desenvolvimento web e criação de API's REST.
+- **PostgreSQL**: Sistema de gerenciamento de banco de dados relacional para gerenciamento dos dados.
+- **Html, Css, Javascript**: Combinação utilizada para criar uma interface amigável e intuitiva para os usuários da aplicação.
 
 ## Contribuições pessoais
 
@@ -502,9 +500,9 @@ A solução foi um sistema que armazenava todas as regras de composição de ite
 
 - **Java e Spring boot**: A linguagem Java foi utilizada em conjunto ao framework Spring para desenvolvimento web e criação de API's REST.
 
-- **Vue.js**: Utilizamos o framework javascript Vue.js para o frontend da aplicação.
+- **Vue.js**: Framework javascript Vue.js para o frontend da aplicação.
 
-- **Autonomous Database Oracle**: Utilizamos o autonomous database para armazenar nossa lógica de negócio e os dados das aeronaves.
+- **Autonomous Database Oracle**: Solução de gerenciamento de banco de dados em nuvem para armazenar nossa lógica de negócio e os dados das aeronaves.
   
 - **Ambiente Cloud Oracle**: O ambiente Cloud Oracle oferece uma infraestrutura altamente escalável e eficiente para hospedar aplicativos empresariais. Utilizamos para hospedar nossa aplicação.
 
@@ -686,7 +684,7 @@ A solução consistiu em um sistema que consultava todos os dados armazenados na
 
 - **Vue.js**: Utilizamos o framework javascript Vue.js para o frontend da aplicação.
 
-- **Autonomous Database Oracle**: Utilizamos para armanezar todos os dados de gerenciamento dos restaurantes.
+- **Autonomous Database Oracle**: Solução de gerenciamento de banco de dados em nuvem para armazenar nossa lógica de negócio e os dados das aeronaves.
   
 ## Contribuições pessoais
 
