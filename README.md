@@ -488,7 +488,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 
 <p align="center">
     <b>Embraer</b> 
-    <img src="https://github.com/alantrs/Bertoti/blob/09db3eee9ca94737bc0fc52ef7fc1313ae6cdf71/metodologia/Imagens/embraer.png" alt="Logo embraer">
+    <img src="imagem/embraer.png" alt="Logo embraer">
 </p>
 
 ## Descrição do projeto
