@@ -39,6 +39,8 @@ O desafio proposto foi criar um projeto que tem como objetivo analisar os dados 
 
 A solução desenvolvida foi um sistema web em Python utilizando Flask, o qual processava os dados estatísticos da COVID disponibilizados pelo governo em arquivos CSV. Esse sistema permitia aos usuários visualizarem gráficos informativos, incluindo barras e setores, com estatísticas detalhadas sobre o vírus. Além disso, apresentava insights relevantes derivados dos dados existentes por meio de cálculos integrados.
 
+[GIT](https://github.com/SoSoJigsaw/Carcara)
+
 ## Tecnologias utilizadas
 
 - **Python e Flask**: Python, uma linguagem conhecida por sua simplicidade e versatilidade, foi a tecnologia usada como base para o desenvolvimento. Flask, um framework web em Python, foi incorporado para facilitar a criação de aplicativos web.
@@ -137,7 +139,6 @@ Nesse projeto aprendi a introdução aos algoritmos com Python e noções de ver
   </ul>
 </details>  
 
-[GIT](https://github.com/SoSoJigsaw/Carcara)
 <hr>
     
 # Projeto 2: 2022-1
@@ -156,6 +157,8 @@ Nesse projeto aprendi a introdução aos algoritmos com Python e noções de ver
 O desafio proposto foi desenvolver uma solução eficaz para o gerenciamento da ativação de clientes na plataforma Dom Rock. A meta era criar um sistema que facilitasse significativamente a entrada de dados dos clientes, possibilitando uma alocação de recursos mais eficiente e precisa na plataforma.
 
 A solução consiste em uma aplicação desktop desenvolvida em Java, projetada para capturar dados personalizados de cada cliente e utilizar essas informações para alocar recursos de forma eficiente na plataforma. Essa abordagem abrange a estimativa de consumo de recursos com base em critérios como o volume de dados do cliente e o número de usuários. Além disso, a solução foi concebida para oferecer funcionalidades adicionais, como a geração de relatórios e consultas, proporcionando uma visão abrangente e detalhada das atividades e necessidades dos clientes.
+
+[GIT](https://github.com/CarcaraTec/Dom-Rock)
 
 ## Tecnologias utilizadas
 
@@ -258,7 +261,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
   </ul>
 </details> 
 
-[GIT](https://github.com/CarcaraTec/Dom-Rock)
+
 <hr>
 
 # Projeto 3: 2022-2
@@ -276,6 +279,8 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
 Foi proposto um desafio para desenvolver um sistema capaz de importar dados meteorológicos de arquivos CSV disponibilizados pela empresa, armazená-los em uma base de dados e gerar relatórios solicitados pelos clientes da empresa IACIT. 
 
 A solução foi criar uma aplicação web capaz de filtrar os registros por regiões, estados, estações, tipo de dado e ranges de datas, além de exibir as informações em formato de gráficos e cards. Por fim, obter relatórios com base na pesquisa realizada.
+
+ [GIT](https://github.com/CarcaraTec/IACIT)
  
  ## Tecnologias utilizadas
  
@@ -474,7 +479,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
   </ul>
 </details> 
 
-[GIT](https://github.com/CarcaraTec/IACIT)
+
 <hr>
 
 # Projeto 4: 2023-1
@@ -491,6 +496,8 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 O desafio proposto foi desenvolver uma plataforma que permitisse aos usuários consultar os itens instalados nas aeronaves. O sistema deveria incluir funcionalidades de verificação e edição dos itens instalados ou aplicáveis a determinados "chassis" de acordo com uma base de dados fornecida.
 
 A solução foi um sistema que armazenava todas as regras de composição de itens em um banco de dados. Quando um número de chassi era consultado, o sistema recuperava as regras de composição correspondentes desse chassi no banco de dados. Em seguida, os itens compatíveis com o chassi consultado eram exibidos na tela para o usuário.
+
+[GIT](https://github.com/CarcaraTec/Embraer)
 
 ## Tecnologias utilizadas
 
@@ -655,7 +662,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
   </ul>
 </details>
 
-[GIT](https://github.com/CarcaraTec/Embraer)
+
 <hr>
 
 # Projeto 5: 2023-2
@@ -671,6 +678,8 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
 Criar uma plataforma online abrangente para a gestão eficiente de restaurantes, oferecendo funcionalidades como painéis de controlo, gráficos, relatórios e gestão de pessoal, fornecedores e inventário. O objetivo é ajudar os proprietários de restaurantes a enfrentar desafios como o controlo de custos, a gestão de equipas e o inventário, com vista a melhorar as suas operações.
 
 A solução consistiu em um sistema que consultava todos os dados armazenados na base de dados, realizava cálculos para fornecer diversos insights e disponibilizava-os em gráficos, tabelas e cards intuitivos.
+
+[GIT](https://github.com/CarcaraTec/Cloud-Kitchen-Oracle)
 
 ## Tecnologias utilizadas 
 
@@ -822,7 +831,7 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
   </ul>
 </details> 
 
-[GIT](https://github.com/CarcaraTec/Cloud-Kitchen-Oracle)
+<hr>
 
 
 # Projeto 6: 2024-1
@@ -831,6 +840,7 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 
 ## Descrição do projeto
 
+[GIT](https://github.com/CarcaraTec/Imagem-api6sem)
 ## Tecnologias utilizadas 
 
 ## Contribuições pessoais
@@ -841,4 +851,5 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 
 ### Soft Skills
 
-[GIT](https://github.com/CarcaraTec/Imagem-api6sem)
+
+<hr>
