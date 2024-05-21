@@ -679,9 +679,7 @@ A solução consistiu em um sistema que consultava todos os dados armazenados na
 ## Tecnologias utilizadas 
 
 - **Java e Spring boot**: A linguagem Java foi utilizada em conjunto ao framework Spring para desenvolvimento web e criação de API's REST.
-
 - **Vue.js**: Utilizamos o framework javascript Vue.js para o frontend da aplicação.
-
 - **Autonomous Database Oracle**: Solução de gerenciamento de banco de dados em nuvem para gerenciamento dos dados.
   
 ## Contribuições pessoais
