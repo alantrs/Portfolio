@@ -502,7 +502,7 @@ A solução foi um sistema que armazenava todas as regras de composição de ite
 
 - **Vue.js**: Framework javascript Vue.js para o frontend da aplicação.
 
-- **Autonomous Database Oracle**: Solução de gerenciamento de banco de dados em nuvem para armazenar nossa lógica de negócio e os dados das aeronaves.
+- **Autonomous Database Oracle**: Solução de gerenciamento de banco de dados em nuvem para gerenciamento dos dados.
 
 ## Contribuições pessoais
 
@@ -682,7 +682,7 @@ A solução consistiu em um sistema que consultava todos os dados armazenados na
 
 - **Vue.js**: Utilizamos o framework javascript Vue.js para o frontend da aplicação.
 
-- **Autonomous Database Oracle**: Solução de gerenciamento de banco de dados em nuvem para armazenar nossa lógica de negócio e os dados das aeronaves.
+- **Autonomous Database Oracle**: Solução de gerenciamento de banco de dados em nuvem para gerenciamento dos dados.
   
 ## Contribuições pessoais
 
