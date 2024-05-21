@@ -43,10 +43,9 @@ A solução desenvolvida foi um sistema web em Python utilizando Flask, o qual p
 
 ## Tecnologias utilizadas
 
-- **Python e Flask**: Python, uma linguagem conhecida por sua simplicidade e versatilidade, foi a tecnologia usada como base para o desenvolvimento. Flask, um framework web em Python, foi incorporado para facilitar a criação de aplicativos web.
-
-- **Pandas**: O Pandas foi empregado para realizar a leitura e manipulação dos dados provenientes de arquivos CSV. Além disso, o Pandas se integra bem com o NumPy, o que proporcionou um desempenho otimizado para operações numéricas durante o processamento dos dados. Essa combinação permitiu uma manipulação eficaz e ágil dos dados, essencial para o desenvolvimento e análise de aplicações baseadas em dados.
-
+- **Python**: linguagem de programação para o desenvolvimento back-end.
+- **Flask**: Flask, um framework web em Python, foi incorporado para facilitar a criação de aplicativos web.
+- **Pandas**: O Pandas foi empregado para realizar a leitura e manipulação dos dados provenientes de arquivos CSV. Além disso, o Pandas se integra bem com o NumPy, o que proporcionou um desempenho otimizado para operações numéricas durante o processamento dos dados.
 - **Html, Css**: A combinação destas linguagens permitiu criarmos a parte visual do nosso projeto.
 
 ## Contribuições pessoais
