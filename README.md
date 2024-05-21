@@ -45,7 +45,7 @@ A solução desenvolvida foi um sistema web em Python utilizando Flask, o qual p
 
 - **Python**: linguagem de programação para o desenvolvimento back-end.
 - **Flask**: Flask, um framework web em Python, foi incorporado para facilitar a criação de aplicativos web.
-- **Pandas**: O Pandas foi empregado para realizar a leitura e manipulação dos dados provenientes de arquivos CSV. Além disso, o Pandas se integra bem com o NumPy, o que proporcionou um desempenho otimizado para operações numéricas durante o processamento dos dados.
+- **Pandas**: O Pandas foi empregado para realizar a leitura e manipulação dos dados provenientes de arquivos CSV.
 - **Html, Css**: A combinação destas linguagens permitiu criarmos a parte visual do nosso projeto.
 
 ## Contribuições pessoais
@@ -503,8 +503,6 @@ A solução foi um sistema que armazenava todas as regras de composição de ite
 - **Vue.js**: Framework javascript Vue.js para o frontend da aplicação.
 
 - **Autonomous Database Oracle**: Solução de gerenciamento de banco de dados em nuvem para armazenar nossa lógica de negócio e os dados das aeronaves.
-  
-- **Ambiente Cloud Oracle**: O ambiente Cloud Oracle oferece uma infraestrutura altamente escalável e eficiente para hospedar aplicativos empresariais. Utilizamos para hospedar nossa aplicação.
 
 ## Contribuições pessoais
 
