@@ -823,3 +823,22 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 </details> 
 
 [GIT](https://github.com/CarcaraTec/Cloud-Kitchen-Oracle)
+
+
+# Projeto 6: 2024-1
+
+### Empresa parceira
+
+## Descrição do projeto
+
+## Tecnologias utilizadas 
+
+## Contribuições pessoais
+
+## Aprendizados efetivos
+
+### Hard Skills
+
+### Soft Skills
+
+[GIT](https://github.com/CarcaraTec/Imagem-api6sem)
