@@ -267,7 +267,7 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
 ### Empresa parceira  
 
 <p align="center">
-    <b>IACIT soluções tecnológicas S.A.</b> 
+  <b><a href="https://www.iacit.com.br/">IACIT soluções tecnológicas S.A.</a></b>
     <img src="https://github.com/alantrs/Bertoti/blob/ce55d69f624ba22495bcf76f626bb86899750763/metodologia/Imagens/Iacit.png" alt="Logo da IACIT soluções tecnológicas">
 </p>
 
@@ -484,7 +484,7 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 ### Empresa parceira
 
 <p align="center">
-    <b>Embraer</b> 
+    <b><a href="https://embraer.com/br/pt">Embraer</a></b>
     <img src="imagem/embraer.png" alt="Logo embraer">
 </p>
 
