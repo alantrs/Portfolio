@@ -29,7 +29,7 @@
 ### Empresa parceira  
 
 <p align="center">
-    <b>Interno - Fatec</b> 
+    <b>Interno - <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec</a></b> 
     <img src="https://github.com/alantrs/Bertoti/blob/fb16a234423d629719a0fa98c0c15c1295ef0420/metodologia/Imagens/Carcara.png" alt="Logo carcara analises">
 </p>
 
@@ -145,7 +145,7 @@ Nesse projeto aprendi a introdução aos algoritmos com Python e noções de ver
 ### Empresa parceira  
 
 <p align="center">
-    <b>Dom Rock</b>
+    <b><a href="https://www.domrock.net/">Dom Rock</a></b>
 </br>
     <img src="https://github.com/alantrs/Bertoti/blob/efd7a4e3055f78276feb65f55b0702623e0f2636/metodologia/Imagens/domrock2.png" alt="Logo dom rock">
 </p>
