@@ -610,21 +610,13 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
 ### Hard Skills
 
  <details>
-  <summary><b>Funções e Procedures com PL/SQL: sei fazer com ajuda</b></summary>
+  <summary><b>PL/SQL: sei fazer com ajuda</b></summary>
      <br>
   <ul>
-    <li>Estrutura e funcionamento de uma função</li>
-    <li>Estrutura e funcionamento de uma procedure</li>
-    <Li>Como executar funções e procedures</Li>
-  </ul>
- </details>
-
-  <details>
-  <summary><b>Triggers: sei fazer com autonomia</b></summary>
-     <br>
-  <ul>
-    <li>Estrutura e funcionamento de uma trigger</li>
-    <li>Utilização e vantagens</li>
+    <li>Criar funções</li>
+    <li>Criar procedures</li>
+    <li>Criar triggers</li>
+    <Li>Criar packages</Li>
   </ul>
  </details>
 
