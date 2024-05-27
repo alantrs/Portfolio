@@ -103,7 +103,7 @@ Nesse projeto aprendi a introdução aos algoritmos com Python e noções de ver
 ### Hard Skills
 
 <details>
-<summary><b>Python: sei fazer com autonomia</b></summary>
+<summary><b>Python: sei fazer com ajuda</b></summary>
 <br>
 <ul>
   <li>Lógica de programação</li>
@@ -112,7 +112,7 @@ Nesse projeto aprendi a introdução aos algoritmos com Python e noções de ver
 </ul>
 </details>
 <details>
-<summary><b>Flask: sei fazer com autonomia</b></summary>
+<summary><b>Flask: sei fazer com ajuda</b></summary>
 <br>
 <ul>
   <li>Criação de endpoints</li>
