@@ -499,9 +499,7 @@ A solução foi um sistema que armazenava todas as regras de composição de ite
 ## Tecnologias utilizadas
 
 - **Java e Spring boot**: A linguagem Java foi utilizada em conjunto ao framework Spring para desenvolvimento web e criação de API's REST.
-
 - **Vue.js**: Framework javascript Vue.js para o frontend da aplicação.
-
 - **Autonomous Database Oracle**: Solução de gerenciamento de banco de dados em nuvem para gerenciamento dos dados.
 
 ## Contribuições pessoais
@@ -662,7 +660,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
 
 ## Descrição do projeto
 
-Criar uma plataforma online abrangente para a gestão eficiente de restaurantes, oferecendo funcionalidades como painéis de controlo, gráficos, relatórios e gestão de pessoal, fornecedores e inventário. O objetivo é ajudar os proprietários de restaurantes a enfrentar desafios como o controlo de custos, a gestão de equipas e o inventário, com vista a melhorar as suas operações.
+O desafio proposto foi criar uma plataforma online abrangente para a gestão eficiente de restaurantes, oferecendo funcionalidades como painéis de controle, gráficos, relatórios e gestão de pessoal, fornecedores e inventário. O objetivo é ajudar os proprietários de restaurantes a enfrentar desafios como o controlo de custos, a gestão de equipas e o inventário, com vista a melhorar as suas operações.
 
 A solução consistiu em um sistema que consultava todos os dados armazenados na base de dados, realizava cálculos para fornecer diversos insights e disponibilizava-os em gráficos, tabelas e cards intuitivos.
 
@@ -824,17 +822,109 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 ### Empresa parceira
 
 ## Descrição do projeto
+O desafio proposto foi ...
+
 
 [GIT](https://github.com/CarcaraTec/Imagem-api6sem)
 ## Tecnologias utilizadas 
 
+- **Java e Spring boot**: A linguagem Java foi utilizada em conjunto ao framework Spring para desenvolvimento da camada de segurança da aplicação.
+- **Python e Flask**: A linguagem Python foi utilizada em conjunto ao framework Flask para desenvolvimento web e criação de API's REST.
+- **MongoDB**: Tecnologia em banco de dados nao relacional para armazenar os dados do nosso dataset.
+- **MySQL**: Sistema de gerenciamento de banco de dados utilizado para armazenar dados dos usuarios.
+- **Vue.js**: Framework javascript Vue.js para o frontend da aplicação.
+
 ## Contribuições pessoais
+
+Neste projeto, assumi um papel central no desenvolvimento do backend utilizando Python com seu framework Flask. Fui encarregado de implementar o tratamento dos dados que eram buscados no mongodb e gerar endpoints para fornecer esses dados tratados ao frontend, facilitando sua exibição em gráficos, tabelas e cards. Além disso também fui responsável pelo fornecimento de mapas interativos para visualização geográfica dos nossos registros.
+
+<details>
+  <summary><b></b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
+
+<details>
+  <summary><b></b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
+
+<details>
+  <summary><b></b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
+
+<details>
+  <summary><b></b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
 
 ## Aprendizados efetivos
 
+
+
 ### Hard Skills
+
+<details>
+  <summary><b></b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
+
+<details>
+  <summary><b></b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
+
+<details>
+  <summary><b></b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
+
 
 ### Soft Skills
 
+<details>
+  <summary><b></b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
+
+<details>
+  <summary><b></b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
+
+<details>
+  <summary><b></b></summary>
+  <br>
+  <ul>
+    <li></li>
+  </ul>
+</details> 
 
 <hr>
