@@ -920,7 +920,7 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
   <summary><b>Responsabilidade</b></summary>
   <br>
   <ul>
-    <li>Sendo o único desenvolvedor responsável pelo backend, precisei assumi a responsabilidade de garantir a entrega dos resultados dentro dos prazos estabelecidos. O backend era o núcleo da nossa aplicação, contendo todas as regras de negócio para gerar insights e disponibilizar endpoints para o frontend.</li>
+    <li>Sendo o único desenvolvedor responsável pelo backend, precisei assumir a responsabilidade de garantir a entrega dos resultados dentro dos prazos estabelecidos. O backend era o núcleo da nossa aplicação, contendo todas as regras de negócio para gerar insights e disponibilizar endpoints para o frontend.</li>
   </ul>
 </details> 
 
