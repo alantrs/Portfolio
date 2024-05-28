@@ -797,6 +797,14 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 ### Soft Skills
 
 <details>
+  <summary><b>Pensamento crítico</b></summary>
+  <br>
+  <ul>
+    <li>Precisei desenvolver um pensamento crítico ao explorar e implementar maneiras eficazes para desenvolver métodos que traziam os insights exigidos pelo cliente de forma rápida e clara.</li>
+  </ul>
+</details> 
+
+<details>
   <summary><b>Colaboração</b></summary>
   <br>
   <ul>
@@ -808,7 +816,7 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
   <summary><b>Responsabilidade</b></summary>
   <br>
   <ul>
-    <li>Assumi a responsabilidade pelo back-end da aplicação, garantindo a entrega de resultados de qualidade e dentro dos prazos estabelecidos.</li>
+    <li>Assumi a responsabilidade pelo back-end da aplicação, garantindo a entrega de resultados de qualidade e dentro dos prazos estabelecidos. Isso envolveu desde a arquitetura inicial do sistema até a implementação e testes, assegurando que o backend suportasse todas as funcionalidades necessárias de forma eficiente e segura.</li>
   </ul>
 </details>
 
