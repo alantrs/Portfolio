@@ -880,12 +880,10 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 
 ## Aprendizados efetivos
 
-
-
 ### Hard Skills
 
 <details>
-  <summary><b></b></summary>
+  <summary><b>Python</b></summary>
   <br>
   <ul>
     <li></li>
@@ -893,7 +891,7 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 </details> 
 
 <details>
-  <summary><b></b></summary>
+  <summary><b>Flask</b></summary>
   <br>
   <ul>
     <li></li>
@@ -901,18 +899,17 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 </details> 
 
 <details>
-  <summary><b></b></summary>
+  <summary><b>MongoDB</b></summary>
   <br>
   <ul>
     <li></li>
   </ul>
 </details> 
-
 
 ### Soft Skills
 
 <details>
-  <summary><b></b></summary>
+  <summary><b>Aprendizado Contínuo</b></summary>
   <br>
   <ul>
     <li></li>
@@ -920,15 +917,7 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 </details> 
 
 <details>
-  <summary><b></b></summary>
-  <br>
-  <ul>
-    <li></li>
-  </ul>
-</details> 
-
-<details>
-  <summary><b></b></summary>
+  <summary><b>Responsabilidade</b></summary>
   <br>
   <ul>
     <li></li>
