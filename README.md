@@ -30,7 +30,7 @@
 
 <p align="center">
     <b>Interno - <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec</a></b> 
-    <img src="https://github.com/alantrs/Bertoti/blob/fb16a234423d629719a0fa98c0c15c1295ef0420/metodologia/Imagens/Carcara.png" alt="Logo carcara analises">
+    <img src="imagem/fatec.png" alt="Logo carcara analises">
 </p>
 
 ## Descrição do projeto
