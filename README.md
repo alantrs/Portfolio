@@ -678,7 +678,7 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 <br>
 
 <details>
-<summary><b>Calculo de permanência média</b></summary>
+<summary><b>Método de calculo de permanência média de clientes no restaurante</b></summary>
 <br>
 
 Um dos métodos que desenvolvi para insights foi o calculo de permanencia média do cliente no restaurante. No método, são consultadas as comandas registradas no sistema dentro do intervalo de tempo especificado. Para cada comanda encontrada, são calculados os horários de abertura e fechamento, e a duração da permanência do cliente é obtida através da diferença entre esses horários. A duração total de todas as permanências é então somada e dividida pelo número de comandas para obter a média.
@@ -714,7 +714,7 @@ Um dos métodos que desenvolvi para insights foi o calculo de permanencia média
 
 
 <details>
-<summary><b>Rank de pratos vendidos</b></summary>
+<summary><b>Método de rank de pratos vendidos</b></summary>
 <br>
 Outro método de insight que desenvolvi foi o de ranking de pratos vendidos. Este método tem como objetivo fornecer um ranking dos pratos mais e menos vendidos no restaurante, agrupados por tipo de produto. Utilizando chamadas para outros métodos separados, essa lógica identifica os produtos com as maiores e menores quantidades de vendas.
 
@@ -802,7 +802,7 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
   <summary><b>Colaboração</b></summary>
   <br>
   <ul>
-    <li></li>
+    <li>Colaborei com os membros da equipe, compartilhando ideias, recursos e responsabilidades para alcançar os objetivos do projeto.</li>
   </ul>
 </details> 
 
