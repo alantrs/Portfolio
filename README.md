@@ -883,7 +883,7 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 ### Hard Skills
 
 <details>
-  <summary><b>Python</b></summary>
+  <summary><b>Python: sei fazer com autonomia</b></summary>
   <br>
   <ul>
     <li></li>
@@ -891,7 +891,7 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 </details> 
 
 <details>
-  <summary><b>Flask</b></summary>
+  <summary><b>Flask: sei fazer com autonomia</b></summary>
   <br>
   <ul>
     <li></li>
@@ -899,7 +899,7 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 </details> 
 
 <details>
-  <summary><b>MongoDB</b></summary>
+  <summary><b>MongoDB: sei fazer com ajuda</b></summary>
   <br>
   <ul>
     <li></li>
