@@ -126,7 +126,8 @@ Nesse projeto aprendi a introdução aos algoritmos com Python e noções de ver
   <summary><b>Comunicação</b></summary>
   <br>
   <ul>
-    <li>Durante este semestre, as aulas no formato EAD apresentaram desafios extras na comunicação, o que me motivou a aprimorar ainda mais essa habilidade com meu grupo. Investir na comunicação com a equipe ajudou a fortalecer os laços entre os membros e facilitou o aprendizado por meio das experiências individuais de cada um.</li>
+    <li>
+      Durante este semestre, as aulas no formato EAD apresentaram desafios extras na comunicação, então precisei aprimorar essa habilidade com meu grupo. Investir na comunicação com a equipe ajudou a fortalecer os laços entre os membros e facilitou o aprendizado por meio das experiências individuais de cada um.</li>
   </ul>
 </details>
 
@@ -134,7 +135,7 @@ Nesse projeto aprendi a introdução aos algoritmos com Python e noções de ver
   <summary><b>Trabalho em equipe</b></summary>
   <br>
   <ul>
-    <li>Ao participar ativamente do desenvolvimento do projeto, pude aprimorar significativamente minhas habilidades de trabalho em equipe, as quais são fundamentais para o sucesso e a realização dos objetivos propostos.</li>
+    <li>Ao participar ativamente do desenvolvimento do projeto, precisei aprimorar significativamente minhas habilidades de trabalho em equipe, as quais foram fundamentais para o sucesso e a realização dos objetivos propostos.</li>
   </ul>
 </details>  
 
@@ -249,14 +250,14 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
   <summary><b>Adaptabilidade</b></summary>
   <br>
   <ul>
-    <li>Lidar com uma equipe totalmente nova exigiu rápida adaptação e flexibilidade para nos ajustarmos ao ambiente e às dinâmicas de trabalho. A capacidade de ser flexível e adaptável foi essencial para responder de forma eficaz às mudanças e desafios que surgiram, permitindo-nos manter o foco no objetivo final e atender às necessidades do cliente de maneira ágil e eficiente</li>
+    <li>Com uma equipe praticamente nova, precisei de rápida adaptação e flexibilidade para me ajustar ao ambiente e às dinâmicas de trabalho. A capacidade de ser flexível e adaptável foi essencial para responder de forma eficaz às mudanças e desafios que surgiram, permitindo-nos manter o foco no objetivo final e atender às necessidades do cliente de maneira ágil e eficiente</li>
   </ul>
 </details> 
 <details>
   <summary><b>Aprendizado contínuo</b></summary>
   <br>
   <ul>
-    <li>A partir desse semestre foi introduzido a tecnologia de banco de dados para a aplicação a ser desenvolvida, e foi necessário estudar para aprender sobre SQL e sobre PostgreSQL.</li>
+  <li>Neste semestre, foi introduzida a tecnologia de banco de dados na aplicação a ser desenvolvida. Para isso, precisei buscar constantemente novos conhecimentos sobre SQL e PostgreSQL. Este aprendizado foi aplicado diretamente no projeto, garantindo que utilizássemos as melhores práticas e ferramentas disponíveis.</li>
   </ul>
 </details> 
 
@@ -462,9 +463,9 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
   <summary><b>Organização</b></summary>
   <br>
   <ul>
-    <li>Fui responsável por organizar o repositório do projeto, as documentações, e tambem o controle do burndown. Ser organizado foi fundamental para manter tudo alinhado para equipe manter o foco em executar de forma clara.</li>
+    <li>Precisei ser organizado para garantir que a equipe mantivesse o foco e executasse suas tarefas de forma clara e eficiente. Essa organização ajudou a alinhar as atividades e a manter o progresso do projeto no caminho certo.</li>
   </ul>
-</details> 
+</details>
 
 <details>
   <summary><b>Comunicação</b></summary>
@@ -595,9 +596,6 @@ Para facilitar a consulta e diminuir a complexidade para o backend, criei essa v
     ```
 </details>
 
-
-
-
 ## Aprendizados efetivos
 
 Este projeto proporcionou a oportunidade de aprendizado sobre tópicos avançados em banco de dados. Durante o desenvolvimento, adquiri habilidades como a criação e execução de funções e procedimentos, o que me permitiu entender melhor a manipulação e gestão de dados.
@@ -634,7 +632,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
   <summary><b>Proatividade</b></summary>
   <br>
   <ul>
-    <li>Utilizando uma tecnologia nova, o Autonomous Database da Oracle, precisei ser proativo em aprender sobre a ferramenta e descobrir funcionalidades que ajudariam no controle da lógica do projeto. Essa soft skill me permitiu aprender muito e ver minha capacidade de tomar a frente de uma responsabilidade que era fundamental para o funcionamento do projeto.</li>
+    <li>Utilizando uma tecnologia nova, o Autonomous Database da Oracle, precisei ser proativo em tomar a frente de aprender sobre a ferramenta e descobrir funcionalidades que ajudariam no controle da lógica do projeto. Essa soft skill me permitiu aprender muito e ver minha capacidade de tomar a frente de uma responsabilidade que era fundamental para o funcionamento do projeto.</li>
   </ul>
 </details> 
 
@@ -807,12 +805,12 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 </details> 
 
 <details>
-  <summary><b>Proatividade</b></summary>
+  <summary><b>Responsabilidade</b></summary>
   <br>
   <ul>
-    <li></li>
+    <li>Assumi a responsabilidade pelo back-end da aplicação, garantindo a entrega de resultados de qualidade e dentro dos prazos estabelecidos.</li>
   </ul>
-</details> 
+</details>
 
 <hr>
 
