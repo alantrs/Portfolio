@@ -721,9 +721,9 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
   <summary><b>Java e Spring Boot: sei fazer com autonomia</b></summary>
   <br>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>API REST</li>
+    <li>Arquitetura MVC</li>
+    <li>ORM</li>
   </ul>
 </details> 
 
@@ -738,7 +738,7 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 </details> 
 
 <details>
-  <summary><b>Testes com Junit: sei fazer com autonomia</b></summary>
+  <summary><b>Testes automatizacos com JUnit: sei fazer com autonomia</b></summary>
   <br>
   <ul>
     <li>Implementação</li>
