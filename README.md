@@ -605,7 +605,7 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
 
 ## Descrição do projeto
 
-O desafio proposto foi criar uma plataforma online abrangente para a gestão eficiente de restaurantes, oferecendo funcionalidades como painéis de controle, gráficos, relatórios e gestão de pessoal, fornecedores e inventário. O objetivo é ajudar os proprietários de restaurantes a enfrentar desafios como o controlo de custos, a gestão de equipas e o inventário, com vista a melhorar as suas operações.
+O desafio proposto foi criar uma plataforma online abrangente para a gestão eficiente de restaurantes, oferecendo funcionalidades como painéis de controle, gráficos, relatórios e gestão de pessoal, fornecedores e inventário. O objetivo é ajudar os proprietários de restaurantes a enfrentar desafios como o controle de custos, a gestão de funcionários e o inventário, com vista a melhorar as suas operações.
 
 A solução consistiu em um sistema que consultava todos os dados armazenados na base de dados, realizava cálculos para fornecer diversos insights e disponibilizava-os em gráficos, tabelas e cards intuitivos.
 
@@ -762,7 +762,9 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 ### Empresa parceira
 
 ## Descrição do projeto
-O desafio proposto foi ...
+O desafio proposto foi desenvolver uma plataforma sofisticada para analisar e visualizar os sentimentos dos clientes com base em avaliações online, integrando tecnologia de ponta para fornecer insights geograficamente contextualizados.
+
+A solução consiste em uma inteligência artificial (IA) que analisa sentimentos nas avaliações de clientes sobre hotéis, classificando-os como neutros, positivos ou negativos. Os dados são armazenados em um banco de dados não relacional específico para o setor hoteleiro. Com base nesses dados, foi desenvolvido um software que apresenta insights valiosos por meio de funcionalidades como mapas interativos, gráficos de tendências, cards informativos e um sistema de gerenciamento de acesso. Esses recursos permitem que as empresas visualizem e analisem o feedback dos clientes em tempo real, facilitando decisões informadas e estratégicas.
 
 
 [GIT](https://github.com/CarcaraTec/Imagem-api6sem)
