@@ -781,36 +781,103 @@ A solução consiste em uma inteligência artificial (IA) que analisa sentimento
 Neste projeto, assumi um papel central no desenvolvimento do backend utilizando Python com seu framework Flask. Fui encarregado de implementar o tratamento dos dados que eram buscados no mongodb e gerar endpoints para fornecer esses dados tratados ao frontend, facilitando sua exibição em gráficos, tabelas e cards. Além disso também fui responsável pelo fornecimento de mapas interativos para visualização geográfica dos nossos registros.
 
 <details>
-  <summary><b></b></summary>
+  <summary><b>Métodos de acesso a banco de dados orientado a documentos</b></summary>
   <br>
-  <ul>
-    <li></li>
-  </ul>
+  Implementei métodos de acesso ao banco de dados MongoDB.
+
+  ```python
+    def select_many(self, filter) -> List[Dict]:
+          collection = self.get_collection()
+  
+          data = collection.find(filter)
+          response = [{**elem, '_id': str(elem['_id'])} for elem in data]
+          return response
+          
+    def select_random(self, filtro, num_samples: int) -> List[Dict]:
+          collection = self.get_collection()
+  
+          pipeline = [
+              {"$match": filtro},
+              {"$sample": {"size": num_samples}},
+              {"$project": {"lat": 1, "lng": 1, "sentiment": 1}} 
+          ]
+  
+          random_documents = collection.aggregate(pipeline)
+          response = [{**elem, '_id': str(elem['_id'])} for elem in random_documents]
+          return response
+
+  ```
+
+</details> 
+
+
+<details>
+  <summary><b>Mapas interativos de calor e de marcações</b></summary>
+  <br>
+   Utilizei a biblioteca Folium para criar mapas, permitindo mostrar geograficamente nossos registros.
+  
+  ```python
+    def gerar_mapa_de_calor(self, sentimento= None, cidade=None, data_inicio=None, data_fim=None) -> str:
+        m = folium.Map([47.3, 8.5], zoom_start=5)
+        filtro_cidade = self.repository.build_filtro_cidade(cidade)
+        filtro_data = self.repository.build_filtro_data(data_inicio, data_fim)
+
+        filter = {'lat': {'$exists': True}, 'lng': {'$exists': True}}
+
+        if sentimento is not None:
+            filter['sentiment'] = sentimento
+
+        filter.update(filtro_cidade)
+        filter.update(filtro_data)
+
+        data = self.repository.select_random(filter, 500)
+
+        coordinates = [
+            [elem.get('lat'), elem.get('lng')] 
+            for elem in data 
+            if not math.isnan(elem.get('lat')) and not math.isnan(elem.get('lng'))
+        ]
+
+        HeatMap(coordinates).add_to(m)
+
+        return m.get_root().render()
+  
+  ```
+
 </details> 
 
 <details>
-  <summary><b></b></summary>
+  <summary><b>Filtros personalizados</b></summary>
   <br>
-  <ul>
-    <li></li>
-  </ul>
-</details> 
 
-<details>
-  <summary><b></b></summary>
-  <br>
-  <ul>
-    <li></li>
-  </ul>
-</details> 
+  Criei filtros personalizados e reutilizáveis.
 
-<details>
-  <summary><b></b></summary>
-  <br>
-  <ul>
-    <li></li>
-  </ul>
-</details> 
+  ```python
+    def build_filtro_data(self, data_inicio: str = None, data_fim: str = None) -> dict:
+          if not data_inicio or not data_fim:
+              return {}
+  
+          inicio_datetime = datetime.strptime(data_inicio, "%m/%Y")
+          fim_datetime = datetime.strptime(data_fim, "%m/%Y")
+  
+          fim_do_mes = calendar.monthrange(fim_datetime.year, fim_datetime.month)[1]
+          fim_datetime = fim_datetime.replace(day=fim_do_mes)
+  
+          return {
+              "Review_Date": {
+                  "$gte": inicio_datetime,
+                  "$lte": fim_datetime
+              }
+          }
+  
+      def build_filtro_regex_tags(self, regex: str) -> dict:
+          return {"Tags": {"$regex": regex, "$options": "i"}}
+  
+      def build_filtro_cidade(self, cidade: str) -> dict:
+          return {"Hotel_Address": {"$regex": cidade, "$options": "i"}} if cidade else {}
+
+  ```
+</details>  
 
 ## Aprendizados efetivos
 
@@ -821,6 +888,8 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
   <br>
   <ul>
     <li></li>
+    <li></li>
+    <li></li>
   </ul>
 </details> 
 
@@ -829,14 +898,28 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
   <br>
   <ul>
     <li></li>
+    <li></li>
+    <li></li>
   </ul>
 </details> 
+
+<details>
+  <summary><b>Folium: sei fazer com autonomia</b></summary>
+  <br>
+  <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+</details>
 
 <details>
   <summary><b>MongoDB: sei fazer com ajuda</b></summary>
   <br>
   <ul>
-    <li></li>
+    <li>Consultas personalizadas</li>
+    <li>Criação de collections</li>
+    <li>Manipulação de documentos</li>
   </ul>
 </details> 
 
