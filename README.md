@@ -771,7 +771,7 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 ### Hard Skills
 
 <details>
-  <summary><b>Java e Spring Boot: Sei fazer com autonomia</b></summary>
+  <summary><b>Java e Spring Boot: sei fazer com autonomia</b></summary>
   <br>
   <ul>
     <li></li>
@@ -781,18 +781,21 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 </details> 
 
 <details>
-  <summary><b>Devops: Sei fazer com ajuda</b></summary>
+  <summary><b>Devops: sei fazer com ajuda</b></summary>
   <br>
   <ul>
-    <li></li>
+    <li>Gitflow</li>
+    <li>CI/CD</li>
+    <li>Pipeline</li>
   </ul>
 </details> 
 
 <details>
-  <summary><b>Testes com Junit: Sei fazer com autonomia</b></summary>
+  <summary><b>Testes com Junit: sei fazer com autonomia</b></summary>
   <br>
   <ul>
-    <li></li>
+    <li>Implementação</li>
+    <li>Tipos de testes</li>
   </ul>
 </details> 
 
