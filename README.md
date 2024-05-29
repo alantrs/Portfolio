@@ -764,7 +764,7 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 ## Descrição do projeto
 O desafio proposto foi desenvolver uma plataforma sofisticada para analisar e visualizar os sentimentos dos clientes com base em avaliações online, integrando tecnologia de ponta para fornecer insights geograficamente contextualizados.
 
-A solução consiste em uma inteligência artificial (IA) que analisa sentimentos nas avaliações de clientes sobre hotéis, classificando-os como neutros, positivos ou negativos. Os dados são armazenados em um banco de dados não relacional específico para o setor hoteleiro. Com base nesses dados, foi desenvolvido um software que apresenta insights valiosos por meio de funcionalidades como mapas interativos, gráficos de tendências, cards informativos e um sistema de gerenciamento de acesso. Esses recursos permitem que as empresas visualizem e analisem o feedback dos clientes em tempo real, facilitando decisões informadas e estratégicas.
+A solução consiste em uma inteligência artificial (IA) que analisa sentimentos nas avaliações de clientes sobre hotéis, classificando-os como neutros, positivos ou negativos. Os dados são armazenados em um banco de dados não relacional, e com base nesses dados foi desenvolvido um software que apresenta insights valiosos por meio de funcionalidades como mapas interativos, gráficos de tendências, cards informativos e um sistema de gerenciamento de acesso. Esses recursos permitem que as empresas visualizem e analisem o feedback dos clientes em tempo real, facilitando decisões informadas e estratégicas.
 
 
 [GIT](https://github.com/CarcaraTec/Imagem-api6sem)
