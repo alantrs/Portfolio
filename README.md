@@ -122,22 +122,9 @@ Nesse projeto aprendi a introdução aos algoritmos com Python e noções de ver
 
 ### Soft Skills
 
-<details>
-  <summary><b>Comunicação</b></summary>
-  <br>
-  <ul>
-    <li>
-      Durante este semestre, as aulas no formato EAD apresentaram desafios extras na comunicação, então precisei aprimorar essa habilidade com meu grupo. Investir na comunicação com a equipe ajudou a fortalecer os laços entre os membros e facilitou o aprendizado por meio das experiências individuais de cada um.</li>
-  </ul>
-</details>
+- **Comunicação**: Durante este semestre, as aulas no formato EAD apresentaram desafios extras na comunicação, então precisei aprimorar essa habilidade com meu grupo. Investir na comunicação com a equipe ajudou a fortalecer os laços entre os membros e facilitou o aprendizado por meio das experiências individuais de cada um.
 
-<details>
-  <summary><b>Trabalho em equipe</b></summary>
-  <br>
-  <ul>
-    <li>Ao participar ativamente do desenvolvimento do projeto, precisei aprimorar significativamente minhas habilidades de trabalho em equipe, as quais foram fundamentais para o sucesso e a realização dos objetivos propostos.</li>
-  </ul>
-</details>  
+- **Trabalho em equipe**: Ao participar ativamente do desenvolvimento do projeto, precisei aprimorar significativamente minhas habilidades de trabalho em equipe, as quais foram fundamentais para o sucesso e a realização dos objetivos propostos.</li>
 
 <hr>
     
@@ -246,20 +233,9 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
 
 ### Soft Skills
 
-<details>
-  <summary><b>Adaptabilidade</b></summary>
-  <br>
-  <ul>
-    <li>Com uma equipe praticamente nova, precisei de rápida adaptação e flexibilidade para me ajustar ao ambiente e às dinâmicas de trabalho. A capacidade de ser flexível e adaptável foi essencial para responder de forma eficaz às mudanças e desafios que surgiram, permitindo-nos manter o foco no objetivo final e atender às necessidades do cliente de maneira ágil e eficiente</li>
-  </ul>
-</details> 
-<details>
-  <summary><b>Aprendizado contínuo</b></summary>
-  <br>
-  <ul>
-  <li>Neste semestre, foi introduzida a tecnologia de banco de dados na aplicação a ser desenvolvida. Para isso, precisei buscar constantemente novos conhecimentos sobre SQL e PostgreSQL. Este aprendizado foi aplicado diretamente no projeto, garantindo que utilizássemos as melhores práticas e ferramentas disponíveis.</li>
-  </ul>
-</details> 
+- **Adaptabilidade**: Com uma equipe praticamente nova, precisei de rápida adaptação e flexibilidade para me ajustar ao ambiente e às dinâmicas de trabalho. A capacidade de ser flexível e adaptável foi essencial para responder de forma eficaz às mudanças e desafios que surgiram, permitindo-nos manter o foco no objetivo final e atender às necessidades do cliente de maneira ágil e eficiente.
+
+- **Aprendizado contínuo**: Neste semestre, foi introduzida a tecnologia de banco de dados na aplicação a ser desenvolvida. Para isso, precisei buscar constantemente novos conhecimentos sobre SQL e PostgreSQL. Este aprendizado foi aplicado diretamente no projeto, garantindo que utilizássemos as melhores práticas e ferramentas disponíveis.
 
 <hr>
 
@@ -459,25 +435,10 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 
 ### Soft Skills
 
-<details>
-  <summary><b>Organização</b></summary>
-  <br>
-  <ul>
-    <li>Precisei ser organizado para garantir que a equipe mantivesse o foco e executasse suas tarefas de forma clara e eficiente. Essa organização ajudou a alinhar as atividades e a manter o progresso do projeto no caminho certo.</li>
-  </ul>
-</details>
+- **Organização**: Precisei ser organizado para garantir que a equipe mantivesse o foco e executasse suas tarefas de forma clara e eficiente. Essa organização ajudou a alinhar as atividades e a manter o progresso do projeto no caminho certo.
 
-<details>
-  <summary><b>Comunicação</b></summary>
-  <br>
-  <ul>
-    <li>
-      Atuando como master também fui responsável por garantir uma comunicação eficaz e objetiva com minha equipe, proporcionando clareza e assegurando o cumprimento da metodologia definida para o projeto.
-    </li>
-  </ul>
-</details> 
-
-
+- **Comunicação**: Atuando como master também fui responsável por garantir uma comunicação eficaz e objetiva com minha equipe, proporcionando clareza e assegurando o cumprimento da metodologia definida para o projeto.
+ 
 <hr>
 
 # Projeto 4: 2023-1
@@ -628,23 +589,9 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
 
 ### Soft Skills
 
-<details>
-  <summary><b>Proatividade</b></summary>
-  <br>
-  <ul>
-    <li>Utilizando uma tecnologia nova, o Autonomous Database da Oracle, precisei ser proativo em tomar a frente de aprender sobre a ferramenta e descobrir funcionalidades que ajudariam no controle da lógica do projeto. Essa soft skill me permitiu aprender muito e ver minha capacidade de tomar a frente de uma responsabilidade que era fundamental para o funcionamento do projeto.</li>
-  </ul>
-</details> 
-
-<details>
-  <summary><b>Comunicação e Trabalho em equipe</b></summary>
-  <br>
-  <ul>
-  <li>Durante o projeto, contribuí significativamente para o desenvolvimento do time ao compartilhar os conhecimentos que adquiri em ferramentas avançadas de banco de dados. Essa iniciativa permitiu que a equipe melhorasse a arquitetura e o desempenho do backend, otimizando consultas e manipulações de dados. Ao apresentar esses conhecimentos, busquei garantir que todos os membros pudessem aproveitar ao máximo as capacidades da base de dados, promovendo um ambiente de trabalho colaborativo e eficiente. Além disso, estar aberto a compartilhar experiências e aprender com os colegas foi essencial para fortalecer os laços dentro do time e alcançar nossos objetivos de maneira mais eficaz.
-  </li>
-  </ul>
-</details>
-
+- **Proatividade**: Utilizando uma tecnologia nova, o Autonomous Database da Oracle, precisei ser proativo em tomar a frente de aprender sobre a ferramenta e descobrir funcionalidades que ajudariam no controle da lógica do projeto. Essa soft skill me permitiu aprender muito e ver minha capacidade de tomar a frente de uma responsabilidade que era fundamental para o funcionamento do projeto.
+- 
+- **Comunicação e Trabalho em equipe**: Durante o projeto, contribuí significativamente para o desenvolvimento do time ao compartilhar os conhecimentos que adquiri em ferramentas avançadas de banco de dados. Essa iniciativa permitiu que a equipe melhorasse a arquitetura e o desempenho do backend, otimizando consultas e manipulações de dados. Ao apresentar esses conhecimentos, busquei garantir que todos os membros pudessem aproveitar ao máximo as capacidades da base de dados, promovendo um ambiente de trabalho colaborativo e eficiente. Além disso, estar aberto a compartilhar experiências e aprender com os colegas foi essencial para fortalecer os laços dentro do time e alcançar nossos objetivos de maneira mais eficaz.
 
 <hr>
 
@@ -801,29 +748,11 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 
 ### Soft Skills
 
-<details>
-  <summary><b>Pensamento crítico</b></summary>
-  <br>
-  <ul>
-    <li>Precisei desenvolver um pensamento crítico ao explorar e implementar maneiras eficazes para desenvolver métodos que traziam os insights exigidos pelo cliente de forma rápida e clara.</li>
-  </ul>
-</details> 
+- **Pensamento crítico**: Precisei desenvolver um pensamento crítico ao explorar e implementar maneiras eficazes para desenvolver métodos que traziam os insights exigidos pelo cliente de forma rápida e clara.
 
-<details>
-  <summary><b>Colaboração</b></summary>
-  <br>
-  <ul>
-    <li>Colaborei com os membros da equipe, compartilhando ideias, recursos e responsabilidades para alcançar os objetivos do projeto.</li>
-  </ul>
-</details> 
+- **Colaboração**: Colaborei com os membros da equipe, compartilhando ideias, recursos e responsabilidades para alcançar os objetivos do projeto.
 
-<details>
-  <summary><b>Responsabilidade</b></summary>
-  <br>
-  <ul>
-    <li>Assumi a responsabilidade pelo back-end da aplicação, garantindo a entrega de resultados de qualidade e dentro dos prazos estabelecidos. Isso envolveu desde a arquitetura inicial do sistema até a implementação e testes, assegurando que o backend suportasse todas as funcionalidades necessárias de forma eficiente e segura.</li>
-  </ul>
-</details>
+- **Responsabilidade**: Assumi a responsabilidade pelo back-end da aplicação, garantindo a entrega de resultados de qualidade e dentro dos prazos estabelecidos. Isso envolveu desde a arquitetura inicial do sistema até a implementação e testes, assegurando que o backend suportasse todas as funcionalidades necessárias de forma eficiente e segura.
 
 <hr>
 
@@ -911,20 +840,7 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 
 ### Soft Skills
 
-<details>
-  <summary><b>Aprendizado Contínuo</b></summary>
-  <br>
-  <ul>
-    <li>Busquei constantemente aprofundar meus conhecimentos em desenvolvimento web com Python e Flask, além de adquirir novos conhecimentos sobre MongoDB, uma tecnologia com a qual eu tinha pouca familiaridade. Dediquei-me a estudar e aprender continuamente para garantir que o backend da aplicação fosse eficiente, seguro e atendesse às necessidades do projeto.</li>
-  </ul>
-</details>
+- **prendizado Contínuo**: Busquei constantemente aprofundar meus conhecimentos em desenvolvimento web com Python e Flask, além de adquirir novos conhecimentos sobre MongoDB, uma tecnologia com a qual eu tinha pouca familiaridade. Dediquei-me a estudar e aprender continuamente para garantir que o backend da aplicação fosse eficiente, seguro e atendesse às necessidades do projeto.
 
-<details>
-  <summary><b>Responsabilidade</b></summary>
-  <br>
-  <ul>
-    <li>Sendo o único desenvolvedor responsável pelo backend, precisei assumir a responsabilidade de garantir a entrega dos resultados dentro dos prazos estabelecidos. O backend era o núcleo da nossa aplicação, contendo todas as regras de negócio para gerar insights e disponibilizar endpoints para o frontend.</li>
-  </ul>
-</details> 
+- **Responsabilidade**: Sendo o único desenvolvedor responsável pelo backend, precisei assumir a responsabilidade de garantir a entrega dos resultados dentro dos prazos estabelecidos. O backend era o núcleo da nossa aplicação, contendo todas as regras de negócio para gerar insights e disponibilizar endpoints para o frontend.
 
-<hr>
