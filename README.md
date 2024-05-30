@@ -198,10 +198,10 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
 
 ### Hard Skills
 
-- **SQL**: sei fazer com autonomia
-- **Modelagem de dados**: sei fazer com autonomia
-- **PostgreSQL**: sei fazer com autonomia
-- **Git e Github**: sei fazer com autonomia
+- **SQL**: sei fazer com ajuda
+- **Modelagem de dados**: sei fazer com ajuda
+- **PostgreSQL**: sei fazer com ajuda
+- **Git e Github**: sei fazer com ajuda
 - **Scrum**: sei fazer com ajuda
 
 ### Soft Skills
@@ -366,8 +366,9 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 ### Hard Skills
 
 - **SQL**: sei fazer com autonomia
-- - **Modelagem de dados**: sei fazer com autonomia
+- **Modelagem de dados**: sei fazer com autonomia
 - **PostgreSQL**: sei fazer com autonomia
+- **Git e github**: sei fazer com autonomia
 - **Scrum**: sei fazer com autonomia
 
 ### Soft Skills
