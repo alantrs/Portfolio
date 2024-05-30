@@ -99,6 +99,7 @@ Por ser o primeiro projeto, dediquei meu tempo aos estudos e trabalhar em conjun
 ## Aprendizados efetivos
 
 <br>
+
 ### Hard Skills
 
 - **Python**: sei fazer com ajuda
@@ -194,6 +195,7 @@ Após validar nossa modelagem, procedi com a implementação física da nossa ba
 ## Aprendizados efetivos
 
 <br>
+
 ### Hard Skills
 
 - **SQL**: sei fazer com ajuda
@@ -360,6 +362,7 @@ CREATE TABLE vento (
 ## Aprendizados efetivos
 
 <br>
+
 ### Hard Skills
 
 - **SQL**: sei fazer com autonomia
@@ -495,6 +498,7 @@ Para facilitar a consulta e diminuir a complexidade para o backend, criei essa v
 ## Aprendizados efetivos
 
 <br>
+
 ### Hard Skills
 
 - **Modelagem de dados**: sei fazer com autonomia
@@ -630,6 +634,8 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 </details>
 
 ## Aprendizados efetivos
+
+<br>
 
 ### Hard Skills
 
@@ -773,6 +779,8 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 </details>  
 
 ## Aprendizados efetivos
+
+<br>
 
 ### Hard Skills
 
