@@ -102,23 +102,10 @@ Nesse projeto aprendi a introdução aos algoritmos com Python e noções de ver
 <br>
 ### Hard Skills
 
-<details>
-<summary><b>Python: sei fazer com ajuda</b></summary>
-<br>
-<ul>
-  <li>Lógica de programação</li>
-  <li>Estruturas de controle de fluxo: if else, while loop, for loop</li>
-  <li>Manipulação de dados</li>
-</ul>
-</details>
-<details>
-<summary><b>Flask: sei fazer com ajuda</b></summary>
-<br>
-<ul>
-  <li>Criação de endpoints</li>
-  <li>Métodos HTTP GET e POST</li>
-</ul>
-</details>
+- **Python**: sei fazer com ajuda
+- **Flask**: sei fazer com ajuda
+- **Git e github**: sei fazer com ajuda
+- **Scrum**: sei fazer com ajuda
 
 ### Soft Skills
 
@@ -211,25 +198,11 @@ Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados
 
 ### Hard Skills
 
-<details>
-  <summary><b>Recursos básicos de Banco de dados: sei fazer com autonomia</b></summary>
-    <br>
-  <ul>
-    <li>Estrutura do banco, distribuição das tabelas</li>
-    <Li>Modelo conceitual, Modelo lógico e Modelo físico</Li>
-    <Li>Criar script</Li>
-    <Li>Realizar querys simples</Li>
-  </ul>
- </details>
-
- <details>
-  <summary><b>Git: sei fazer com autonomia</b></summary>
-     <br>
-  <ul>
-    <li>Comandos básicos: git add, git commit, git pull, git push</li>
-    <Li>Criar branches</Li>
-  </ul>
- </details>
+- **SQL**: sei fazer com autonomia
+- **Modelagem de dados**: sei fazer com autonomia
+- **PostgreSQL**: sei fazer com autonomia
+- **Git e Github**: sei fazer com autonomia
+- **Scrum**: sei fazer com ajuda
 
 ### Soft Skills
 
@@ -392,46 +365,10 @@ Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD Postg
 
 ### Hard Skills
 
-<details>
-  <summary><b>Recursos de Banco de dados: sei fazer com autonomia</b></summary>
-    <br>
-  <ul>
-    <li>Normalização</li>
-    <Li>Relacionamento das tabelas</Li>
-    <Li>Constraints</Li>
-  </ul>
- </details>
-<details>
-  <summary><b>SQL: sei fazer com autonomia</b></summary>
-    <br>
-  <ul>
-    <li>DDL (Data Definition Language)</li>
-    <li>DML (Data Manipulation Language)</li>
-    <li>DCL (Data Control Language)</li>
-    <Li>Querys com joins e funções de agrupamento</Li>
-  </ul>
- </details>
- <details>
-  <summary><b>Administração do PostgreSQL: sei fazer com ajuda</b></summary>
-     <br>
-  <ul>
-    <li>Política de backup</li>
-    <li>Criação de usuário</li>
-    <Li>Definição de roles</Li>
-  </ul>
- </details>
-
-<details>
-  <summary><b>Scrum: sei fazer com autonomia</b></summary>
-  <ul>
-    </br>
-    <li>Compreensão dos princípios e papéis do Scrum.</li>
-   <li>Remoção de impedimentos</li>
-   <li>Comunicação e colaboração</li>
-   <li>Feedback e melhoria contínua</li>
-   <li>Habilidades de liderança e organização</li>
-  </ul>
- </details>
+- **SQL**: sei fazer com autonomia
+- - **Modelagem de dados**: sei fazer com autonomia
+- **PostgreSQL**: sei fazer com autonomia
+- **Scrum**: sei fazer com autonomia
 
 ### Soft Skills
 
@@ -566,27 +503,12 @@ Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu d
 
 ### Hard Skills
 
- <details>
-  <summary><b>PL/SQL: sei fazer com ajuda</b></summary>
-     <br>
-  <ul>
-    <li>Criar funções</li>
-    <li>Criar procedures</li>
-    <li>Criar triggers</li>
-    <Li>Criar packages</Li>
-  </ul>
- </details>
-
-   <details>
-  <summary><b>Views: sei fazer com autonomia</b></summary>
-     <br>
-  <ul>
-    <li>Estrutura e funcionamento de uma view</li>
-    <li>Utilização e vantagens</li>
-    <Li>Hierarquia de dados no oracle com connect_by</Li>
-  </ul>
- </details>
-
+- **Modelagem de dados**: sei fazer com autonomia
+- **PL/SQL**: sei fazer com ajuda
+- **Oracle autonomous database**: sei fazer com ajuda
+- **Java**: sei fazer com ajuda
+- **Spring boot**: sei fazer com ajuda
+ 
 ### Soft Skills
 
 - **Proatividade**: Utilizando uma tecnologia nova, o Autonomous Database da Oracle, precisei ser proativo em tomar a frente de aprender sobre a ferramenta e descobrir funcionalidades que ajudariam no controle da lógica do projeto. Essa soft skill me permitiu aprender muito e ver minha capacidade de tomar a frente de uma responsabilidade que era fundamental para o funcionamento do projeto.
@@ -717,34 +639,11 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 
 ### Hard Skills
 
-<details>
-  <summary><b>Java e Spring Boot: sei fazer com autonomia</b></summary>
-  <br>
-  <ul>
-    <li>API REST</li>
-    <li>Arquitetura MVC</li>
-    <li>ORM</li>
-  </ul>
-</details> 
-
-<details>
-  <summary><b>Devops: sei fazer com ajuda</b></summary>
-  <br>
-  <ul>
-    <li>Gitflow</li>
-    <li>CI/CD</li>
-    <li>Pipeline</li>
-  </ul>
-</details> 
-
-<details>
-  <summary><b>Testes automatizacos com JUnit: sei fazer com autonomia</b></summary>
-  <br>
-  <ul>
-    <li>Implementação</li>
-    <li>Tipos de testes</li>
-  </ul>
-</details> 
+- **Java**: sei fazer com autonomia
+- **Spring boot**: sei fazer com autonomia
+- **Oracle autonomous database**: sei fazer com autonomia
+- **Devops**: sei fazer com ajuda
+- **JUnit**: sei fazer com autonomia
 
 ### Soft Skills
 
@@ -883,45 +782,10 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 
 ### Hard Skills
 
-<details>
-  <summary><b>Python: sei fazer com autonomia</b></summary>
-  <br>
-  <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-  </ul>
-</details> 
-
-<details>
-  <summary><b>Flask: sei fazer com autonomia</b></summary>
-  <br>
-  <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-  </ul>
-</details> 
-
-<details>
-  <summary><b>Folium: sei fazer com autonomia</b></summary>
-  <br>
-  <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>MongoDB: sei fazer com ajuda</b></summary>
-  <br>
-  <ul>
-    <li>Consultas personalizadas</li>
-    <li>Criação de collections</li>
-    <li>Manipulação de documentos</li>
-  </ul>
-</details> 
+- **Python**: sei fazer com autonomia
+- **Flask**: sei fazer com autonomia
+- **MongoDB**: sei fazer com ajuda
+- **Folium**: sei fazer com ajuda
 
 ### Soft Skills
 
