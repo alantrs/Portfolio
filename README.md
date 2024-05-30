@@ -98,7 +98,6 @@ Por ser o primeiro projeto, dediquei meu tempo aos estudos e trabalhar em conjun
 
 ## Aprendizados efetivos
 
-Nesse projeto aprendi a introdução aos algoritmos com Python e noções de versionamento de código com git. Também aprendi a introdução de metodologias ágeis no desenvolvimento de software.
 <br>
 ### Hard Skills
 
@@ -194,8 +193,7 @@ Após validar nossa modelagem, procedi com a implementação física da nossa ba
 
 ## Aprendizados efetivos
 
-Aprendi a base para criar um banco de dados. Como iniciar uma modelagem de dados, definir cardinalidades e transformar o modelo conceitual em script SQL. Aprendi alguns comandos básicos para trabalhar com versionamento de código com Git.
-
+<br>
 ### Hard Skills
 
 - **SQL**: sei fazer com ajuda
@@ -361,8 +359,7 @@ CREATE TABLE vento (
 
 ## Aprendizados efetivos
 
-Como DBA, adquiri conhecimentos em modelagem de dados, arquitetura do SGBD PostgreSQL, e aprofundei meus conhecimentos em SQL incluindo comandos DDL, DML e DCL. Como Scrum Master, desenvolvi habilidades valiosas em liderança, facilitação do processo Scrum, remoção de impedimentos, comunicação, feedback e melhoria contínua.
-
+<br>
 ### Hard Skills
 
 - **SQL**: sei fazer com autonomia
@@ -497,11 +494,7 @@ Para facilitar a consulta e diminuir a complexidade para o backend, criei essa v
 
 ## Aprendizados efetivos
 
-Este projeto proporcionou a oportunidade de aprendizado sobre tópicos avançados em banco de dados. Durante o desenvolvimento, adquiri habilidades como a criação e execução de funções e procedimentos, o que me permitiu entender melhor a manipulação e gestão de dados.
-Tive a oportunidade de trabalhar com auditoria usando triggers, o que me deu uma visão mais profunda sobre a segurança e integridade dos dados. Além disso, a visualização de dados com views me permitiu entender como apresentar dados de uma maneira mais eficiente e eficaz.
-Aprofundei meus conhecimentos na linguagem PL/SQL da Oracle, o que me permitiu desenvolver soluções mais robustas e eficientes.
-
-
+<br>
 ### Hard Skills
 
 - **Modelagem de dados**: sei fazer com autonomia
