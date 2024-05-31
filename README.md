@@ -793,5 +793,5 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 
 - **Aprendizado Contínuo**: Busquei constantemente aprofundar meus conhecimentos em desenvolvimento web com Python e Flask, além de adquirir novos conhecimentos sobre MongoDB, uma tecnologia com a qual eu tinha pouca familiaridade. Dediquei-me a estudar e aprender continuamente para garantir que o backend da aplicação fosse eficiente, seguro e atendesse às necessidades do projeto.
 
-- **Responsabilidade**: Sendo o único desenvolvedor responsável pelo backend, precisei assumir a responsabilidade de garantir a entrega dos resultados dentro dos prazos estabelecidos. O backend era o núcleo da nossa aplicação, contendo todas as regras de negócio para gerar insights e disponibilizar endpoints para o frontend.
+- **Responsabilidade**: Sendo o único desenvolvedor responsável pelo backend, precisei assumir a responsabilidade de garantir a entrega dos resultados dentro dos prazos estabelecidos. O backend era uma parte muito importante da nossa aplicação, contendo todas as regras de negócio para gerar insights e disponibilizar endpoints para o frontend.
 
