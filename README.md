@@ -136,7 +136,7 @@ A solução consiste em uma aplicação desktop desenvolvida em Java, projetada 
 
 ## Tecnologias utilizadas
 
-- **Java**: Linguagem para desenvolvimento da aplicaçãoback-end.
+- **Java**: Linguagem para desenvolvimento da aplicação back-end.
 - **Java Swing**: Biblioteca de interface gráfica de usuário utilizada para criar interfaces gráficas.
 - **PostgreSQL**: Sistema de gerenciamento de banco de dados relacional para gerenciamento dos dados.
 
