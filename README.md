@@ -55,7 +55,7 @@ A solução desenvolvida foi um sistema web em Python utilizando Flask, o qual p
 Por ser o primeiro projeto, dediquei meu tempo aos estudos e trabalhar em conjunto com o time de desenvolvimento da equipe, atuando principalmente no backend utilizando python para tratar os dados e criar endpoints para acesso a eles. Atuei na construção de métodos para expor os dados de maneira clara e organizada.
 <br>
 <details>
-  <summary><b>Gráfico total de óbitos</b></summary>
+  <summary><b>Endpoint de total de óbitos</b></summary>
   <br>
   Uma funcionalidade que ajudei a desenvolver foi o endpoint para gerar um gráfico de totalidade de óbitos. O método gera um gráfico de linha mostrando o crescimento dos óbitos, realiza personalizações visuais, calcula estatísticas como o número máximo de óbitos e a letalidade, e renderiza essas informações em uma página web.
 
@@ -96,6 +96,62 @@ Por ser o primeiro projeto, dediquei meu tempo aos estudos e trabalhar em conjun
     ```
 </details>
 
+<details>
+  <summary><b>Endpoint de isolamento social</b></summary>
+  <br>
+  Outra funcionalidade que ajudei a desenvolver foi o endpoint para gerar um gráfico de isolamento social no Estado de São Paulo. Esse método filtra dados de isolamento social, calcula estatísticas relevantes, gera uma visualização gráfica e, finalmente, renderiza uma página web com essas informações.
+
+    ```python
+    
+        @app.route("/estado/isolamento-social", methods=['GET'])
+          def isola_main():
+              random.shuffle(palette)
+              form = Form()
+              mini = '2020-02-26'
+              maxi = datetime.now().strftime('%Y-%m-%d')
+              isola = pd.read_csv(url7,
+                                  dtype={'Município': 'category', 'codigo_ibge': 'category', 'Índice de Isolamento (%)': 'int8',
+                                         'Dia da Semana': 'category'})
+              isola['Data'] = pd.to_datetime(isola['Data'])
+              # Filtragem padrão para o main:
+              isola = isola[isola['Município'] == 'Estado De São Paulo']
+              final = (isola['Data'].max() + dt.timedelta(days=1)).strftime('%Y-%m-%d')
+              inicial = (isola['Data'].max() - dt.timedelta(days=15)).strftime("%Y-%m-%d")
+              filterdate = (isola['Data'] > inicial) & (isola['Data'] < final)
+              isola = isola.loc[filterdate]
+              flash_generate(isola)
+          
+              isomed = isola['Índice de Isolamento (%)'].mean()
+              isomed = "{:.2f}".format(isomed).replace('.', ',')
+              sem = {}
+              for value in isola['Dia da Semana']:
+                  sem[value] = isola[isola['Dia da Semana'] == value]['Índice de Isolamento (%)'].sum()
+              semax = max(sem, key=sem.get)
+              semin = min(sem, key=sem.get)
+              isodeal = isola[isola['Índice de Isolamento (%)'] >= 50].shape[0]
+          
+              # Histórico do indice de isolamento no estado de SP
+              fig1 = px.bar(isola, orientation='v', y='Índice de Isolamento (%)', x='Data', color='Dia da Semana',
+                            template='xgridoff', title='<b>Índice de Isolamento Social do Estado</b>',
+                            color_discrete_sequence=palette)
+              fig1.update_yaxes(showgrid=True, gridcolor='rgba(0, 0, 0, 0.2)', tickmode="linear", tick0=0, dtick=10),
+              fig1.update_xaxes(tickangle=-45,
+                                tickvals=pd.date_range(isola['Data'].min().strftime('%Y-%m-%d'),
+                                                       isola['Data'].max().strftime('%Y-%m-%d'), freq='D')),
+              fig1.update_layout(autosize=True, height=700, margin=dict(t=85, b=90, l=80, r=50),
+                                 xaxis_title='', yaxis_title="Isolamento Social (%)",
+                                 plot_bgcolor='#ffffff', paper_bgcolor='#ffffff',
+                                 title_font=dict(size=32, color='#dc770d', family="Helvetica, neue"),
+                                 font=dict(size=18, color='#dc770d', family="Helvetica, neue"),
+                                 xaxis_tickformat='%b %d,<br>%y', xaxis_hoverformat='%b %d, %Y')
+              graf1 = fig1.to_html(full_html=False)
+          
+              return render_template('estados.html', form=form, min=mini, max=maxi,
+                                     graf1_isola=graf1, painel1_isola=isomed, painel2_isola=semax,
+                                     painel3_isola=semin, painel4_isola=isodeal)
+                               
+    ```
+</details>
 
 
 ## Aprendizados efetivos
