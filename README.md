@@ -97,7 +97,7 @@ Por ser o primeiro projeto, dediquei meu tempo aos estudos e trabalhar em conjun
 
 
 ## Aprendizados efetivos
-<br>
+
 
 ### Hard Skills
 
@@ -192,7 +192,6 @@ Após validar nossa modelagem, procedi com a implementação física da nossa ba
  </details>
 
 ## Aprendizados efetivos
-<br>
 
 ### Hard Skills
 
@@ -358,7 +357,6 @@ CREATE TABLE vento (
 
 
 ## Aprendizados efetivos
-<br>
 
 ### Hard Skills
 
@@ -493,7 +491,7 @@ Para facilitar a consulta e diminuir a complexidade para o backend, criei essa v
 </details>
 
 ## Aprendizados efetivos
-<br>
+
 
 ### Hard Skills
 
@@ -630,7 +628,7 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 </details>
 
 ## Aprendizados efetivos
-<br>
+
 
 ### Hard Skills
 
@@ -774,7 +772,7 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 </details>  
 
 ## Aprendizados efetivos
-<br>
+
 
 ### Hard Skills
 
