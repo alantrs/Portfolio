@@ -24,7 +24,9 @@
 - SQL: Para modelagem, criação e manipulação de Banco de Dados.
 - Banco de dados: Gerenciamento e administração de Oracle e PostgreSQL.
 
-# Projeto 1: 2021-2
+# Projeto 1: 2021-2 
+
+***Sistema de visualização de dados da covid-19 no estado de São Paulo.***
 
 ### Empresa parceira  
 
@@ -115,6 +117,8 @@ Por ser o primeiro projeto, dediquei meu tempo aos estudos e trabalhar em conjun
 <hr>
     
 # Projeto 2: 2022-1
+
+***Sistema de gerenciamento de clientes.***
 
 ### Empresa parceira  
 
@@ -210,6 +214,8 @@ Após validar nossa modelagem, procedi com a implementação física da nossa ba
 <hr>
 
 # Projeto 3: 2022-2
+
+***Sistema de visualização de dados meteorológicos***
 
 ### Empresa parceira  
 
@@ -376,6 +382,8 @@ CREATE TABLE vento (
 
 # Projeto 4: 2023-1
 
+***Sistema de controle de configuração de aeronaves***
+
 ### Empresa parceira
 
 <p align="center">
@@ -510,6 +518,8 @@ Para facilitar a consulta e diminuir a complexidade para o backend, criei essa v
 <hr>
 
 # Projeto 5: 2023-2
+
+***Sistema de análise e gestão de restaurantes***
 
 ### Empresa parceira
 <p align="center">
@@ -650,6 +660,8 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 
 
 # Projeto 6: 2024-1
+
+***Sistema de análise de sentimento por geolocalização***
 
 ### Empresa parceira
 
