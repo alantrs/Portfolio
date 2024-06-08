@@ -55,7 +55,7 @@ Por ser o primeiro projeto, dediquei meu tempo aos estudos e trabalhar em conjun
 <details>
   <summary><b>Gráfico total de óbitos</b></summary>
   <br>
-  Uma funcionalidade que ajudei a desenvolver foi o endpoint para gerar um gráfico de totalidade de óbitos. O método gera um gráfico de linha mostrando o crescimento dos óbitos, realiza personalizações visuais, calcula estatísticas como o número máximo de óbitos e a letalidade, e renderiza essas informações em uma página web. A finalidade é proporcionar uma representação visual e interativa dos dados, permitindo aos usuários compreenderem a situação da pandemia na região.
+  Uma funcionalidade que ajudei a desenvolver foi o endpoint para gerar um gráfico de totalidade de óbitos. O método gera um gráfico de linha mostrando o crescimento dos óbitos, realiza personalizações visuais, calcula estatísticas como o número máximo de óbitos e a letalidade, e renderiza essas informações em uma página web.
 
     ```python
     
@@ -97,7 +97,6 @@ Por ser o primeiro projeto, dediquei meu tempo aos estudos e trabalhar em conjun
 
 
 ## Aprendizados efetivos
-
 <br>
 
 ### Hard Skills
@@ -193,7 +192,6 @@ Após validar nossa modelagem, procedi com a implementação física da nossa ba
  </details>
 
 ## Aprendizados efetivos
-
 <br>
 
 ### Hard Skills
@@ -360,7 +358,6 @@ CREATE TABLE vento (
 
 
 ## Aprendizados efetivos
-
 <br>
 
 ### Hard Skills
@@ -496,7 +493,6 @@ Para facilitar a consulta e diminuir a complexidade para o backend, criei essa v
 </details>
 
 ## Aprendizados efetivos
-
 <br>
 
 ### Hard Skills
@@ -634,7 +630,6 @@ Fiquei responsável pela implementação de testes unitários no backend. Neste 
 </details>
 
 ## Aprendizados efetivos
-
 <br>
 
 ### Hard Skills
@@ -779,7 +774,6 @@ Neste projeto, assumi um papel central no desenvolvimento do backend utilizando 
 </details>  
 
 ## Aprendizados efetivos
-
 <br>
 
 ### Hard Skills
